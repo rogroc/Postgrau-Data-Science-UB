@@ -7,6 +7,15 @@ The program is specially designed for students with a background in computer sci
 
 We will require to follow lessons and complete class exercises using personal laptops. You will not be able to complete all your assignments in class if you rely solely on desktop equipment at home.
 
+## Instructors
+
+Laura Igual, Petia Radeva, Francesc Dantí, Oriol Pujol, Jordi Vitrià, Lluis Garrido,
+Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, Josep Perelló, Montse Guillen.
+`
+<p align="center"> 
+<img src="images/llibre.jpg">
+<img src="images/llibre.jpg">
+</p>
 
 ## Book Companion
 
