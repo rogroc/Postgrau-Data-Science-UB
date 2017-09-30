@@ -12,9 +12,10 @@ We will require to follow lessons and complete class exercises using personal la
 Laura Igual, Petia Radeva, Francesc Dantí, Oriol Pujol, Jordi Vitrià, Lluis Garrido,
 Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, Josep Perelló, Montse Guillen.
 `
+## Collaborations
+
 <p align="center"> 
-<img src="images/llibre.jpg">
-<img src="images/llibre.jpg">
+<img src="images/collab.png">
 </p>
 
 ## Book Companion
