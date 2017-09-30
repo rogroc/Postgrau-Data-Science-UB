@@ -18,56 +18,58 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 <img src="images/collab.png">
 </p>
 
+## Calendar
+
 + dt. 3 d’oct. 2017	Introduction, Jordi Vitrià
 + dj. 5 d’oct. 2017	Python, Jordi Vitrià
 + dt. 10 d’oct. 2017	Software Carpentry, Eloi Puertas
 + dt. 17 d’oct. 2017	Software Carpentry, Eloi Puertas
-dj. 19 d’oct. 2017	Kick-Off Project + MasterClass1 - KING
-dt. 24 d’oct. 2017	Data Gathering, Oriol Pujol
-dj. 26 d’oct. 2017	Data Science Toolbox, Eloi Puertas
-dt. 31 d’oct. 2017	Data Gathering, Oriol Pujol
-dj. 2 de nov. 2017	Data Science Toolbox, Eloi Puertas
-dt. 7 de nov. 2017	Data Cleaning, Sergio Escalera
-dj. 9 de nov. 2017	Data Cleaning, Sergio Escalera
-dt. 14 de nov. 2017	-------- CAPSTONE PROJECT ---------
-dj. 16 de nov. 2017	----- MasterClass Satellogic ----
-dt. 21 de nov. 2017	Computational Statistics, Petia Radeva
-dj. 23 de nov. 2017	Computational Statistics, Petia Radeva
-dt. 28 de nov. 2017	Statistical Estimation, Jordi Vitrià
-dj. 30 de nov. 2017	Statistical Estimation, Jordi Vitrià
-dl.  4 de des. 2017	---- MasterClass SOCIALPOINT ----
-dt. 12 de des. 2017	Regression, Laura Igual
-dj. 14 de des. 2017	Regression, Laura Igual
-dt. 19 de des. 2017	Montse Guillem
-dj. 21 de des. 2017	Montse Guillem
-dt.  9 de gen. 2018	Bayesian Estimation, Jordi Vitrià
-dj. 11 de gen. 2018	Supervised Learning, Oriol Pujol
-dt. 16 de gen. 2018	Supervised Learning, Oriol Pujol
-dj. 18 de gen. 2018	Supervised Learning, Oriol Pujol
-dt. 23 de gen. 2018	Supervised Learning, Oriol Pujol
-dj. 25 de gen. 2018	Unsupervised Learning, Petia Radeva
-dt. 30 de gen. 2018	Unsupervised Learning, Petia Radeva
-dj. 1 de febr. 2018	----- CapstoneProject -----
-dt. 6 de febr. 2018	Recommenders, Santi Seguí
-dj. 8 de febr. 2018	Recommenders, Santi Seguí
-dt. 13 de febr. 2018	Multicore computing, Lluis Garrido
-dj. 15 de febr. 2018	Multicore computing, Lluis Garrido
-dt. 20 de febr. 2018	Cloud Computing, Francesc Dantí
-dj. 22 de febr. 2018	Big Data Analytics: Spark, Jordi Nin
-dt. 27 de febr. 2018	-----MasterClass BBVA Data&Analytics ------
-dj. 1 de març 2018	Big Data Analytics: Spark, Jordi Nin
-dt. 6 de març 2018	Graph Analysis, Laura Igual
-dj. 8 de març 2018	Big Data Analytics: Spark, Jordi Nin
-dt. 13 de març 2018	Graph Analysis, Laura Igual
-dj. 15 de març 2018	Complex Networks, Albert Diaz-Gilera
-dt. 20 de març 2018	Data Crowdsourcing, Josep Perello
-dj. 22 de març 2018	---- MasterClass KernelAnalytics ----
-dt. 3 d’abr. 2018	Visualization, Santi Seguí
-dj. 5 d’abr. 2018	Visualization, Santi Seguí
-dt. 10 d’abr. 2018	DEEP LEARNING
-dj. 12 d’abr. 2018	DEEP LEARNING
-dt. 17 d’abr. 2018	---- Capston Project ----
-dj. 24 de maig 2018	Capston Project ----
++ dj. 19 d’oct. 2017	Kick-Off Project + MasterClass1 - KING
++ dt. 24 d’oct. 2017	Data Gathering, Oriol Pujol
++ dj. 26 d’oct. 2017	Data Science Toolbox, Eloi Puertas
++ dt. 31 d’oct. 2017	Data Gathering, Oriol Pujol
++ dj. 2 de nov. 2017	Data Science Toolbox, Eloi Puertas
++ dt. 7 de nov. 2017	Data Cleaning, Sergio Escalera
++ dj. 9 de nov. 2017	Data Cleaning, Sergio Escalera
++ dt. 14 de nov. 2017	-------- CAPSTONE PROJECT ---------
++ dj. 16 de nov. 2017	----- MasterClass Satellogic ----
++ dt. 21 de nov. 2017	Computational Statistics, Petia Radeva
++ dj. 23 de nov. 2017	Computational Statistics, Petia Radeva
++ dt. 28 de nov. 2017	Statistical Estimation, Jordi Vitrià
++ dj. 30 de nov. 2017	Statistical Estimation, Jordi Vitrià
++ dl.  4 de des. 2017	---- MasterClass SOCIALPOINT ----
++ dt. 12 de des. 2017	Regression, Laura Igual
++ dj. 14 de des. 2017	Regression, Laura Igual
++ dt. 19 de des. 2017	Montse Guillem
++ dj. 21 de des. 2017	Montse Guillem
++ dt.  9 de gen. 2018	Bayesian Estimation, Jordi Vitrià
++ dj. 11 de gen. 2018	Supervised Learning, Oriol Pujol
++ dt. 16 de gen. 2018	Supervised Learning, Oriol Pujol
++ dj. 18 de gen. 2018	Supervised Learning, Oriol Pujol
++ dt. 23 de gen. 2018	Supervised Learning, Oriol Pujol
++ dj. 25 de gen. 2018	Unsupervised Learning, Petia Radeva
++ dt. 30 de gen. 2018	Unsupervised Learning, Petia Radeva
++ dj. 1 de febr. 2018	----- CapstoneProject -----
++ dt. 6 de febr. 2018	Recommenders, Santi Seguí
++ dj. 8 de febr. 2018	Recommenders, Santi Seguí
++ dt. 13 de febr. 2018	Multicore computing, Lluis Garrido
++ dj. 15 de febr. 2018	Multicore computing, Lluis Garrido
++ dt. 20 de febr. 2018	Cloud Computing, Francesc Dantí
++ dj. 22 de febr. 2018	Big Data Analytics: Spark, Jordi Nin
++ dt. 27 de febr. 2018	-----MasterClass BBVA Data&Analytics ------
++ dj. 1 de març 2018	Big Data Analytics: Spark, Jordi Nin
++ dt. 6 de març 2018	Graph Analysis, Laura Igual
++ dj. 8 de març 2018	Big Data Analytics: Spark, Jordi Nin
++ dt. 13 de març 2018	Graph Analysis, Laura Igual
++ dj. 15 de març 2018	Complex Networks, Albert Diaz-Gilera
++ dt. 20 de març 2018	Data Crowdsourcing, Josep Perello
++ dj. 22 de març 2018	---- MasterClass KernelAnalytics ----
++ dt. 3 d’abr. 2018	Visualization, Santi Seguí
++ dj. 5 d’abr. 2018	Visualization, Santi Seguí
++ dt. 10 d’abr. 2018	DEEP LEARNING
++ dj. 12 d’abr. 2018	DEEP LEARNING
++ dt. 17 d’abr. 2018	---- Capston Project ----
++ dj. 24 de maig 2018	Capston Project ----
 
 
 ## Book Companion
