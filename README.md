@@ -20,6 +20,12 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 
 ## Calendar
 
+| Date        | Session           | 
+| ------------- | ------------- | 
+| dt. 3 d’oct. 2017      | Introduction, Jordi Vitrià | 
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |   
+
 + dt. 3 d’oct. 2017	Introduction, Jordi Vitrià
 + dj. 5 d’oct. 2017	Python, Jordi Vitrià
 + dt. 10 d’oct. 2017	Software Carpentry, Eloi Puertas
