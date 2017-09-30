@@ -7,8 +7,7 @@ Parts of the presented materials in the postgraduate course of Data Science and 
 
 ![alt text](images/llibre.jpg "")
 
-<p align="center">
-  <img images/llibre.jpg>
+<p align="center"> 
+<img src="images/llibre.jpg">
 </p>
-
 
