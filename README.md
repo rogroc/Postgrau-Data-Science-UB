@@ -76,7 +76,7 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 
 ## Book Companion
 
-Parts of the presented materials in the postgraduate course of Data Science and Big Data from Universitat de Barcelona have been used in the recently published "Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications" book. This book is accompanied by a set of IPython Notebooks containing all the codes necessary to solve the practical cases of the book. The Notebooks can be found on the following GitHub repository: https://github.com/DataScienceUB/introductiondatascience-python-book. 
+Parts of the presented materials in the postgraduate course of Data Science and Big Data from Universitat de Barcelona have been used in the recently published ("Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications")[http://www.springer.com/gp/book/9783319500164] book. This book is accompanied by a set of IPython Notebooks containing all the codes necessary to solve the practical cases of the book. The Notebooks can be found on the following GitHub repository: https://github.com/DataScienceUB/introductiondatascience-python-book. 
 
 <p align="center"> 
 <img src="images/llibre.jpg">
