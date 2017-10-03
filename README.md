@@ -73,9 +73,10 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dj. 22 de març 2018	|  MasterClass KernelAnalytics  |
 | dt. 3 d’abr. 2018	| Visualization, Santi Seguí |
 | dj. 5 d’abr. 2018	| Visualization, Santi Seguí |
-| dt. 10 d’abr. 2018	| Deep Learning | Jordi Vitrià
-| dj. 12 d’abr. 2018	| Deep Learning | Jordi Vitrià
+| dt. 10 d’abr. 2018	| Deep Learning | Jordi Vitrià |
+| dj. 12 d’abr. 2018	| Deep Learning | Jordi Vitrià |
 | dt. 17 d’abr. 2018	| Capstone Project | 
+| 	|  MasterClass LetGo  |
 | dj. 24 de maig 2018	| Capstone Project  |
 
 
