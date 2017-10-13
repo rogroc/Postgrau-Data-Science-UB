@@ -45,10 +45,10 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 28 de nov. 2017	| Statistical Estimation, Jordi Vitrià |
 | dj. 30 de nov. 2017	| Statistical Estimation, Jordi Vitrià |
 | dl.  4 de des. 2017	| MasterClass SOCIALPOINT  |
-| dt. 12 de des. 2017	| Regression, Laura Igual |
-| dj. 14 de des. 2017	| Regression, Laura Igual |
-| dt. 19 de des. 2017	| Montse Guillen |
-| dj. 21 de des. 2017	| Montse Guillen |
+| dt. 12 de des. 2017	| Montse Guillen |
+| dj. 14 de des. 2017	| Montse Guillen |
+| dt. 19 de des. 2017	| Regression, Laura Igual |
+| dj. 21 de des. 2017	| Regression, Laura Igual |
 | dt.  9 de gen. 2018	| Bayesian Estimation, Jordi Vitrià |
 | dj. 11 de gen. 2018	| Supervised Learning, Oriol Pujol |
 | dt. 16 de gen. 2018	| Supervised Learning, Oriol Pujol |
@@ -57,8 +57,8 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dj. 25 de gen. 2018	| Unsupervised Learning, Petia Radeva |
 | dt. 30 de gen. 2018	| Unsupervised Learning, Petia Radeva |
 | dj. 1 de febr. 2018	| Capstone Project  |
-|  dt. 6 de febr. 2018	| Recommenders, Santi Seguí |
-|  dj. 8 de febr. 2018	| Recommenders, Santi Seguí |
+| dt. 6 de febr. 2018	| Recommenders, Santi Seguí |
+| dj. 8 de febr. 2018	| Recommenders, Santi Seguí |
 | dt. 13 de febr. 2018	| Multicore computing, Lluis Garrido |
 | dj. 15 de febr. 2018	| Multicore computing, Lluis Garrido |
 | dt. 20 de febr. 2018	| Cloud Computing, Francesc Dantí |
