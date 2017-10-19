@@ -76,7 +76,7 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 10 d’abr. 2018	| Deep Learning, Jordi Vitrià |
 | dj. 12 d’abr. 2018	| Deep Learning, Jordi Vitrià |
 | dt. 17 d’abr. 2018	| Capstone Project | 
-| 	|  MasterClass LetGo  |
+| dj. 19 d'abr. 2018	|  MasterClass LetGo  |
 | dj. 24 de maig 2018	| Capstone Project  |
 
 
