@@ -50,10 +50,10 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 19 de des. 2017	| Regression, Laura Igual |
 | dj. 21 de des. 2017	| Regression, Laura Igual |
 | dt.  9 de gen. 2018	| Bayesian Estimation, Jordi Vitrià |
-| dj. 11 de gen. 2018	| Supervised Learning, Oriol Pujol |
 | dt. 16 de gen. 2018	| Supervised Learning, Oriol Pujol |
 | dj. 18 de gen. 2018	| Supervised Learning, Oriol Pujol |
 | dt. 23 de gen. 2018	| Supervised Learning, Oriol Pujol |
+| dm. 24 de gen. 2018	| Supervised Learning, Oriol Pujol |
 | dj. 25 de gen. 2018	| Unsupervised Learning, Petia Radeva |
 | dt. 30 de gen. 2018	| Unsupervised Learning, Petia Radeva |
 | dj. 1 de febr. 2018	| Capstone Project  |
