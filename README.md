@@ -37,11 +37,12 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 31 d’oct. 2017	| Data Gathering, Oriol Pujol |
 | dj. 2 de nov. 2017	| Data Science Toolbox, Eloi Puertas |
 | dt. 7 de nov. 2017	| Data Cleaning, Sergio Escalera |
-| dj. 9 de nov. 2017	| Data Cleaning, Sergio Escalera |
+| dj. 9 de nov. 2017	| Clase Suspendida |
 | dt. 14 de nov. 2017	| CAPSTONE PROJECT  |
 | dj. 16 de nov. 2017	| MasterClass Satellogic  |
 | dt. 21 de nov. 2017	| Computational Statistics, Petia Radeva |
 | dj. 23 de nov. 2017	| Computational Statistics, Petia Radeva |
+| dt. 27 de nov. 2017	| Data Cleaning, Sergio Escalera |
 | dt. 28 de nov. 2017	| Statistical Estimation, Jordi Vitrià |
 | dj. 30 de nov. 2017	| Statistical Estimation, Jordi Vitrià |
 | dl.  4 de des. 2017	| MasterClass SOCIALPOINT  |
