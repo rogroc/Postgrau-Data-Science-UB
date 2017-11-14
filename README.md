@@ -23,6 +23,10 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 <img src="images/collab.png">
 </p>
 
+## Link to enter group members
+
+https://goo.gl/forms/YeKoljwmCp441jT52
+
 ## Calendar
 
 | Date        | Session           | 
