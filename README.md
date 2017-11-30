@@ -53,7 +53,7 @@ https://goo.gl/forms/YeKoljwmCp441jT52
 | dt. 12 de des. 2017	| Montse Guillen |
 | dj. 14 de des. 2017	| Montse Guillen |
 | dt. 19 de des. 2017	| Regression, Laura Igual |
-| dj. 20 de des. 2017	| Regression, Laura Igual |
+| dm. 20 de des. 2017	| Regression, Laura Igual |
 | dt.  9 de gen. 2018	| Bayesian Estimation, Jordi Vitrià |
 | dt. 16 de gen. 2018	| Supervised Learning, Oriol Pujol |
 | dj. 18 de gen. 2018	| Supervised Learning, Oriol Pujol |
