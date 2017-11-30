@@ -1,7 +1,7 @@
 
 # Regression
 
-*Regression analysis* can help to understand the data behavior, to predict data values (continuous or discrete), and to find important predictors (sparse models).
+*Regression analysis* can help to understand data behavior, to predict data values (continuous or discrete), and to find important predictors.
 
 In this notebook we present four different regression models: Simple linear regression, Multiple linear regression, Polynomial regression and Logistic regression. 
 We evaluate the analysis results qualitatively by means of Seaborn visualization tools and quantitatively by means Scikit-learn, which provides validation measures, as well as other toolboxes.
