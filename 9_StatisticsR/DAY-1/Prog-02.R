@@ -6,8 +6,6 @@ library(XML)
 
 html <- getURL("http://www.ub.edu/datascience/postgraduate/", followlocation = TRUE)
 
-html <- getURL("http://www.lavanguardia.com/alminuto", followlocation = TRUE)
-
 
 # Es importante hacer un "parse" del contenido html
 doc = htmlParse(html, asText=TRUE)
@@ -35,7 +33,8 @@ myCorpus = tm_map(myCorpus, removePunctuation)
 myCorpus = tm_map(myCorpus, removeNumbers)
 
 # Eliminamos algunas palabras sin significado propio (artículos,..)
-myCorpus = tm_map(myCorpus,removeWords, stopwords('spanish'))
+myCorpus = tm_map(myCorpus,removeWords, stopwords('english'))
+myCorpus= tm_map(myCorpus,removeWords, c('will'))
 
 # Creamos la matriz de términos
 myDTM <- DocumentTermMatrix(myCorpus)
