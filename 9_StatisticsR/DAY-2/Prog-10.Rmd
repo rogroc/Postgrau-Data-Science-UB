@@ -1,0 +1,24 @@
+---
+title: "R Notebook Prediction summary"
+output: html_notebook
+---
+
+
+```{r}
+load("Prog-09-allobjects.Rdata")
+```
+
+Summarize the acuracy in the training data set
+
+```{r}
+Pred<-rbind(logistic_accuracy, Tree_Accuracy, forest_Accuracy, svm_Accuracy)
+knitr::kable(Pred,digits=2, caption="Prediction in Training data")
+```
+Summarize the acuracy in the test data set
+
+```{r}
+#Pred<-rbind(logistic_accuracy.test, Tree_Accuracy.t, Forest_Accuracy.t, svm_Accuracy.t)
+Pred<-rbind(logistic_accuracy.test, Tree_Accuracy.t, Tree_Accuracy.t, svm_Accuracy.t)
+knitr::kable(Pred,digits=2, caption="Prediction in Test data")
+```
+

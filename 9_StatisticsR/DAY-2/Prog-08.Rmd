@@ -1,0 +1,134 @@
+---
+title: 'Simple predictive models: Linear and logistic regression'
+author: Montserrat Guillen
+date: '`r format(Sys.Date(),"%e de %B %Y")`'
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  html_document:
+    number_sections: yes
+    toc: yes
+    toc_depth: 2
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load_libraries, include=FALSE}
+library(knitr)
+library(ggplot2)
+```
+
+
+```{r lectura, echo=FALSE}
+# read data
+#setwd("..")
+mydata <- read.csv2("bank-additional-full.csv", header=TRUE, sep=";", dec=".")
+n.var <- names(mydata)
+```
+
+
+We have previously analysed the data. Just recall that the data contain `r format(nrow(mydata), digits=2)` cases and
+  `r format(ncol(mydata), digits=2)` variables. 
+The variable names are: `r toString(n.var)`. 
+
+****
+# Linear regression
+****
+We will study the duration of the telephone call as a function of age.
+
+## Linear model (quantitative regressors)
+
+We introduce two variables: **age** and **euribor.3m**.
+
+```{r}
+# Model estimation
+attach(mydata)
+
+Model.1.1<- lm(duration~age+ euribor3m, data=mydata )
+summary(Model.1.1)
+qplot(euribor3m,duration, data = mydata,geom = c("smooth", "point"))
+qplot(age,duration, data = mydata,geom = c("smooth", "point"))
+
+
+```
+
+<p style="color:rgb(120, 120, 120);">
+The goodness-of-fit coefficient is  `r summary(Model.1.1)$r.squared
+` <br>
+
+## Linear model (quantitative and qualitative regressors)
+
+We now also include **month**, **day_of_week** and **contact**
+```{r}
+monthR=relevel(month, ref = 'mar')
+day_of_weekR=relevel(day_of_week, ref = 'mon')
+contactR=relevel(contact, ref = 'telephone')
+
+Model.1.2<- lm(duration~age+ euribor3m+factor(monthR)+factor(day_of_weekR)+factor(contactR), data=mydata )
+summary(Model.1.2)
+```
+
+<p style="color:rgb(120, 120, 120);">
+The goodness-of-fit coefficient is in the first model `r format(summary(Model.1.1)$adj.r.squared, digits=2)` and 
+in the second model `r format(summary(Model.1.2)$adj.r.squared, digits=2)`.   <br>
+
+
+## Prediction
+Assume we have a new observation and want to predict the duration.
+
+```{r}
+newdata=data.frame(age=30, euribor3m=1.0, monthR='jun', day_of_weekR='fri', contactR='cellular')
+predict(Model.1.1, newdata)
+predict(Model.1.2, newdata)
+
+```
+
+****
+# Logistic regression model
+****
+
+## Estimation of the model 
+
+We estimate the model for the dependent variable **y** = **Term Diposit**
+```{r}
+Model.2.1=glm(y~age+euribor3m, family=binomial)
+summary(Model.2.1)
+```
+
+## Prediction with this model
+
+``` {r}
+predict(Model.2.1, newdata, type="response")
+```
+The prediction for that custmer and the logistic model is `r format(predict(Model.2.1, newdata, type="response"), digits=2)`.
+
+## Improve the model
+We can improve the model now with more information
+
+``` {r}
+Model.2.2=glm(y~age+euribor3m+factor(day_of_weekR), family=binomial)
+summary(Model.2.2)
+```
+The Akaike Information Criterion (AIC) in the first model was `r format(Model.2.1$aic, digits=2)` 
+ans now it is `r format(Model.2.2$aic, digits=2)`.
+
+
+## ROC curve
+
+Predictive performance
+
+```{r}
+#install.packages("pROC")
+library(pROC)
+prob=predict(Model.2.2,type=c("response"))
+mydata$prob=prob
+g=roc(y,prob, data=mydata)
+plot(g)
+auc(g)
+````
+The AUROC is `r format(auc(g), digits=2)`.
