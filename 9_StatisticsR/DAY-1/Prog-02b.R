@@ -32,11 +32,11 @@ b=c(3,4,5)
 #
 # You can run in batch mode
 #
- source(“prog2.R”)
+ source("Prog-01a.R")
 #
 #You can change  your working directory
 #
- setwd(‘c\\project-2’)
+ setwd("c\\project-2")
 #
 #
 # Data structures: vectors
@@ -69,7 +69,7 @@ vec1 = c(1,4,6,8,10)
       y = c(19,20,21), z = c(10,9,7))
    mean(t$z)
  mean(t[["z"]])
- L = list(one=“a”, two=c(1,2), five=seq(0, 1,length=5))
+ L = list(one="a", two=c(1,2), five=seq(0, 1,length=5))
  names(L)
  L$two[2]
 
@@ -84,7 +84,7 @@ vec1 = c(1,4,6,8,10)
 # Reading and writing data files
 #
 write.table(t, file="tst0.txt", row.names=FALSE)
-write.csv(t, file=“file1.csv”,  sep=‘;’,  dec=‘,’)
+write.csv(t, file="file1.csv",  sep=";",  dec=",")
 read.table(file="tst0.txt", header=TRUE)
 
 #
@@ -98,9 +98,9 @@ read.table(file="tst0.txt", header=TRUE)
 #
 # Characters and dates
 #
-as.date
-as.character
-as.numeric
+# as.date
+# as.character
+# as.numeric
  date1=strptime( c("20100225230000","20100226000000", "20100226010000"),format="%Y%m%d%H%M%S")
 
 
@@ -116,19 +116,19 @@ as.numeric
  a=c(1,2)
  rep(a, times=3)
 
- z<- array(1:24, dim=c(2,3,4)))
+ z<- array(1:24, dim=c(2,3,4))
  z
  dim(z)
 
 #
 #Factors   (Be careful!!!!!!)
 #
- sex=c(‘M’, ‘W’, ‘W’, ‘W’, ‘W’, ‘M’, ‘M’)
+ sex=c("M", "W", "W", "W", "W", "M", "M")
  sex=factor(sex)
  sex
  levels(sex)
  age=c(19, 20, 18, 18, 20, 21, 22)
- mean(age[sex==‘W’])
+ mean(age[sex=="W"])
 
 
 #######################################################################34
