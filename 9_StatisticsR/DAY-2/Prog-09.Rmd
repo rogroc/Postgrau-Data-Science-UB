@@ -1,0 +1,349 @@
+---
+title: 'R Notebook: Advanced methods'
+author: "Montserrat Guillen"
+date: "2017"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+    toc: yes
+  word_document:
+    toc: yes
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+
+# Introduction
+
+In this document we do a more advanced Data Analysis linked to the article by S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014. The two datasets ontain similar information, but not exactly the same.. Here we will analyse the smaller data set (called **bank.csv**). The file can be downloaded from: 
+https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+or (for this course)
+
+http://www.ub.edu/rfa/docs/DATA/bank.csv
+
+We will see logistic regression, decision tree, random forest and svm. We could also try Bayesian networks and neural networks.
+
+# Reading the data
+
+```{r}
+getwd()
+bank<-read.csv("bank.csv",header=T,sep=";", dec=".")
+```
+## Training and test data sets
+
+We try to build a model with dividing training data and test data set. 
+We divide 75% of whole bank data set as training data, and rest 25% of bank data set.
+
+```{r}
+set.seed(123456789)
+random<-sample(1:nrow(bank))
+num.bank.training<-as.integer(0.75*length(random))
+bank.indices<-random[1:num.bank.training]
+train<-bank[bank.indices,]
+testing.indices<-random[(num.bank.training+1):length(random)]
+testing.set<-bank[testing.indices,]
+```
+
+# Logistic regression
+
+## Full model
+
+We estimate the full model
+```{r}
+
+logis<-glm(y ~ ., data=train,family=binomial)
+summary(logis)
+plot(logis)
+plot(logis,which=6)
+
+```
+## Boxplots
+
+Boxplot for dependent variable -> however, since y is categorical variable, no need to transformed
+```{r}
+
+boxplot(train[,1:(ncol(bank)-1)])
+
+bank1<-train
+bank1$dffits<-0
+bank1$dffits<-dffits(logis)
+bank2<-bank1[!bank1$dffits>2*sqrt(ncol(bank)/nrow(bank)),]
+
+bank1$dfitts<-NULL
+bank2$dfitts<-NULL
+bank1$out<-NULL
+bank2$out<-NULL
+
+        
+             
+```
+
+## Outliers
+
+We remove the observations 1676, 52, 1904
+ to remove influential outliers
+```{r}
+
+logit<-glm(y~.,data=bank2,family=binomial)
+summary(logit)
+plot(logit)
+
+plot(logit,which=4)
+library("car")
+outlierTest(logit)    
+
+```
+
+## We run a new model
+
+```{r}
+bank3<-bank2[-c(1676, 52, 1904),]
+
+logit.2<-glm(y~factor(contact) + factor(month) + duration +  balance + previous + factor(loan)+ factor(default) ,data=bank3,family=binomial)
+summary(logit.2)
+plot(logit.2,which=6)
+plot(logit.2)
+```
+Check multicollinearity and variable selection
+```{r}
+table(bank3$y)
+library("stats")
+library("MASS")
+stepAIC(logit.2,k=2)
+```
+From AIC test, the best model would be glm(formula = y ~ factor(contact) + factor(month) + duration + 
+    balance + previous, family = binomial, data = bank3)
+
+
+```{r}
+logit.aic<- glm(formula = y ~ factor(contact) + factor(month) + duration + 
+    balance + previous, family = binomial, data = bank3)
+
+summary(logit.aic)
+
+plot(logit.aic)
+
+```
+
+If we use BIC, the function is  stepAIC(logit.2,k=log(length(bank3[,1])))
+
+
+```{r}
+stepAIC(logit.2,k=log(length(bank3[,1])))
+
+```
+From BIC test the best model would be 
+ glm(formula = y ~duration, family = binomial, data = bank3)
+```{r}
+logit.bic<-glm(formula = y ~duration, family = binomial, data = bank3)
+
+summary(logit.bic)
+plot(logit.bic)
+```
+
+## Predictive accuracy calculation
+Let's do the predictions now:
+
+
+
+```{r}
+prediction <- data.frame(predict(logit.bic,bank3,type="response"))
+prediction[prediction<0.5]=0
+prediction[prediction>=0.5]=1
+predictions <- data.frame(Prediction = as.numeric(prediction[,1]),Actual = as.numeric(bank3$y)-1)
+predictions$Correct <- (predictions$Actual == predictions$Prediction)
+logistic_accuracy<-table(predictions$Correct)/length(predictions$Correct)*100
+logistic_accuracy
+#table(predictions$Actual, predictions$Prediction)
+```
+
+The accuracy is 99.14% which is really high.
+
+
+```{r}
+prediction.test<-data.frame(predict(logit.bic,testing.set,type="response"))
+prediction.test[prediction.test<0.5]=0
+prediction.test[prediction.test>=0.5]=1
+predictions.test <- data.frame(Prediction = as.numeric(prediction.test[,1]),Actual = as.numeric(testing.set$y)-1)
+predictions.test$Correct <- (predictions.test$Actual == predictions.test$Prediction)
+logistic_accuracy.test<-table(predictions.test$Correct)/length(predictions.test$Correct)*100
+logistic_accuracy.test
+#table(predictions.test$Actual, predictions.test$Prediction)
+```
+
+The accuracy is 88.95% which is less than prediction of training.set.
+
+# Decision tree model
+#########################################################################
+#########################################################################
+############# Next one would be decision tree model######################
+#########################################################################
+#########################################################################
+
+
+```{r}
+#install.packages("ElemStatLearn")
+#install.packages("tree")
+#install.packages("rpart")
+#install.packages("rattle")
+#install.packages("rpart.plot")
+#install.packages("RcolorBrewer")
+
+library(ElemStatLearn)
+library(tree)
+require(rpart)
+library(rpart)
+tree <- rpart(y~factor(contact) + factor(month) + duration + 
+    balance + previous, data=bank3, method="class")
+library(rattle)
+library(rpart.plot)
+library(RColorBrewer)
+fancyRpartPlot(tree,main = "", sub = "",cex=0.5)
+# proportion of "no", "yes" and sample proportion
+printcp(tree)
+plotcp(tree) 
+tree.prune = prune(tree, cp = 0.05)
+fancyRpartPlot(tree.prune,main = "", sub = "",cex=0.5)
+
+```
+
+## Predictive accuracy calculation
+
+####### Make prediction#################
+
+```{r}
+prediction.tree <- data.frame(predict(tree.prune, bank3, type = "class"))
+predictions.tree <- data.frame(Prediction = as.numeric(prediction.tree[,1])-1,Actual = as.numeric(bank3$y)-1)
+predictions.tree$Correct <- (predictions.tree$Actual == predictions.tree$Prediction)
+Tree_Accuracy <- table(predictions.tree$Correct)/length(predictions.tree$Correct)*100
+Tree_Accuracy
+```
+
+####### predict with test############
+
+```{r}
+prediction.tree.test<-data.frame(predict(tree.prune,testing.set,
+     type="class"))
+predictions.tree.t <- data.frame(Prediction = as.numeric(prediction.tree.test[,1])-1,Actual = as.numeric(testing.set$y)-1)
+predictions.tree.t$Correct <- (predictions.tree.t$Actual == predictions.tree.t$Prediction)
+Tree_Accuracy.t <- table(predictions.tree.t$Correct)/length(predictions.tree.t$Correct)*100
+Tree_Accuracy.t
+```
+# Random forest
+
+################################################################################
+################################################################################
+################### Random Forrest##############################################
+################################################################################
+################################################################################
+
+
+```{r}
+#install.packages("randomForest")
+library(randomForest)
+forest<-randomForest(as.factor(y)~contact + month+ duration + balance+
+                       previous,data=bank2, importance=TRUE, ntree=100)
+#nstead of specifying method="class" as with rpart, we force the model
+#to predict our classification by temporarily changing our target 
+#variable to a factor with only two levels using as.factor(). The 
+#importance=TRUE argument allows us to inspect variable importance 
+#as we'll see, and the ntree argument specifies how many trees we want to grow.
+#If you were working with a larger dataset you may want to reduce 
+#the number of trees, at least for initial exploration, or restrict the complexity 
+#of each tree using nodesize as well as reduce the number of rows sampled with 
+#sampsize. You can also override the default number of variables to choose
+#from with mtry, but the default is the square root of the total number
+#available and that should work just fine. Since we only have a small
+#dataset to play with, we can grow a large number of trees and not worry 
+#too much about their complexity, it will still run pretty fast.
+summary(forest)
+varImpPlot(forest)
+#There's two types of importance measures shown above.
+#The accuracy one tests to see how worse the model
+#performs without each variable, so a high decrease 
+#in accuracy would be expected for very predictive variables.
+#The Gini one digs into the mathematics behind decision trees,
+#but essentially measures how pure the nodes are at the end of the tree.
+#Again it tests to see the result if each variable is taken out and 
+#a high score means the variable was important.
+```
+
+## Predictive accuracy calculation
+####### Make prediction#################
+
+
+```{r}
+prediction.forest <- data.frame(predict(forest, bank2, type = "class"))
+predictions.forest <- data.frame(Prediction = as.numeric(prediction.forest[,1])-1,Actual = as.numeric(bank2$y)-1)
+predictions.forest$Correct <- (predictions.forest$Actual == predictions.forest$Prediction)
+forest_Accuracy <- table(predictions.forest$Correct)/length(predictions.forest$Correct)*100
+forest_Accuracy
+```
+####### predict with test############
+```{r}
+prediction.forest.test<-data.frame(predict(forest,testing.set,type="class"))
+predictions.forest.t <- data.frame(Prediction = as.numeric(prediction.forest.test[,1])-1,Actual = as.numeric(testing.set$y)-1)
+predictions.forest.t$Correct <- (predictions.forest.t$Actual == predictions.forest.t$Prediction)
+Forest_Accuracy.t <- table(predictions.forest.t$Correct)/length(predictions.forest.t$Correct)*100
+Forest_Accuracy.t
+
+```
+
+# Support vector machine
+
+################################################################################
+################################################################################
+###################Support vector machine#######################################
+################################################################################
+################################################################################
+```{r}
+#install.packages("e1071")
+#install.packages("kernlab")
+
+library(e1071)
+library(kernlab)
+
+svm.fit = ksvm(y~ contact + month+ duration + balance+
+                       previous, data = bank3, type="C-svc", kernel="rbfdot", C=10)
+svm.pred <- predict(svm.fit, bank3, type = "decision")
+library(ggplot2)
+qplot(svm.pred, bank3$duration, color=bank3$y)
+summary(svm.fit)
+
+```
+
+## Predictive accuracy calculation
+
+####### Make prediction#################
+
+```{r}
+prediction.svm <- data.frame(predict(svm.fit, bank3))
+predictions.svm <- data.frame(Prediction = as.numeric(prediction.svm[,1])-1,Actual = as.numeric(bank3$y)-1)
+predictions.svm$Correct <- (predictions.svm$Actual == predictions.svm$Prediction)
+svm_Accuracy <- table(predictions.svm$Correct)/length(predictions.svm$Correct)*100
+svm_Accuracy
+```
+####### predict with test############
+```{r}
+prediction.svm.test<-data.frame(predict(svm.fit,testing.set))
+predictions.svm.t <- data.frame(Prediction = as.numeric(prediction.svm.test[,1])-1,Actual = as.numeric(testing.set$y)-1)
+predictions.svm.t$Correct <- (predictions.svm.t$Actual == predictions.svm.t$Prediction)
+svm_Accuracy.t <- table(predictions.svm.t$Correct)/length(predictions.svm.t$Correct)*100
+svm_Accuracy.t
+```
+
+save.image("Prog-09-allobjects.Rdata")
