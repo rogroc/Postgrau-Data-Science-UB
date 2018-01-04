@@ -1,7 +1,7 @@
 
 #  Bayesian Statistics
 
-$$ P(H | E) = \frac{P(E | H)P(H)}{P(E)}$$
+$ P(H | E) = \frac{P(E | H)P(H)}{P(E)}$
 
 Bayesian statistics interprets probabilities as measures of believability (how confident we are) in an event, not as the long-run frequency of events.
 
