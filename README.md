@@ -83,6 +83,7 @@ https://goo.gl/forms/YeKoljwmCp441jT52
 | dt. 17 d’abr. 2018	| Capstone Project | 
 | dj. 19 d'abr. 2018	|  MasterClass LetGo  |
 | dj. 24 de maig 2018	| Capstone Project  |
+| Dm. 3 de Jul 2018	| Capstone Project Presentations |
 
 
 ## Book Companion
