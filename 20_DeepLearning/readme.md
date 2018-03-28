@@ -17,8 +17,8 @@ In order to run the notebooks, we will use Google Colab, Google’s free cloud s
 > Google colab FAQ: https://research.google.com/colaboratory/faq.html
 
 ### Getting Started
-+ You need to (signup)[https://colab.research.google.com/] and apply for access before you start using google colab.
-+ Once you get the access, you can upload notebooks using ``File->Upload Notebook``. I have uploaded the fastai lesson 1 notebook. And please visit this notebook for reference. Setup cells will be available in the shared notebook.
++ You need to [signup](https://colab.research.google.com/) and apply for access before you start using google colab.
++ Once you get the access, you can upload notebooks using ``File->Upload Notebook``. 
 + To enable GPU backend for your notebook. ``Runtime->Change runtime type->Hardware Accelerator->GPU``.
 
 <p align="center"> 
