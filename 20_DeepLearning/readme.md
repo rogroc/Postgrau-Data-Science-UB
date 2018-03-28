@@ -22,4 +22,5 @@ For getting started:
 + Once you get the access, you can upload notebooks using ``File->Upload Notebook``. 
 + To enable GPU backend for your notebook. ``Runtime->Change runtime type->Hardware Accelerator->GPU``.
 
-<a href="https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing"><img src="https://github.com/DataScienceUB/Postgrau/blob/master/20_DeepLearning/images/conotebook.png?raw=true" align="left" width="200" ></a>
+## Contents
+Learning from Data: <a href="https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing"><img src="https://github.com/DataScienceUB/Postgrau/blob/master/20_DeepLearning/images/conotebook.png?raw=true" align="left" width="200" ></a>
