@@ -23,8 +23,8 @@ In order to run the notebooks, we will use Google Colab, Google’s free cloud s
 
 (Link)(https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing)
 
-<p align="center"> 
+(<p align="center"> 
 <img src="https://github.com/DataScienceUB/Postgrau/blob/master/20_DeepLearning/images/conotebook.png?raw=true" width="200">
-</p>
+</p>)(https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing)
 
 
