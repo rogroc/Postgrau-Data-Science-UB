@@ -23,4 +23,4 @@ For getting started:
 + To enable GPU backend for your notebook. ``Runtime->Change runtime type->Hardware Accelerator->GPU``.
 
 ## Contents
-Learning from Data: <a href="https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing"><img src="https://github.com/DataScienceUB/Postgrau/blob/master/20_DeepLearning/images/conotebook.png?raw=true" align="left" width="200" ></a>
+Learning from Data: <a href="https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing"><img src="https://github.com/DataScienceUB/Postgrau/blob/master/20_DeepLearning/images/conotebook.png?raw=true" align="center" width="200" ></a>
