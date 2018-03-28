@@ -22,7 +22,12 @@ In order to run the notebooks, we will use Google Colab, Google’s free cloud s
 + To enable GPU backend for your notebook. ``Runtime->Change runtime type->Hardware Accelerator->GPU``.
 
 [Link](https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing)
-[[[/images/conotebook.png]]](https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing)
+
+[[[/images/conotebook.png]]](https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 [![Foo](https://github.com/DataScienceUB/Postgrau/blob/master/20_DeepLearning/images/conotebook.png?raw=true)](http://google.com.au/)
 
@@ -30,4 +35,8 @@ In order to run the notebooks, we will use Google Colab, Google’s free cloud s
 <img src="https://github.com/DataScienceUB/Postgrau/blob/master/20_DeepLearning/images/conotebook.png?raw=true" width="200">
 </p>]]](https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing)
 
-
+{
+  width: 70%;
+  border: none;
+  background: none;
+}
