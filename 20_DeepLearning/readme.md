@@ -10,6 +10,14 @@ The black box criticism can be approached from many sides, such as discussing mo
 
 In a few words, this class tries to shed light on this cryptic but precise sentence: deep learning can be defined as a methodology to train large and highly complex models with deeply cascaded non-linearities by using automatic differentiation and several computational tricks. I hope that we will be able to fully appreciate what G.Hinton, one of the fathers of deep learning, said in a recent speech: 'All we have really discovered so far is that discriminative training using stochastic gradient descend works far better than any reasonable person would have expected'.  
 
+## A note about our running environment
+
+In order to run the notebooks, we will use Google Colab, Google’s free cloud service for AI developers. With Colab, you can develop deep learning applications on the GPU for free.
+
+> Google colab FAQ: https://research.google.com/colaboratory/faq.html
+
+
+
 <p align="center"> 
 <img src="https://github.com/DataScienceUB/Postgrau/blob/master/20_DeepLearning/images/conotebook.png?raw=true" width="200">
 </p>
