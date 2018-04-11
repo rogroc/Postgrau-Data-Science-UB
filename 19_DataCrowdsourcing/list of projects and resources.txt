@@ -1,0 +1,29 @@
+
+Some projects and resources
+
+OpenSystems- Universitat de Barcelona
+http://www.ub.edu/
+https://vimeo.com/258601719
+https://vimeo.com/155801654
+
+Other Citizen Science Projects / Crowd Science
+
+OpenSource Software for Volunteer Computing
+https://boinc.berkeley.edu/
+Some examples of projects:
+https://einsteinathome.org/ca/home
+https://boinc.bakerlab.org/
+
+Succesful experiences
+Games and Volunteer Computing
+http://fold.it/portal/
+Classifying Galaxies and many more
+https://www.zooniverse.org/
+
+Citizen Science Documentary Series (Videos)
+http://crowdandcloud.org/
+
+With Social Impact
+https://publiclab.org/
+https://blog.safecast.org/
+http://mappingforchange.org.uk/
