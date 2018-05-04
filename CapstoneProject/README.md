@@ -2,6 +2,10 @@
 
 https://www.kaggle.com/t/4330c17474db45a0855b3c67c8b9be60
 
+# Spanish Airlines Sentiment Analysis
+
+https://www.kaggle.com/c/spanish-arilines-tweets-sentiment-analysis/data
+
 # Spanish tweets
 https://goo.gl/sDPMby
 
