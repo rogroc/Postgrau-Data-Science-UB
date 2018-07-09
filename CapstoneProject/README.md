@@ -1,10 +1,9 @@
 # Final Projects:
 ### Hansel Gómez, Toni Monleon, Xavier Gamito, David Mormeneo
-https://github.com/hanselgomez/final_presentation_Postgrau_UB
++ https://github.com/hanselgomez/final_presentation_Postgrau_UB
 ### Tatyana Radchenko, Laura Pareja, Rebeca Font y Estela Martínez.
-https://bigsolutionsolutions.wordpress.com/
-
-https://github.com/lparfer/bigSolutionSolutions
++ https://bigsolutionsolutions.wordpress.com/
++ https://github.com/lparfer/bigSolutionSolutions
 
 # American Airlines Sentiment Analysis
 
