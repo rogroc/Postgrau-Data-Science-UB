@@ -1,3 +1,7 @@
+# Final Projects:
+## Hansel Gómez, Toni Monleon, Xavier Gamito, David Mormeneo
+https://github.com/hanselgomez/final_presentation_Postgrau_UB
+
 # American Airlines Sentiment Analysis
 
 https://www.kaggle.com/t/4330c17474db45a0855b3c67c8b9be60
