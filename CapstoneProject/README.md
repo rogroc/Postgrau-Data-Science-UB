@@ -20,7 +20,7 @@
 + https://elisafascio.wixsite.com/solfamidas
 + https://github.com/cmiglio/solfamidas_sentiment_analysis
 
-### Neus Agueda, Alfred Castro, André Resende, Ivan Nikitskiy
+### Neus Àgueda, Alfred Castro, André Resende, Ivan Nikitskiy
 + https://github.com/alfredcas/Feelings
 # American Airlines Sentiment Analysis
 
