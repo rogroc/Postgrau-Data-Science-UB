@@ -1,4 +1,4 @@
-# Data Science and Big Data Postgraduate Course at UB
+# Data Science and Big Data Postgraduate Course at UB - 2018-19
 
 Data Science and Big Data
 course offers students a program that covers the concepts and tools you will need throughout the entire data science pipeline: asking the right questions; wrangling and cleaning data; generating hypothesis; making inferences; visualizing data; assessing solutions; and building data products.
@@ -14,7 +14,7 @@ Before the first class you need to:
 
 ## Instructors
 
-Laura Igual, Petia Radeva, Francesc Dantí, Oriol Pujol, Jordi Vitrià, Lluis Garrido,
+Laura Igual, Petia Radeva, Oriol Pujol, Jordi Vitrià, Lluis Garrido,
 Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, Josep Perelló, Montse Guillen.
 `
 ## Collaborations
