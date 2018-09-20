@@ -1,4 +1,5 @@
-# Data Science and Big Data Postgraduate Course at UB - 2018-19
+# Data Science and Big Data Postgraduate Course at - 
+# Universitat de Barcelona, 2018-19
 
 Data Science and Big Data
 course offers students a program that covers the concepts and tools you will need throughout the entire data science pipeline: asking the right questions; wrangling and cleaning data; generating hypothesis; making inferences; visualizing data; assessing solutions; and building data products.
