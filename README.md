@@ -48,14 +48,14 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 11 Dec. 2018	| Statistics with R, Montse Guillen |
 | dj. 13 Dec. 2018	| Graph Analysis, Laura Igual |
 | dt. 18 Dec. 2018	| Graph Analysis, Laura Igual |
-| dj. 20 Dec. 2018	|  MasterClass3 - SMADEX |
+| dj. 20 Dec. 2018	| MasterClass3 - SMADEX |
 | dt.  8 Jan. 2019	| Bayesian Estimation, Jordi Vitrià |
 | dj. 10 Jan. 2019	| Bayesian Estimation, Jordi Vitrià |
 | dt. 15 Jan. 2019	| Supervised Learning, Oriol Pujol |
 | dj. 17 Jan. 2019	| Supervised Learning, Oriol Pujol |
 | dt. 22 Jan. 2019	| Supervised Learning, Oriol Pujol |
 | dj. 24 Jan. 2019	| Supervised Learning, Oriol Pujol |
-| dt. 29 Jan. 2019	| Casual Data Science, Jordi Vitrià |
+| dt. 29 Jan. 2019	| Causal Data Science, Jordi Vitrià |
 | dj. 31 Jan. 2019	| CAPSTONE PROJECT |
 | dt. 5 Feb. 2019	  | Unsupervised Learning, Petia Radeva |
 | dj. 7 Feb. 2019	  | Unsupervised Learning, Petia Radeva |
