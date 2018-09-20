@@ -28,7 +28,10 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 https://goo.gl/forms/YeKoljwmCp441jT52
 
 
-## Calendar 2018
+## Calendar
+
+| Date        | Session           | 
+| :-------------: | ------------- | 
 | dt. 2 Oct. 2018      | Introduction, Jordi Vitrià |  
 | dj. 4 Oct. 2018	| Python, Eloi Puertas | 
 | dt. 9 Oct. 2018	| Data Gathering, Oriol Pujol |
@@ -82,6 +85,7 @@ https://goo.gl/forms/YeKoljwmCp441jT52
 | dt. 25 Apr. 2019	| MasterClass6 - TBD | 
 | dj. 23 May. 2019	| Capstone Project  |
 | Dt. 2  Jul. 2019	| Capstone Project Presentations |
+
 ## Calendar
 
 | Date        | Session           | 
