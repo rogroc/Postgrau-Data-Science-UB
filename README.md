@@ -68,7 +68,7 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 5 Mar. 2019	  | Visualization, Santi Seguí |
 | dj. 7 Mar. 2019	  | Visualization, Santi Seguí |
 | dt. 12 Mar. 2019	| Complex Networks, Albert Diaz-Gilera |
-| dj. 14 Mar. 2019	| "Ethics and Algorithm Bias", ?¿ |
+| dj. 14 Mar. 2019	| Algorithmic Discrimination, Carlos Castillo |
 | dt. 19 Mar. 2019	| Deep Learning, Jordi Vitrià |
 | dj. 21 Mar. 2019	| Deep Learning, Jordi Vitrià |
 | dt. 26 Mar. 2019	| Data Crowdsourcing, Josep Perelló |
