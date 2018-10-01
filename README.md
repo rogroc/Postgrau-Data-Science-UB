@@ -30,7 +30,7 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 2 Oct. 2018      | Introduction, Jordi Vitrià |  
 | dj. 4 Oct. 2018	| Python, Eloi Puertas | 
 | dt. 9 Oct. 2018	| Data Gathering, Oriol Pujol |
-| dt. 11 Oct. 2018	| Software Carpentry, Eloi Puertas |
+| dj. 11 Oct. 2018	| Software Carpentry, Eloi Puertas |
 | dt. 16 Oct. 2018	| Data Gathering, Oriol Pujol |
 | dj. 18 Oct. 2018	| Data Science Toolbox, Eloi Puertas |
 | dt. 23 Oct. 2018	| Data Science Toolbox, Eloi Puertas |
