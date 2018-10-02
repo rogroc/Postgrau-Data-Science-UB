@@ -39,7 +39,7 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 6 Nov. 2018	| Textual Data Analysis, Sergio Escalera |
 | dj. 8 Nov. 2018	| Textual Data Analysis, Sergio Escalera |
 | dt. 13 Nov. 2018	| Computational Statistics, Petia Radeva |
-| dj. 15 Nov. 2018	| Computational Statistics, Petia Radeva |
+| dj. 15 Nov. 2018	| Statistical Estimation, Jordi Vitrià |
 | dt. 20 Nov. 2018	| CAPSTONE PROJECT  |
 | dj. 22 Nov. 2018	| MasterClass2 - BBVA Data & Analytics |
 | dt. 27 Nov. 2018	| Regression, Laura Igual |
