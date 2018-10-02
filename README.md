@@ -1,4 +1,3 @@
-=======
 # Data Science and Big Data Postgraduate Course at Universitat de Barcelona, 2018-19
 
 Data Science and Big Data
