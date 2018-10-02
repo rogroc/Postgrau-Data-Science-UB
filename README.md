@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # Data Science and Big Data Postgraduate Course at Universitat de Barcelona, 2018-19
 
@@ -75,7 +74,6 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dj. 21 Mar. 2019	| Deep Learning, Jordi Vitrià |
 | dt. 26 Mar. 2019	| Data Crowdsourcing, Josep Perelló |
 | dj. 28 Mar 2019	  | MasterClass5 - TBD  |
-| dt. 2 Apr. 2019	  | TBD |
 | dj. 4 Apr. 2019	  | Capstone Project |
 | dt. 9 Apr. 2019	  | Cloud - Microsoft Azure, Tiago Henriques |
 | dj. 11 Apr. 2019	| Cloud - Microsoft Azure, Tiago Henriques
@@ -92,5 +90,4 @@ Parts of the presented materials in the postgraduate course of Data Science and 
 <p align="center"> 
 <img src="images/llibre.jpg">
 </p>
->>>>>>> 8cd0b2e90bc76a014adbe076c6a509de73a01a35
 
