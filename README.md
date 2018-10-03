@@ -24,6 +24,8 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 </p>
 
 ## Calendar
+Google Calendar Link:
+https://calendar.google.com/calendar?cid=aWE5dG82cXZycDFtcG9qNm1jbmVxbzJndDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
 | Date        | Session           | 
 | :-------------: | ------------- | 
