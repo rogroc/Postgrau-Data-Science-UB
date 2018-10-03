@@ -72,7 +72,7 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 19 Mar. 2019	| Deep Learning, Jordi Vitrià |
 | dj. 21 Mar. 2019	| Deep Learning, Jordi Vitrià |
 | dt. 26 Mar. 2019	| Data Crowdsourcing, Josep Perelló |
-| dj. 28 Mar 2019	  | MasterClass5 - TBD  |
+| dj. 28 Mar 2019	  | MasterClass5 - SocialPoint  |
 | dj. 4 Apr. 2019	  | Capstone Project |
 | dt. 9 Apr. 2019	  | Cloud - Microsoft Azure, Tiago Henriques |
 | dj. 11 Apr. 2019	| Cloud - Microsoft Azure, Tiago Henriques
