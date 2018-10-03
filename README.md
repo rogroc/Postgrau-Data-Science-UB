@@ -34,7 +34,7 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 16 Oct. 2018	| Data Gathering, Oriol Pujol |
 | dj. 18 Oct. 2018	| Data Science Toolbox, Eloi Puertas |
 | dt. 23 Oct. 2018	| Data Science Toolbox, Eloi Puertas |
-| 18.30h dj. 25 Oct. 2018	| MasterClass1 - KING Games |
+| dj. 25 Oct. 2018 (18.30h)	| MasterClass1 - KING Games |
 | dt. 30 Oct. 2018	| Practical Session |
 | dt. 6 Nov. 2018	| Textual Data Analysis, Sergio Escalera |
 | dj. 8 Nov. 2018	| Textual Data Analysis, Sergio Escalera |
