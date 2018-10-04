@@ -1,0 +1,44 @@
+---
+title: "Diamond sizes"
+date: Desembre de 2017
+output: html_document
+---
+```{r setup, include = FALSE}
+library(ggplot2)
+library(dplyr)
+smaller <- diamonds %>% filter(carat <= 2.5)
+```
+
+We have data about `r nrow(diamonds)` diamonds. Only
+`r nrow(diamonds) - nrow(smaller)` are larger than
+2.5 carats. The price/carat by cut type is shown below:
+
+```{r, echo = FALSE}
+ggplot(diamonds, aes(x = price)) + 
+  geom_histogram(color = "black", fill = "DarkOrange", binwidth = 25) + 
+  scale_x_continuous(breaks = seq(0, 4000, 100)) + 
+  theme(axis.text.x = element_text(angle = 90)) + 
+  coord_cartesian(c(0,4000)) +
+  facet_grid(cut~.) + 
+  xlab("Price") + ylab("Count")
+```
+
+We also investigate the price of diamonds using box plots,
+ numerical summaries, and one of the following categorical
+ variables: cut, clarity, or color.
+
+```{r, echo = FALSE}
+diamonds %>%
+  group_by(cut) %>%
+  summarise(count = n(), 
+            avg_price = mean(price)) %>%
+  ungroup()
+```
+
+And fnally, we look at clarity too
+
+```{r, echo = FALSE}
+ggplot(diamonds, aes(x = clarity, y = price, color = cut)) + 
+  geom_boxplot() + 
+  facet_grid(color~., margins = TRUE)
+```

@@ -24,6 +24,8 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 </p>
 
 ## Calendar
+Google Calendar Link:
+https://calendar.google.com/calendar?cid=aWE5dG82cXZycDFtcG9qNm1jbmVxbzJndDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
 | Date        | Session           | 
 | :-------------: | ------------- | 
@@ -34,12 +36,12 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 16 Oct. 2018	| Data Gathering, Oriol Pujol |
 | dj. 18 Oct. 2018	| Data Science Toolbox, Eloi Puertas |
 | dt. 23 Oct. 2018	| Data Science Toolbox, Eloi Puertas |
-| dj. 25 Oct. 2018	| MasterClass1 - KING Games |
+| dj. 25 Oct. 2018 (18.30h)	| MasterClass1 - KING Games |
 | dt. 30 Oct. 2018	| Practical Session |
 | dt. 6 Nov. 2018	| Textual Data Analysis, Sergio Escalera |
 | dj. 8 Nov. 2018	| Textual Data Analysis, Sergio Escalera |
-| dt. 13 Nov. 2018	| Computation Statistics, Petia Radeva |
-| dj. 15 Nov. 2018	| Computation Statistics, Petia Radeva |
+| dt. 13 Nov. 2018	| Computational Statistics, Petia Radeva |
+| dj. 15 Nov. 2018	| Statistical Estimation, Jordi Vitrià |
 | dt. 20 Nov. 2018	| CAPSTONE PROJECT  |
 | dj. 22 Nov. 2018	| MasterClass2 - BBVA Data & Analytics |
 | dt. 27 Nov. 2018	| Regression, Laura Igual |
@@ -72,8 +74,7 @@ Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, J
 | dt. 19 Mar. 2019	| Deep Learning, Jordi Vitrià |
 | dj. 21 Mar. 2019	| Deep Learning, Jordi Vitrià |
 | dt. 26 Mar. 2019	| Data Crowdsourcing, Josep Perelló |
-| dj. 28 Mar 2019	  | MasterClass5 - TBD  |
-| dt. 2 Apr. 2019	  | TBD |
+| dj. 28 Mar 2019	  | MasterClass5 - SocialPoint  |
 | dj. 4 Apr. 2019	  | Capstone Project |
 | dt. 9 Apr. 2019	  | Cloud - Microsoft Azure, Tiago Henriques |
 | dj. 11 Apr. 2019	| Cloud - Microsoft Azure, Tiago Henriques
