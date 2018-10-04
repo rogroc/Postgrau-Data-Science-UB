@@ -1,2 +1,0 @@
-# PyDayBCN
-PyDayBCN repository 
