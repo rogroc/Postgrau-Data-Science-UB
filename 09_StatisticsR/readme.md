@@ -10,7 +10,7 @@ plain.text<-gsub("ó", "o", plain.text)
 plain.text<-gsub("ú", "u", plain.text)
 We tried it and then it worked fine.
 
-IMPORTANT package installation: I will provide you with a list of packages. It is uch better to have the, installed before trying the example programmes. The list is in INSTALL.R
+IMPORTANT package installation: I will provide you with a list of packages. It is much better to have the, installed before trying the example programmes. The list is in INSTALL.R
 
 This module is divided in two sessions. 
 
