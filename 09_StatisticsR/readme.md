@@ -1,4 +1,4 @@
-IMPORTANT: Doc-01.pdf was too large to upload here. You can download it from (valid till Dec15, 2017):
+IMPORTANT: Doc-01.pdf was too large to upload here. You can download it from (valid till Dec15, 2018):
 http://www.ub.edu/rfa/docs/DATA/Doc-01.pdf
 
 NOTE on Prog02.R for the wordcloud (we noticed that there is some problem when running this in a Mac). If you are Mac users, then remove
