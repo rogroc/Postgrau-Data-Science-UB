@@ -1,0 +1,168 @@
+---
+title: 'Simple predictive models: Linear and logistic regression'
+author: "Montserrat Guillen"
+date: '`r format(Sys.Date(),"%e de %B %Y")`'
+output:
+  html_document:
+    number_sections: yes
+    toc: yes
+    toc_depth: 2
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  word_document:
+    toc: yes
+    toc_depth: '2'
+---
+
+In this document we continue with simple Data Analysis linked to the article by S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014. The two datasets ontain similar information, but not exactly the same.. Here we will analyse the smaller data set (called **bank.csv**). The file can be downloaded from: 
+https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+or (for this course)
+
+http://www.ub.edu/rfa/docs/DATA/bank.csv
+
+We will see linear regression and logistic regression.
+
+
+# Introduction 
+
+Here we set up some options for the Rmarkdown ouput. We want to see the R programme (echo=TRUE), but sometime we do not want to see the output, then we set include=FALSE.
+
+```{r load_libraries, include=FALSE}
+library(knitr)
+library(ggplot2)
+library(dplyr)
+```
+
+## Reading the data
+
+Here we read the data and check the names.
+
+```{r lectura, echo=TRUE}
+# read data
+#setwd("..")
+mydata <- read.csv2("bank.csv", header=TRUE, sep=";", dec=".")
+n.var <- names(mydata)
+glimpse(mydata)
+```
+
+
+We have previously analysed the data. Just recall that the data contain `r format(nrow(mydata), digits=2)` cases and
+  `r format(ncol(mydata), digits=2)` variables. 
+The variable names are: `r toString(n.var)`. 
+
+****
+# Linear regression
+****
+We will study the duration of the telephone call as a function of age.
+
+## Linear model (quantitative regressors)
+
+We introduce two variables: **age**, **balance** and days since last call (**pdays**).
+
+```{r Modelo 1.1}
+# Model estimation
+attach(mydata)
+
+Model.1.1<- lm(duration~age+ balance+pdays, data=mydata )
+summary(Model.1.1)
+qplot(balance,duration, data = mydata,geom = c("smooth", "point"))
+qplot(age,duration, data = mydata,geom = c("smooth", "point"))
+qplot(pdays, duration, data = mydata,geom = c("smooth", "point"))
+
+
+```
+
+<p style="color:rgb(120, 120, 120);">
+The goodness-of-fit coefficient is  `r format(summary(Model.1.1)$r.squared, digits=2)
+` <br>
+
+## Linear model (quantitative and qualitative regressors)
+
+We now also include **month**, **loan** (yes/no) and **contact** (telephone/cellular/other).
+
+```{r Modelo 1.2}
+monthR=relevel(month, ref = 'mar')
+loanR=relevel(loan, ref = 'no')
+contactR=relevel(contact, ref = 'telephone')
+
+Model.1.2<- lm(duration~age+ balance+factor(monthR)+factor(loanR)+factor(contactR), data=mydata )
+summary(Model.1.2)
+```
+
+## Compare goodnes-of-fit
+
+```{r Comparacion}
+
+summary(Model.1.1)$adj.r.squared*100
+
+summary(Model.1.2)$adj.r.squared*100
+```
+<p style="color:rgb(120, 120, 120);">
+The goodness-of-fit coefficient is in the first model `r format(summary(Model.1.1)$adj.r.squared, digits=2)` and 
+in the second model `r format(summary(Model.1.2)$adj.r.squared, digits=2)`.   <br>
+
+
+
+## Prediction
+
+Assume we have a new observation and want to predict the duration pf the call.
+
+```{r Prediccion LM}
+newdata=data.frame(age=30, balance=100.0, monthR='jun', loanR='yes', contactR='cellular', pdays=30)
+predict(Model.1.1, newdata)
+predict(Model.1.2, newdata)
+
+```
+
+****
+# Logistic regression model
+****
+
+## Estimation of the model 
+
+We estimate the model for the dependent variable **y** = **Term Diposit**. We only consider age and duration of the call.
+
+```{r Modelo 2.1}
+Model.2.1=glm(y~age+duration, family=binomial)
+summary(Model.2.1)
+```
+
+## Prediction with this model
+
+
+``` {r Prediccion LR}
+newdata=data.frame(age=30, balance=100.0, monthR='jun', loanR='yes', contactR='cellular', pdays=30, duration=250)
+
+predict(Model.2.1, newdata, type="response")
+
+```
+The prediction for that custmer and the logistic model is `r format(predict(Model.2.1, newdata, type="response"), digits=2)`.
+
+## Improve the model
+
+We can improve the model now with more information
+
+``` {r Modelo 2.2}
+Model.2.2=glm(y~age+duration+factor(month), family=binomial)
+summary(Model.2.2)
+```
+
+The Akaike Information Criterion (AIC) in the first model was `r format(Model.2.1$aic, digits=2)` 
+ans now it is `r format(Model.2.2$aic, digits=2)`.
+
+## ROC curve
+
+Predictive performance
+
+```{r Curva ROC}
+#install.packages("pROC")
+library(pROC)
+prob=predict(Model.2.2,type=c("response"))
+mydata$prob=prob
+g=roc(y,prob, data=mydata)
+plot(g)
+auc(g)
+````
+The AUROC is `r format(auc(g), digits=2)`.
