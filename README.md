@@ -50,7 +50,7 @@ https://calendar.google.com/calendar?cid=aWE5dG82cXZycDFtcG9qNm1jbmVxbzJndDhAZ3J
 | dt. 11 Dec. 2018	| Statistics with R, Montse Guillen |
 | dj. 13 Dec. 2018	| Graph Analysis, Laura Igual |
 | dt. 18 Dec. 2018	| Graph Analysis, Laura Igual |
-| dj. 20 Dec. 2018	| MasterClass3 - SMADEX |
+| dj. 20 Dec. 2018	| NO CLASS |
 | dt.  8 Jan. 2019	| Bayesian Estimation, Jordi Vitrià |
 | dj. 10 Jan. 2019	| Bayesian Estimation, Jordi Vitrià |
 | dt. 15 Jan. 2019	| Supervised Learning, Oriol Pujol |
