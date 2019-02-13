@@ -78,7 +78,7 @@ https://calendar.google.com/calendar?cid=aWE5dG82cXZycDFtcG9qNm1jbmVxbzJndDhAZ3J
 | dj. 4 Apr. 2019	  | Capstone Project |
 | dt. 9 Apr. 2019	  | Cloud - Microsoft Azure, Tiago Henriques |
 | dj. 11 Apr. 2019	| Cloud - Microsoft Azure, Tiago Henriques
-| dt. 25 Apr. 2019	| MasterClass6 - TBD | 
+| dt. 25 Apr. 2019	| MasterClass6 - Kernel Analytics | 
 | dj. 23 May. 2019	| Capstone Project  |
 | Dt. 2  Jul. 2019	| Capstone Project Presentations |
 
