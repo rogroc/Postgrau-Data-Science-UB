@@ -64,10 +64,11 @@ https://calendar.google.com/calendar?cid=aWE5dG82cXZycDFtcG9qNm1jbmVxbzJndDhAZ3J
 | dt. 12 Feb. 2019	| Recommenders, Santi Seguí |
 | dj. 14 Feb. 2019	| Multicore computing, Lluis Garrido |
 | dt. 19 Feb. 2019	| Recommenders, Santi Seguí |
-| dj. 21 Feb. 2019	| Big Data Analytics: Spark, Jordi Nin |
+| dj. 21 Feb. 2019	| NO CLASS|
 | dt. 26 Feb. 2019	| Visualization, Santi Seguí |
 | dj. 28 Feb. 2019	| Big Data Analytics: Spark, Jordi Nin |
 | dt. 5 Mar. 2019	  | Visualization, Santi Seguí |
+| dm. 6 Mar. 2019	  | Big Data Analytics: Spark, Jordi Nin 
 | dj. 7 Mar. 2019	  | MasterClass4 - SMADEX |
 | dt. 12 Mar. 2019	| Complex Networks, Albert Diaz-Gilera |
 | dj. 14 Mar. 2019	| Algorithmic Discrimination, Carlos Castillo |
