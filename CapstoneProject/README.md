@@ -3,5 +3,8 @@
 1st Version
 https://www.kaggle.com/c/ub-politician-tweets/
 
-2nd and Final Version
+Final Challenge:
+- Political Party Detection
+https://www.kaggle.com/c/ub-politician-tweets-ii
+- Candidate Detection
 https://www.kaggle.com/c/ub-politician-tweets-ii-politicians
