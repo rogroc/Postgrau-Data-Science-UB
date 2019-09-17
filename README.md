@@ -1,4 +1,4 @@
-# Data Science and Big Data Postgraduate Course at Universitat de Barcelona, 2018-19
+# Data Science and Big Data Postgraduate Course at Universitat de Barcelona, 2019-20
 
 Data Science and Big Data
 course offers students a program that covers the concepts and tools you will need throughout the entire data science pipeline: asking the right questions; wrangling and cleaning data; generating hypothesis; making inferences; visualizing data; assessing solutions; and building data products.
@@ -14,8 +14,7 @@ Before the first class you need to:
 
 ## Instructors
 
-Laura Igual, Petia Radeva, Oriol Pujol, Jordi Vitrià, Lluis Garrido,
-Jordi Nin, Albert Díaz-Guileras, Eloi Puertas, Sergio Escalera, Santi Seguí, Josep Perelló, Montse Guillen.
+Laura Igual, Petia Radeva, Oriol Pujol, Jordi Vitrià, Lluis Garrido, Albert Díaz-Guileras, Eloi Puertas, Santi Seguí, Josep Perelló, Montse Guillen, Mireia Ribera.
 `
 ## Collaborations
 
