@@ -49,7 +49,6 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dt. 10 Dec. 2019	| Visualization, Mireia Ribera |
 | dj. 12 Dec. 2019	| Visualization, Mireia Ribera |
 | dt. 17 Dec. 2019	| MasterClass3 -  |
-
 | dt.  7 Jan. 2020	| Bayesian Estimation, Jordi Vitrià |
 | dj. 9 Jan. 2020	| Bayesian Estimation, Jordi Vitrià |
 | dt. 14 Jan. 2020	| Supervised Learning, Oriol Pujol |
