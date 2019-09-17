@@ -29,59 +29,58 @@ https://calendar.google.com/calendar?cid=aWE5dG82cXZycDFtcG9qNm1jbmVxbzJndDhAZ3J
 
 | Date        | Session           | 
 | :-------------: | ------------- | 
-| dt. 2 Oct. 2018      | Introduction, Jordi Vitrià |  
-| dj. 4 Oct. 2018	| Python, Eloi Puertas | 
-| dt. 9 Oct. 2018	| Data Gathering, Oriol Pujol |
-| dj. 11 Oct. 2018	| Software Carpentry, Eloi Puertas |
-| dt. 16 Oct. 2018	| Data Gathering, Oriol Pujol |
-| dj. 18 Oct. 2018	| Data Science Toolbox, Eloi Puertas |
-| dt. 23 Oct. 2018	| Data Science Toolbox, Eloi Puertas |
-| dj. 25 Oct. 2018 (18.30h)	| MasterClass1 - KING Games |
-| dt. 30 Oct. 2018	| Practical Session |
-| dt. 6 Nov. 2018	| Textual Data Analysis, Sergio Escalera |
-| dj. 8 Nov. 2018	| Textual Data Analysis, Sergio Escalera |
-| dt. 13 Nov. 2018	| Computational Statistics, Petia Radeva |
-| dj. 15 Nov. 2018	| Statistical Estimation, Jordi Vitrià |
-| dt. 20 Nov. 2018	| CAPSTONE PROJECT  |
-| dj. 22 Nov. 2018	| MasterClass2 - BBVA Data & Analytics |
-| dt. 27 Nov. 2018	| Regression, Laura Igual |
-| dj. 29 Nov. 2018	| Regression, Laura Igual |
-| dt.  4 Dec. 2018	| Statistics with R, Montse Guillen |
-| dt. 11 Dec. 2018	| Statistics with R, Montse Guillen |
-| dj. 13 Dec. 2018	| Graph Analysis, Laura Igual |
-| dt. 18 Dec. 2018	| Graph Analysis, Laura Igual |
-| dj. 20 Dec. 2018	| NO CLASS |
-| dt.  8 Jan. 2019	| Bayesian Estimation, Jordi Vitrià |
-| dj. 10 Jan. 2019	| Bayesian Estimation, Jordi Vitrià |
-| dt. 15 Jan. 2019	| Supervised Learning, Oriol Pujol |
-| dj. 17 Jan. 2019	| Supervised Learning, Oriol Pujol |
-| dt. 22 Jan. 2019	| Supervised Learning, Oriol Pujol |
-| dj. 24 Jan. 2019	| Supervised Learning, Oriol Pujol |
-| dt. 29 Jan. 2019	| Causal Data Science, Jordi Vitrià |
-| dj. 31 Jan. 2019	| CAPSTONE PROJECT |
-| dt. 5 Feb. 2019	  | Unsupervised Learning, Petia Radeva |
-| dj. 7 Feb. 2019	  | Unsupervised Learning, Petia Radeva |
-| dt. 12 Feb. 2019	| Recommenders, Santi Seguí |
-| dj. 14 Feb. 2019	| Multicore computing, Lluis Garrido |
-| dt. 19 Feb. 2019	| Recommenders, Santi Seguí |
-| dj. 21 Feb. 2019	| NO CLASS|
-| dt. 26 Feb. 2019	| Visualization, Santi Seguí |
-| dj. 28 Feb. 2019	| Big Data Analytics: Spark, Jordi Nin |
-| dt. 5 Mar. 2019	  | Visualization, Santi Seguí |
-| dm. 6 Mar. 2019	  | Big Data Analytics: Spark, Jordi Nin 
-| dj. 7 Mar. 2019	  | MasterClass4 - SMADEX |
-| dt. 12 Mar. 2019	| Complex Networks, Albert Diaz-Gilera |
-| dj. 14 Mar. 2019	| Algorithmic Discrimination, Carlos Castillo |
-| dt. 19 Mar. 2019	| Deep Learning, Jordi Vitrià |
-| dj. 21 Mar. 2019	| Deep Learning, Jordi Vitrià |
-| dt. 26 Mar. 2019	| Data Crowdsourcing, Josep Perelló |
-| dj. 28 Mar 2019	  | MasterClass5 - SocialPoint  |
-| dj. 4 Apr. 2019	  | Capstone Project |
-| dt. 9 Apr. 2019	  | Cloud - Microsoft Azure, Tiago Henriques |
-| dj. 11 Apr. 2019	| Cloud - Microsoft Azure, Tiago Henriques
-| dt. 25 Apr. 2019	| MasterClass6 - Kernel Analytics | 
-| dj. 23 May. 2019	| Capstone Project  |
-| Dt. 2  Jul. 2019	| Capstone Project Presentations |
+| dt. 1 Oct. 2019      | Introduction, Jordi Vitrià |  
+| dj. 3 Oct. 2019	| Python, Eloi Puertas | 
+| dt. 8 Oct. 2019	| Data Science Toolbox, Eloi Puertas | Data Gathering, Oriol Pujol |
+| dj. 10 Oct. 2019	| Data Science Toolbox, Eloi Puertas |
+| dt. 15 Oct. 2019	| Software Carpentry, Eloi Puertas | 
+| dj. 17 Oct. 2019	| Practical Session, Eloi Puertas |
+| dt. 22 Oct. 2019	| Data Gathering, Oriol Pujol |
+| dj. 24 Oct. 2019 (18.30h)	| MasterClass1 - KING Games |
+| dt. 29 Oct. 2019	| Data Gathering, Oriol Pujol |
+| dt. 5 Nov. 2019	| Textual Data Analysis, Santi Seguí |
+| dj. 7 Nov. 2019	| Computational Statistics, Petia Radeva |
+| dt. 12 Nov. 2019	| Textual Data Analysis, Santi Seguí |
+| dj. 14 Nov. 2019	| Statistical Estimation, Jordi Vitrià |
+| dt. 19 Nov. 2019	| Regression, Laura Igual | 
+| dj. 21 Nov. 2019	| Regression, Laura Igual | 
+| dt. 26 Nov. 2019	| Statistics with R, Montse Guillen |
+| dj. 28 Nov. 2019	| MasterClass2 - NESTLE | 
+| dt.  3 Dec. 2019	| Statistics with R, Montse Guillen |
+| dt. 10 Dec. 2019	| Visualization, Mireia Ribera |
+| dj. 12 Dec. 2019	| Visualization, Mireia Ribera |
+| dt. 17 Dec. 2019	| MasterClass3 -  |
+
+| dt.  7 Jan. 2020	| Bayesian Estimation, Jordi Vitrià |
+| dj. 9 Jan. 2020	| Bayesian Estimation, Jordi Vitrià |
+| dt. 14 Jan. 2020	| Supervised Learning, Oriol Pujol |
+| dj. 16 Jan. 2020	| Supervised Learning, Oriol Pujol |
+| dt. 21 Jan. 2020	| Supervised Learning, Oriol Pujol |
+| dj. 23 Jan. 2020	| Supervised Learning, Oriol Pujol |
+| dt. 28 Jan. 2020	| Unsupervised Learning, Petia Radeva | 
+| dj. 30 Jan. 2020	| Unsupervised Learning, Petia Radeva | 
+| dt. 4 Feb. 2020	  | Deep Learning, Jordi Vitrià | 
+| dj. 6 Feb. 2020	  | Deep Learning, Jordi Vitrià | 
+| dt. 11 Feb. 2020	| Causal Data Science, Jordi Vitrià |
+| dj. 13 Feb. 2020	| Practical Session, Santi/Jordi/Oriol |
+| dt. 18 Feb. 2020	| MasterClass4,  |
+| dj. 20 Feb. 2020	| Recommenders, Santi Seguí |
+| dt. 25 Feb. 2020	| Recommenders, Santi Seguí |
+| dj. 27 Feb. 2020	| Graph Analysis, Laura Igual |
+
+| dt. 3 Mar. 2020	  | Graph Analysis, Laura Igual |
+| dj. 5 Mar. 2020	  | Complex Networks, Albert Diaz-Gilera |
+| dt. 10 Mar. 2020	| Algorithmic Discrimination, Carlos Castillo |
+| dj. 12 Mar. 2020	| Multi Core Computing, Lluís Garrido|
+| dt. 17 Mar. 2020	| BigData, -- |
+| dj. 19 Mar. 2020	| BigData, --|
+| dt. 24 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques |
+| dj. 26 Mar 2020	  | Cloud - Microsoft Azure, Tiago Henriques |
+| dj. 31 Mar 2020	  | DataCrowsourcing, Josep Perello |
+| dj. 2 Apr. 2020	  | Capstone Project |
+| dj. 7 May. 2020	| Master Class  |
+| dj. 21 May. 2020	| Capstone Project  |
+| Dt. 2  Jul. 2020	| Capstone Project Presentations |
 
 
 
