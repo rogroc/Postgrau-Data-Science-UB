@@ -18,9 +18,9 @@ Laura Igual, Petia Radeva, Oriol Pujol, Jordi Vitrià, Lluis Garrido, Albert Dí
 `
 ## Collaborations
 
-<p align="center"> 
+'''<p align="center"> 
 <img src="images/collab.png">
-</p>
+</p>'''
 
 ## Calendar
 Google Calendar Link:
