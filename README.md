@@ -16,12 +16,12 @@ Before the first class you need to:
 
 Laura Igual, Petia Radeva, Oriol Pujol, Jordi Vitrià, Lluis Garrido, Albert Díaz-Guileras, Eloi Puertas, Santi Seguí, Josep Perelló, Montse Guillen, Mireia Ribera.
 `
-## Collaborations
+{### Collaborations
 
-'''<p align="center"> 
+<p align="center"> 
 <img src="images/collab.png">
-</p>'''
-
+</p>
+#}
 ## Calendar
 Google Calendar Link:
 https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40group.calendar.google.com&ctz=Europe%2FMadrid
