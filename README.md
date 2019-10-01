@@ -65,7 +65,6 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dj. 20 Feb. 2020	| Recommenders, Santi Seguí |
 | dt. 25 Feb. 2020	| Recommenders, Santi Seguí |
 | dj. 27 Feb. 2020	| Graph Analysis, Laura Igual |
-
 | dt. 3 Mar. 2020	  | Graph Analysis, Laura Igual |
 | dj. 5 Mar. 2020	  | Complex Networks, Albert Diaz-Gilera |
 | dt. 10 Mar. 2020	| Algorithmic Discrimination, Carlos Castillo |
