@@ -31,9 +31,9 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | :-------------: | ------------- | 
 | dt. 1 Oct. 2019      | Introduction, Jordi Vitrià |  
 | dj. 3 Oct. 2019	| Python, Eloi Puertas | 
-| dt. 8 Oct. 2019	| Data Science Toolbox, Eloi Puertas | Data Gathering, Oriol Pujol |
+| dt. 8 Oct. 2019	| Software Carpentry, Eloi Puertas  | 
 | dj. 10 Oct. 2019	| Data Science Toolbox, Eloi Puertas |
-| dt. 15 Oct. 2019	| Software Carpentry, Eloi Puertas | 
+| dt. 15 Oct. 2019	|  Data Science Toolbox, Eloi Puertas| 
 | dj. 17 Oct. 2019	| Practical Session, Eloi Puertas |
 | dt. 22 Oct. 2019	| Data Gathering, Oriol Pujol |
 | dj. 24 Oct. 2019 (18.30h)	| MasterClass1 - KING Games |
