@@ -43,15 +43,15 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dt. 12 Nov. 2019	| Textual Data Analysis, Santi Seguí |
 | dj. 14 Nov. 2019	| Statistical Estimation, Jordi Vitrià |
 | dt. 19 Nov. 2019	| Regression, Laura Igual | 
-| dj. 21 Nov. 2019	| Regression, Laura Igual | 
-| dt. 26 Nov. 2019	| Statistics with R, Montse Guillen |
-| dj. 28 Nov. 2019	| MasterClass2 - NESTLE | 
+| dj. 21 Nov. 2019	|  NO CLASS | 
+| dt. 26 Nov. 2019	| Regression, Laura Igual |
+| dj. 28 Nov. 2019	| Statistics with R, Montse Guillen | 
 | dt.  3 Dec. 2019	| Statistics with R, Montse Guillen |
 | dt. 10 Dec. 2019	| Visualization, Mireia Ribera |
-| dj. 12 Dec. 2019	| Visualization, Mireia Ribera |
-| dt. 17 Dec. 2019	| MasterClass3 -  |
+| dj. 12 Dec. 2019	| MasterClass2 - NESTLE  |
+| dt. 17 Dec. 2019	| Visualization, Mireia Ribera  |
 | dt.  7 Jan. 2020	| Bayesian Estimation, Jordi Vitrià |
-| dj. 9 Jan. 2020	| Bayesian Estimation, Jordi Vitrià |
+| dj. 9 Jan. 2020	  | Bayesian Estimation, Jordi Vitrià |
 | dt. 14 Jan. 2020	| Supervised Learning, Oriol Pujol |
 | dj. 16 Jan. 2020	| Supervised Learning, Oriol Pujol |
 | dt. 21 Jan. 2020	| Supervised Learning, Oriol Pujol |
