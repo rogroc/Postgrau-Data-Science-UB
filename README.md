@@ -47,6 +47,7 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dt. 26 Nov. 2019	| Regression, Laura Igual |
 | dj. 28 Nov. 2019	| Statistics with R, Montse Guillen | 
 | dt.  3 Dec. 2019	| Statistics with R, Montse Guillen |
+| dm.  4 Dec. 2019 (18.30h)	| MasterClass1 - KING Games |
 | dt. 10 Dec. 2019	| Visualization, Mireia Ribera |
 | dj. 12 Dec. 2019	| MasterClass2 - NESTLE  |
 | dt. 17 Dec. 2019	| Visualization, Mireia Ribera  |
@@ -72,7 +73,7 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dt. 12 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques |
 | dj. 17 Mar 2020	  | Cloud - Microsoft Azure, Tiago Henriques |
 | dj. 19 Mar 2020	  | DataCrowsourcing, Josep Perello |
-| dj. 24 Apr. 2020	| Capstone Project |
+| dj. 24 Mar. 2020	| Capstone Project |
 | dt. 26 Mar. 2020	| Algorithmic Discrimination, Carlos Castillo |
 | dj. 7 May. 2020	  | Master Class  |
 | dj. 21 May. 2020	| Capstone Project  |
