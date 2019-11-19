@@ -12,7 +12,7 @@ We use different real data sets:
 * Sea Ice Extent and Climate Change
 * Diabetes Scikit-learn dataset
 * Advertising dataset
-* Winning or Losing Football Team
+* The Big Mart Sales dataset
 
 *Contents of the notebook*:
 
@@ -21,5 +21,4 @@ We use different real data sets:
 - Visualization (Seaborn)
 - Prediction (Scikit-learn)
 - Sparse models 
-- Logistic Regresion
 - Statistics (StatsModel)
