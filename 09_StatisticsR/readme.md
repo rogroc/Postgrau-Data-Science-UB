@@ -1,4 +1,4 @@
-IMPORTANT: Doc-01.pdf was too large to upload here. You can download it from (valid till Dec15, 2018):
+IMPORTANT: Doc-01.pdf was too large to upload here. You can download it from (valid till Dec15, 2019):
 http://www.ub.edu/rfa/docs/DATA/Doc-01.pdf
 
 NOTE on Prog02.R for the wordcloud (we noticed that there is some problem when running this in a Mac). If you are Mac users, then remove
@@ -14,7 +14,7 @@ IMPORTANT package installation: I will provide you with a list of packages. It i
 
 This module is divided in two sessions. 
 
-Day-1 (learning R) and Day-2 (case studies on Data Analysis & Package buiding). See slides:
+Day-1 (learning R) and Day-2 (case studies on Data Analysis & Package building). See slides:
 
   Statistics with R-Day1.pdf
   
