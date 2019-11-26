@@ -11,7 +11,10 @@ temp <- function(a = 1, b = 2) { return(a + b) }
 f <- function(x) { if (x < 10) { 0 } else { 10 } } 
 
 # This is a constructor function, i.e. a function that creates another one.
-make.power <- function(n) { pow <- function(x) { x^n }}
+make.power <- function(n) { 
+            pow <- function(x) { 
+                        x^n }
+}
  
 cube <- make.power(3) 
 square <- make.power(2) 
