@@ -1,6 +1,6 @@
 ---
 title: "Diamond sizes"
-date: Desembre de 2017
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
 ```{r setup, include = FALSE}
