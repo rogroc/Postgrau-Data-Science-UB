@@ -1,5 +1,5 @@
 # Information visualization
 
-## Slides, datasets and handouts
+## Slides, notebooks and workbooks, datasets and handouts
 
 by Mireia Ribera (ribera@ub.edu)
