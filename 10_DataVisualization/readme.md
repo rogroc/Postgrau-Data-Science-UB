@@ -1,5 +1,5 @@
-# Information visualization
+# Visualización de la información
 
-## Slides, notebooks and workbooks, datasets and handouts
+## Diapositivas, notebooks y libros de trabajo, datasets y guías
 
-by Mireia Ribera (ribera@ub.edu)
+por Mireia Ribera (ribera@ub.edu)
