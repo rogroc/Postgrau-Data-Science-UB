@@ -1,0 +1,793 @@
+﻿Codigo_distrito,Nombre_distrito,Nombre_barrio,Nombre_calle,Dia_semana,Descripcion_tipo_dia,Descripcion_turno,Numero_muertos,Numero_lesionados_leves,Numero_lesionados_graves,Numero_victimas,Numero_vehiculos_implicados,Longitud,Latitud,fecha
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca / E Zona Franca              ,Dl,Laboral,Matí,0,1,0,1,2,2.129612,41.336163,2018-01-08 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Olímpic                                           ,Dg,Laboral,Tarda,0,0,0,0,2,2.152513,41.362326,2018-01-28 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca / Número 6 Zona Franca              ,Dc,Laboral,Matí,0,1,0,1,2,2.1328169999999997,41.323437,2018-07-04 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca / E                          ,Dg,Laboral,Matí,0,2,0,2,1,2.130752,41.33549,2018-02-04 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca                              ,Dv,Laboral,Matí,0,0,0,0,2,2.124529,41.337668,2018-09-14 06:00:00
+1,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Méndez Núñez                                      ,Dl,Laboral,Matí,0,0,0,0,1,2.1776009999999997,41.389788,2018-03-19 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca / A Zona Franca              ,Dv,Laboral,Matí,0,1,0,1,2,2.1328169999999997,41.323437,2018-09-21 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca / A Zona Franca              ,Dv,Laboral,Tarda,0,1,0,1,2,2.1328169999999997,41.323437,2018-10-26 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca                              ,Dj,Laboral,Matí,0,1,0,1,2,2.123335,41.323498,2018-12-13 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 5 Zona Franca                              ,Dj,Laboral,Nit,0,1,1,2,2,2.131682,41.323944,2018-09-20 23:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca / E Zona Franca              ,Dj,Laboral,Tarda,0,1,0,1,2,2.1219639999999997,41.323741,2018-10-11 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca / E Zona Franca              ,Ds,Laboral,Matí,0,2,0,2,3,2.1219639999999997,41.323741,2018-03-17 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca                              ,Dl,Laboral,Matí,0,1,0,1,2,2.12082,41.324298,2018-05-14 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca / F Zona Franca              ,Dl,Laboral,Nit,0,4,0,4,4,2.1194439999999997,41.324476000000004,2018-10-08 05:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca                              ,Dj,Laboral,Matí,0,1,0,1,2,2.1183669999999997,41.324533,2018-05-10 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Longitudinal 5                                    ,Dv,Laboral,Matí,0,1,0,1,2,2.117136,41.326796,2018-05-11 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dm,Laboral,Tarda,0,3,0,3,2,2.1346939999999996,41.325806,2018-01-16 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dc,Laboral,Matí,0,1,0,1,2,2.138722,41.332077000000005,2018-04-11 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca / K                          ,Dm,Laboral,Tarda,0,4,0,4,2,2.114227,41.326496999999996,2018-03-13 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca                              ,Dm,Laboral,Matí,0,0,0,0,2,2.114227,41.326496999999996,2018-02-27 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6 Zona Franca                              ,Dj,Laboral,Matí,0,1,0,1,2,2.117598,41.325241999999996,2018-10-11 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 4 Zona Franca                              ,Dm,Laboral,Tarda,0,1,0,1,2,2.1436029999999997,41.33575,2018-06-19 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca / Número 4 Zona Franca              ,Dj,Laboral,Matí,0,2,0,2,2,2.1359310000000002,41.328537,2018-09-06 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Longitudinal 1                                    ,Dc,Laboral,Matí,0,1,0,1,3,2.115847,41.329428,2018-11-07 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 11                                    ,Dm,Laboral,Matí,0,1,0,1,2,2.1159939999999997,41.328539,2018-01-30 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dv,Laboral,Nit,0,2,0,2,2,2.136109,41.329141,2018-04-27 05:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca / Número 4 Zona Franca              ,Dv,Laboral,Tarda,0,1,0,1,2,2.1359310000000002,41.328537,2018-02-16 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 11 / Major de Mercabarna              ,Dm,Laboral,Matí,0,1,0,1,1,2.114155,41.329001,2018-01-16 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Longitudinal 9                                    ,Dm,Laboral,Tarda,0,0,1,1,1,2.120804,41.329149,2018-07-03 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 9 / C. Longitudinal  5                ,Dv,Laboral,Tarda,0,1,0,1,2,2.118089,41.329669,2018-11-02 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 9                                     ,Dv,Laboral,Matí,0,1,0,1,2,2.117502,41.330028000000006,2018-12-07 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca / D Zona Franca              ,Dv,Laboral,Matí,0,1,0,1,2,2.1320490000000003,41.335319,2018-03-16 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 9                                     ,Dm,Laboral,Matí,0,1,0,1,1,2.1210709999999997,41.328481,2018-10-09 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 9                                     ,Dl,Laboral,Matí,0,1,0,1,1,2.117502,41.330028000000006,2018-03-05 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 9 / Longitudinal 3                    ,Dj,Laboral,Matí,0,1,0,1,1,2.117502,41.330028000000006,2018-04-26 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Longitudinal 5                                    ,Dl,Laboral,Nit,0,0,0,0,2,2.1191470000000003,41.3305,2018-05-07 23:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,k                                                 ,Dv,Laboral,Matí,0,1,0,1,2,2.111376,41.330626,2018-12-28 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 9 / Major de Mercabarna               ,Dl,Laboral,Tarda,0,3,0,3,2,2.118089,41.329669,2018-08-06 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 7                                     ,Dv,Laboral,Matí,0,1,0,1,2,2.117249,41.330928,2018-05-04 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Major de Mercabarna / Transversal 7               ,Dm,Laboral,Tarda,0,2,0,2,2,2.115598,41.331359,2018-04-03 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 4 Zona Franca                              ,Dv,Laboral,Tarda,0,2,0,2,4,2.1284919999999996,41.33135,2018-09-28 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Major de Mercabarna / Transversal 7               ,Dm,Laboral,Matí,0,2,0,2,2,2.1176220000000003,41.334421999999996,2018-12-04 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 4 Zona Franca / D Zona Franca              ,Dm,Laboral,Matí,0,1,0,1,2,2.1293159999999998,41.330876,2018-07-10 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 4 Zona Franca / E Zona Franca              ,Dl,Laboral,Tarda,0,1,0,1,1,2.126894,41.331732,2018-10-29 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca / Número 3 Zona Franca              ,Dl,Laboral,Tarda,0,1,0,1,2,2.138671,41.332974,2018-03-12 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca / Número 3 Zona Franca              ,Dm,Laboral,Matí,0,0,0,0,3,2.138671,41.332974,2018-10-02 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dc,Laboral,Matí,0,0,1,1,2,2.1378619999999997,41.332074,2018-05-16 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Major de Mercabarna                               ,Dm,Laboral,Matí,0,1,0,1,2,2.114873,41.330753,2018-09-04 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Tranversal 8 / Longitudinal 8                     ,Dl,Laboral,Matí,0,1,0,1,1,2.113426,41.33218,2018-12-10 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 5                                     ,Dv,Laboral,Matí,0,1,0,1,1,2.117138,41.333131,2018-04-20 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 5 / Longitudinal 3                    ,Dj,Laboral,Matí,0,1,0,1,1,2.117373,41.332873,2018-01-04 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B Zona Franca                                     ,Dv,Laboral,Tarda,0,1,0,1,3,2.1359619999999997,41.332423999999996,2018-02-23 21:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Major de Mercabarna                               ,Ds,Laboral,Nit,0,1,0,1,2,2.116278,41.332829,2018-10-06 03:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Longitudinal 3                                    ,Dc,Laboral,Matí,0,1,0,1,2,2.1181959999999997,41.331621999999996,2018-12-19 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca                              ,Dl,Laboral,Matí,0,1,0,1,2,2.137414,41.333092,2018-12-17 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Ds,Laboral,Nit,0,1,0,1,1,2.1378619999999997,41.332074,2018-08-04 00:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,D Zona Franca                                     ,Dj,Laboral,Tarda,0,1,0,1,2,2.130789,41.332959,2018-02-15 21:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Longitudinal 10 / Transversal 6                   ,Dj,Laboral,Matí,0,1,0,1,2,2.112578,41.333323,2018-02-15 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,E Zona Franca                                     ,Dj,Laboral,Tarda,0,1,0,1,2,2.128002,41.333869,2018-12-27 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca                              ,Dm,Laboral,Matí,0,1,0,1,2,2.1361,41.333614000000004,2018-02-20 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,k zona franca / calle 3                           ,Dv,Laboral,Tarda,0,1,0,1,2,2.1110290000000003,41.333773,2018-04-13 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 6                                     ,Dc,Laboral,Tarda,0,1,0,1,2,2.112116,41.334103999999996,2018-10-10 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Transversal 2                                     ,Dj,Laboral,Matí,0,1,0,1,2,2.116234,41.334728999999996,2018-05-03 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 6                                          ,Dj,Laboral,Tarda,0,1,0,1,2,2.137942,41.341843,2018-05-03 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca                              ,Dc,Laboral,Matí,0,2,0,2,5,2.1358,41.334134999999996,2018-10-10 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca / E Zona Franca              ,Dg,Laboral,Matí,0,1,0,1,2,2.129612,41.336163,2018-03-25 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca / Lletra E                   ,Dc,Laboral,Matí,0,0,0,0,3,2.151883,41.328179,2018-04-25 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca / E Zona Franca              ,Dj,Laboral,Tarda,0,1,0,1,2,2.129612,41.336163,2018-06-14 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Feixa Llarga                                      ,Dl,Laboral,Tarda,0,2,0,2,2,2.111166,41.335539000000004,2018-07-02 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca / E Zona Franca              ,Dv,Laboral,Nit,0,1,0,1,2,2.129612,41.336163,2018-11-09 05:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dc,Laboral,Tarda,0,1,0,1,2,2.141039,41.337143,2018-02-28 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca / E Zona Franca              ,Dl,Laboral,Matí,0,1,0,1,2,2.129612,41.336163,2018-11-26 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Feixa Llarga                                      ,Dl,Laboral,Matí,0,1,0,1,1,2.107912,41.338411,2018-03-26 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 50 Zona Franca                             ,Dj,Laboral,Tarda,0,1,0,1,2,2.121214,41.336838,2018-03-15 20:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca                              ,Dc,Laboral,Tarda,0,1,0,1,3,2.124529,41.337668,2018-05-16 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca                              ,Dj,Laboral,Tarda,0,1,0,1,3,2.124529,41.337668,2018-03-22 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 50 Zona Franca / Número 3 Zona Franca      ,Dl,Laboral,Matí,0,1,0,1,1,2.1204520000000002,41.339426,2018-10-08 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 50 Zona Franca / Número 3 Zona Franca      ,Dl,Laboral,Matí,0,1,0,1,2,2.1204520000000002,41.339426,2018-11-12 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 50 Zona Franca / Número 3 Zona Franca      ,Dm,Laboral,Tarda,0,1,0,1,1,2.1204520000000002,41.339426,2018-12-18 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 50 Zona Franca / Número 3 Zona Franca      ,Dl,Laboral,Nit,0,1,0,1,1,2.1204520000000002,41.339426,2018-10-01 22:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dg,Laboral,Matí,0,2,0,2,2,2.120616,41.340133,2018-05-06 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Ds,Laboral,Matí,0,2,0,2,1,2.114054,41.339771999999996,2018-03-10 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca                              ,Dg,Laboral,Matí,0,0,0,0,1,2.1358,41.334134999999996,2018-10-07 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dc,Laboral,Matí,0,0,0,0,1,2.120616,41.340133,2018-07-25 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 3 Zona Franca                              ,Dl,Laboral,Tarda,0,1,0,1,2,2.151883,41.328179,2018-11-12 20:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 50 Zona Franca / Número 3 Zona Franca      ,Dc,Laboral,Tarda,0,1,0,1,1,2.1204520000000002,41.339426,2018-11-07 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 50 Zona Franca / Número 3 Zona Franca      ,Dm,Laboral,Tarda,0,2,0,2,1,2.1204520000000002,41.339426,2018-11-06 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dv,Laboral,Matí,0,1,0,1,2,2.145356,41.343094,2018-06-01 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dl,Laboral,Tarda,0,1,0,1,2,2.124415,41.341083000000005,2018-01-29 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dl,Laboral,Nit,0,0,1,1,2,2.122302,41.34022,2018-04-23 05:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,2,0,2,5,2.125569,41.341339000000005,2018-07-27 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dm,Laboral,Matí,0,0,0,0,2,2.128743,41.342613,2018-12-11 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,4,2.125569,41.341339000000005,2018-06-29 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.125569,41.341339000000005,2018-05-11 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca / Número 2 Zona Franca              ,Dm,Laboral,Tarda,0,1,0,1,2,2.144155,41.341709,2018-01-16 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dm,Laboral,Tarda,0,1,0,1,2,2.1442490000000003,41.342352000000005,2018-02-13 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dm,Laboral,Nit,0,1,0,1,2,2.128743,41.342613,2018-04-03 05:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 60 Zona Franca                             ,Dj,Laboral,Tarda,0,0,0,0,2,2.1424380000000003,41.343042,2018-08-09 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dc,Laboral,Tarda,0,0,0,0,1,2.144778,41.343214,2018-11-14 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dj,Laboral,Tarda,0,0,0,0,1,2.144778,41.343214,2018-10-18 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dc,Laboral,Matí,0,0,0,0,1,2.144778,41.343214,2018-10-31 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A                                                 ,Ds,Laboral,Tarda,0,0,0,0,1,2.144778,41.343214,2018-05-26 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dc,Laboral,Matí,0,0,0,0,1,2.144778,41.343214,2018-08-01 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dm,Laboral,Matí,0,0,0,0,1,2.144778,41.343214,2018-10-09 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dl,Laboral,Nit,1,0,1,2,2,2.1288259999999997,41.342475,2018-04-23 03:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dc,Laboral,Tarda,0,0,0,0,1,2.134155,41.344516999999996,2018-02-21 20:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 1 Zona Franca / A Zona Franca              ,Dl,Laboral,Matí,0,1,0,1,2,2.14584,41.344353000000005,2018-01-22 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca / Número 1 Zona Franca              ,Dm,Laboral,Matí,0,1,0,1,2,2.14584,41.344353000000005,2018-01-09 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.133152,41.344008,2018-07-06 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Ds,Laboral,Tarda,0,0,1,1,1,2.128749,41.345135,2018-07-28 21:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dl,Laboral,Matí,0,1,0,1,2,2.128677,41.345553,2018-06-11 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dl,Laboral,Matí,0,0,0,0,2,2.136396,41.345159,2018-03-19 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,1,0,1,3,2.134234,41.344390999999995,2018-06-21 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,3,0,3,4,2.136396,41.345159,2018-07-05 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Ds,Laboral,Nit,0,0,0,0,1,2.136396,41.345159,2018-01-06 02:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,1,0,1,3,2.137491,41.345521999999995,2018-10-11 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Matí,0,2,0,2,3,2.141785,41.347103000000004,2018-01-24 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.138572,41.345908,2018-05-23 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Ds,Laboral,Nit,0,0,0,0,1,2.132063,41.3468,2018-01-13 01:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,1,0,1,3,2.154434,41.351715999999996,2018-02-01 20:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dv,Laboral,Nit,0,0,0,0,1,2.140734,41.346676,2018-04-06 00:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 62 Zona Franca / A Zona Franca             ,Dc,Laboral,Nit,0,1,0,1,2,2.145506,41.347798,2018-10-03 05:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 62 Zona Franca / A Zona Franca             ,Dm,Laboral,Matí,0,1,0,1,2,2.145506,41.347798,2018-01-16 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 62 Zona Franca / A Zona Franca             ,Dl,Laboral,Matí,0,1,0,1,2,2.145506,41.347798,2018-12-10 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Número 62 Zona Franca / LLETRA A                  ,Dl,Laboral,Matí,0,1,0,1,2,2.139303,41.344241,2018-01-29 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Ds,Laboral,Tarda,0,0,0,0,2,2.1354509999999998,41.347438000000004,2018-10-06 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dc,Laboral,Tarda,0,1,0,1,2,2.1333439999999997,41.346716,2018-01-10 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dl,Laboral,Tarda,0,1,0,1,3,2.141785,41.347103000000004,2018-04-30 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dl,Laboral,Tarda,0,1,0,1,2,2.134984,41.347799,2018-06-11 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dj,Laboral,Tarda,0,2,0,2,2,2.1333439999999997,41.346716,2018-05-10 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dj,Laboral,Tarda,0,1,0,1,2,2.134984,41.347799,2018-12-27 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dc,Laboral,Tarda,0,1,0,1,2,2.134984,41.347799,2018-01-24 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dm,Laboral,Tarda,0,1,0,1,2,2.136037,41.348158000000005,2018-02-27 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.1572459999999998,41.352392,2018-07-25 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dj,Laboral,Matí,0,1,0,1,3,2.143989,41.347826,2018-05-03 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,A Zona Franca                                     ,Dj,Laboral,Tarda,0,1,0,1,2,2.1464630000000002,41.346533,2018-04-05 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dm,Laboral,Tarda,0,0,0,0,3,2.147027,41.349257,2018-11-27 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.147027,41.349257,2018-07-19 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.147027,41.349257,2018-02-09 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Metal·lúrgia                                      ,Dg,Laboral,Matí,0,1,0,1,1,2.137298,41.349394000000004,2018-02-18 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.147027,41.349257,2018-09-05 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dm,Laboral,Tarda,0,1,0,1,2,2.1480639999999998,41.3497,2018-04-03 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dl,Laboral,Matí,0,1,0,1,2,2.145722,41.350563,2018-09-17 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dl,Laboral,Tarda,0,2,0,2,1,2.145722,41.350563,2018-08-13 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dg,Laboral,Nit,0,0,0,0,1,2.146414,41.350251,2018-09-16 22:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dm,Laboral,Matí,0,1,0,1,2,2.145473,41.351669,2018-02-20 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors / Zona Franca                              ,Dc,Laboral,Tarda,0,1,0,1,2,2.145666,41.351003999999996,2018-07-11 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dj,Laboral,Tarda,0,1,0,1,2,2.146105,41.35111,2018-05-31 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dg,Laboral,Tarda,0,1,0,1,2,2.151093,41.35116,2018-07-29 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dj,Laboral,Tarda,0,1,0,1,2,2.146114,41.350778999999996,2018-12-20 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca / Motors                              ,Dg,Laboral,Tarda,0,3,0,3,2,2.145666,41.351003999999996,2018-09-02 21:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca / Motors                              ,Ds,Laboral,Tarda,0,1,0,1,2,2.145666,41.351003999999996,2018-01-20 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dl,Laboral,Matí,0,1,0,1,2,2.142938,41.349996000000004,2018-10-22 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Cal Cisó                                          ,Dl,Laboral,Tarda,0,1,0,1,2,2.1418169999999996,41.350787,2018-02-12 21:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dv,Laboral,Tarda,0,2,0,2,2,2.152299,41.351299,2018-02-16 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Acer                                              ,Dm,Laboral,Tarda,0,1,0,1,2,2.13761,41.351231,2018-02-06 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors / Zona Franca                              ,Dj,Laboral,Tarda,0,1,0,1,2,2.145666,41.351003999999996,2018-12-20 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Ds,Laboral,Matí,0,1,0,1,2,2.1450150000000003,41.351306,2018-12-22 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dv,Laboral,Matí,0,1,0,1,2,2.145722,41.350563,2018-12-14 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.1572459999999998,41.352392,2018-10-10 20:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.152299,41.351299,2018-05-03 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dm,Laboral,Tarda,0,1,0,1,2,2.152299,41.351299,2018-10-09 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,3,2.154574,41.3518,2018-07-04 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dm,Laboral,Tarda,0,1,0,1,2,2.1555470000000003,41.352364,2018-07-03 20:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dl,Laboral,Matí,0,1,0,1,2,2.154574,41.3518,2018-06-18 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Ds,Laboral,Tarda,0,1,0,1,2,2.145227,41.352004,2018-10-20 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Motors                                            ,Dm,Laboral,Matí,0,1,0,1,2,2.148879,41.352165,2018-06-12 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port                               ,Dv,Laboral,Matí,0,0,0,0,1,2.149624,41.353297,2018-05-04 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port                               ,Dc,Laboral,Tarda,0,2,0,2,2,2.151432,41.35244,2018-01-24 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port                               ,Dm,Laboral,Matí,0,0,0,0,1,2.152216,41.352044,2018-06-19 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port                               ,Dl,Laboral,Matí,0,1,0,1,2,2.154948,41.35163,2018-10-08 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port / Cantunis                    ,Dc,Laboral,Tarda,0,2,0,2,2,2.158849,41.352068,2018-06-06 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port                               ,Dj,Laboral,Tarda,0,1,0,1,2,2.1585419999999997,41.352158,2018-04-19 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port                               ,Dv,Laboral,Matí,0,1,0,1,2,2.157848,41.352162,2018-06-08 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port                               ,Dm,Laboral,Tarda,0,1,0,1,2,2.154948,41.35163,2018-07-10 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Plom / Acer                                       ,Dj,Laboral,Matí,0,2,0,2,2,2.136558,41.352092,2018-04-05 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Ulldecona / Sovelles                              ,Dv,Laboral,Matí,0,0,0,0,1,2.143206,41.352396,2018-05-04 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.154574,41.3518,2018-05-23 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port / Motors                      ,Ds,Laboral,Tarda,0,1,0,1,2,2.151053,41.352920000000005,2018-12-01 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Metal·lúrgia                                      ,Ds,Laboral,Matí,0,1,0,1,2,2.1350540000000002,41.351754,2018-06-23 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Mare de Déu de Port                               ,Dv,Laboral,Tarda,0,0,0,0,1,2.156486,41.352933,2018-08-03 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dm,Laboral,Matí,0,1,0,1,2,2.155751,41.352038,2018-12-04 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dm,Laboral,Matí,0,1,0,1,2,2.155751,41.352038,2018-09-18 08:00:00
+3,Sants-Montjuïc,el Poble-sec,Mare de Déu de Port / Motors                      ,Ds,Laboral,Matí,0,1,0,1,2,2.151053,41.352920000000005,2018-12-29 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Motors / Mare de Déu de Port                      ,Dj,Laboral,Matí,0,1,0,1,3,2.151053,41.352920000000005,2018-07-26 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca / Ulldecona                           ,Dc,Laboral,Matí,0,0,0,0,1,2.144211,41.353021000000005,2018-03-28 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dj,Laboral,Tarda,0,1,0,1,2,2.157825,41.353001,2018-05-24 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.156821,41.352475,2018-01-03 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Nou                                               ,Dg,Laboral,Tarda,0,2,0,2,1,2.1414009999999997,41.353524,2018-07-08 19:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Ds,Laboral,Nit,1,0,0,1,1,2.159933,41.355195,2018-12-01 01:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Nit,0,2,0,2,3,2.156821,41.352475,2018-04-27 22:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dm,Laboral,Tarda,0,2,0,2,2,2.143938,41.353677000000005,2018-10-16 16:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Besòs)                                   ,Dg,Laboral,Matí,0,1,0,1,2,2.1600759999999997,41.355115000000005,2018-06-10 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca / Cisell                              ,Dl,Laboral,Matí,0,1,0,1,2,2.1433400000000002,41.3542,2018-01-22 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dl,Laboral,Nit,0,4,0,4,4,2.157825,41.353001,2018-02-05 22:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Cisell                                            ,Dm,Laboral,Matí,0,0,1,1,2,2.1425009999999998,41.353814,2018-06-26 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca / Cisell                              ,Dv,Laboral,Matí,0,1,0,1,2,2.1433400000000002,41.3542,2018-11-09 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dj,Laboral,Tarda,0,1,0,1,2,2.159933,41.355195,2018-01-11 15:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca                                       ,Dj,Laboral,Tarda,0,0,0,0,1,2.14332,41.354639,2018-05-03 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Mare de Déu de Port                               ,Dj,Laboral,Tarda,0,1,0,1,2,2.146667,41.354821,2018-06-28 15:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc / Urani                                       ,Dm,Laboral,Matí,0,1,0,1,2,2.138761,41.355074,2018-01-16 09:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc                                               ,Dm,Laboral,Tarda,0,1,0,1,2,2.138377,41.355072,2018-03-27 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dj,Laboral,Tarda,0,0,0,0,2,2.142801,41.355345,2018-06-14 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Foc                                               ,Dv,Laboral,Matí,0,1,0,1,2,2.13963,41.35532,2018-05-11 13:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc / Urani                                       ,Dm,Laboral,Tarda,0,1,0,1,1,2.138761,41.355074,2018-01-16 16:00:00
+3,Sants-Montjuïc,la Marina de Port,Alumini                                           ,Dv,Laboral,Matí,0,1,0,1,2,2.1357310000000003,41.355419,2018-07-13 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Besòs)                                   ,Dm,Laboral,Matí,0,2,0,2,2,2.1607939999999997,41.355823,2018-03-06 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.1623069999999998,41.357183,2018-01-25 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dg,Laboral,Nit,0,2,0,2,2,2.160666,41.355903999999995,2018-11-11 03:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca / Foc                                 ,Dv,Laboral,Matí,0,2,0,2,2,2.1418,41.356324,2018-11-09 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dm,Laboral,Tarda,0,2,0,2,2,2.1417610000000002,41.355989,2018-10-23 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca                                       ,Dj,Laboral,Tarda,0,3,0,3,2,2.1429110000000002,41.354403999999995,2018-05-24 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Foc / Zona Franca                                 ,Dm,Laboral,Matí,0,2,0,2,2,2.1418,41.356324,2018-05-08 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca / Foc                                 ,Dj,Laboral,Tarda,0,1,0,1,2,2.1418,41.356324,2018-12-20 20:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Zona Franca / Foc                                 ,Dc,Laboral,Tarda,0,1,0,1,2,2.1418,41.356324,2018-03-21 14:00:00
+3,Sants-Montjuïc,la Marina de Port,Mare de Déu de Port / Vilageliu i Gavaldà         ,Dm,Laboral,Matí,0,1,0,1,1,2.14512,41.35613,2018-11-27 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.1615439999999997,41.356507,2018-03-23 16:00:00
+3,Sants-Montjuïc,el Poble-sec,B-10 (Llobregat)                                  ,Dl,Laboral,Matí,0,2,0,2,3,2.16142,41.356586,2018-05-14 08:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca / Foc                                 ,Dm,Laboral,Matí,0,2,0,2,1,2.1418,41.356324,2018-06-12 07:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca                                       ,Dm,Laboral,Matí,0,1,0,1,2,2.141315,41.356621999999994,2018-12-04 07:00:00
+3,Sants-Montjuïc,la Marina de Port,Mare de Déu de Port / Vilageliu i Gavaldà         ,Dv,Laboral,Tarda,0,2,0,2,2,2.14512,41.35613,2018-09-14 14:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc                                               ,Dj,Laboral,Tarda,0,1,0,1,2,2.142629,41.356497,2018-04-26 18:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc                                               ,Dj,Laboral,Tarda,0,1,0,1,2,2.142629,41.356497,2018-03-01 20:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc / Zona Franca                                 ,Dm,Laboral,Tarda,0,1,0,1,2,2.1418,41.356324,2018-06-12 19:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca                                       ,Dj,Laboral,Tarda,0,1,0,1,1,2.141495,41.35715,2018-06-14 17:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns / Urani                                ,Dj,Laboral,Matí,0,1,0,1,2,2.137209,41.357186,2018-09-06 09:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns                                        ,Dc,Laboral,Tarda,0,1,0,1,1,2.1384279999999998,41.357561,2018-11-28 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dj,Laboral,Tarda,0,1,0,1,2,2.1615439999999997,41.356507,2018-08-02 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Ds,Laboral,Matí,0,1,0,1,2,2.1615439999999997,41.356507,2018-06-02 12:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns                                        ,Dg,Laboral,Tarda,0,1,0,1,2,2.138808,41.35795,2018-01-07 19:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc                                               ,Dm,Laboral,Tarda,0,1,0,1,2,2.1440759999999996,41.358389,2018-04-03 21:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc                                               ,Dv,Laboral,Matí,0,2,0,2,2,2.1440759999999996,41.358389,2018-11-23 12:00:00
+3,Sants-Montjuïc,la Marina de Port,Mare de Déu de Port / Foc                         ,Dv,Laboral,Matí,0,2,0,2,1,2.143581,41.357988,2018-04-27 10:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns / Zona Franca                          ,Ds,Laboral,Tarda,0,1,0,1,2,2.140346,41.358358,2018-06-02 15:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns / Zona Franca                          ,Dv,Laboral,Tarda,0,1,0,1,2,2.140346,41.358358,2018-06-08 15:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns                                        ,Ds,Laboral,Tarda,0,0,0,0,2,2.141509,41.359103000000005,2018-05-19 20:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns                                        ,Ds,Laboral,Matí,0,0,0,0,2,2.141036,41.358964,2018-05-26 07:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca                                       ,Dg,Laboral,Matí,0,0,0,0,2,2.139368,41.359286,2018-06-24 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Foc                                               ,Dl,Laboral,Matí,0,1,0,1,2,2.1440759999999996,41.358389,2018-03-12 13:00:00
+3,Sants-Montjuïc,la Marina de Port,Ferrocarrils Catalans                             ,Dl,Laboral,Tarda,0,1,0,1,2,2.144365,41.359345000000005,2018-08-20 14:00:00
+3,Sants-Montjuïc,la Marina de Port,Ferrocarrils Catalans                             ,Dl,Laboral,Tarda,0,0,0,0,1,2.144365,41.359345000000005,2018-08-13 20:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc / Ferrocarrils Catalans                       ,Dl,Laboral,Matí,0,1,0,1,2,2.144593,41.359048,2018-07-23 11:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc                                               ,Dv,Laboral,Matí,0,0,0,0,2,2.1478189999999997,41.359964,2018-01-05 07:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns / Mare de Déu de Port                  ,Dc,Laboral,Matí,0,2,0,2,2,2.1420619999999997,41.359607000000004,2018-01-31 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dl,Laboral,Matí,0,1,0,1,2,2.163912,41.358471,2018-07-09 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Besòs)                                   ,Dc,Laboral,Matí,0,1,0,1,1,2.165611,41.359691999999995,2018-01-24 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Migdia                                            ,Dm,Laboral,Tarda,0,1,0,1,1,2.159712,41.361377000000005,2018-05-29 14:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc                                               ,Dm,Laboral,Matí,0,2,0,2,2,2.147033,41.359912,2018-02-06 12:00:00
+3,Sants-Montjuïc,la Marina de Port,Mare de Déu de Port / Alts Forns                  ,Ds,Laboral,Matí,0,1,0,1,2,2.1420619999999997,41.359607000000004,2018-12-01 09:00:00
+3,Sants-Montjuïc,la Marina de Port,Alts Forns / Mare de Déu de Port                  ,Dj,Laboral,Tarda,0,2,0,2,1,2.1420619999999997,41.359607000000004,2018-09-20 18:00:00
+3,Sants-Montjuïc,la Marina de Port,Jocs del 92 / Foc                                 ,Dm,Laboral,Matí,0,1,0,1,3,2.149901,41.359761999999996,2018-06-26 08:00:00
+3,Sants-Montjuïc,la Marina de Port,Foc / Jocs del 92                                 ,Dc,Laboral,Matí,0,1,0,1,2,2.149901,41.359761999999996,2018-12-12 13:00:00
+3,Sants-Montjuïc,la Marina de Port,Mecànica / Foneria                                ,Dj,Laboral,Tarda,0,1,0,1,2,2.137165,41.359905,2018-01-04 18:00:00
+3,Sants-Montjuïc,la Marina de Port,Foneria                                           ,Ds,Laboral,Tarda,0,0,0,0,3,2.137609,41.359996,2018-03-17 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Foc / Jocs del 92                                 ,Dv,Laboral,Matí,0,1,0,1,2,2.149901,41.359761999999996,2018-12-21 07:00:00
+3,Sants-Montjuïc,la Marina de Port,Foneria                                           ,Dj,Laboral,Matí,0,1,0,1,2,2.13816,41.36022,2018-06-28 08:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca / Foneria                             ,Dj,Laboral,Nit,0,2,0,2,2,2.138747,41.360548,2018-11-01 00:00:00
+3,Sants-Montjuïc,la Marina de Port,Ferrocarrils Catalans                             ,Dg,Laboral,Matí,0,0,0,0,6,2.142385,41.36043,2018-06-24 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dj,Laboral,Tarda,0,6,0,6,3,2.165611,41.359691999999995,2018-08-16 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dm,Laboral,Tarda,0,1,0,1,3,2.1681209999999997,41.361562,2018-05-22 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,2,0,2,3,2.165611,41.359691999999995,2018-07-27 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dc,Laboral,Tarda,0,1,0,1,3,2.1681209999999997,41.361562,2018-10-24 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dg,Laboral,Tarda,0,5,0,5,3,2.1681209999999997,41.361562,2018-02-18 20:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.165611,41.359691999999995,2018-04-06 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dg,Laboral,Tarda,0,1,0,1,2,2.165611,41.359691999999995,2018-12-23 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dl,Laboral,Matí,0,2,0,2,2,2.167249,41.360975,2018-03-12 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.165611,41.359691999999995,2018-12-27 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,0,0,0,3,2.165611,41.359691999999995,2018-05-31 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dj,Laboral,Matí,0,1,0,1,3,2.1681209999999997,41.361562,2018-03-22 09:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dv,Laboral,Matí,0,1,0,1,3,2.1681209999999997,41.361562,2018-08-24 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dc,Laboral,Matí,0,5,0,5,2,2.1681209999999997,41.361562,2018-05-16 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dv,Laboral,Matí,0,1,0,1,2,2.1681209999999997,41.361562,2018-06-01 08:00:00
+3,Sants-Montjuïc,el Poble-sec,B-10 (Llobregat)                                  ,Dv,Laboral,Tarda,0,1,0,1,3,2.1681209999999997,41.361562,2018-10-26 16:00:00
+3,Sants-Montjuïc,la Marina de Port,Foneria / Zona Franca                             ,Dj,Laboral,Tarda,0,1,0,1,2,2.138747,41.360548,2018-08-02 18:00:00
+3,Sants-Montjuïc,la Marina de Port,Jocs del 92 / Foc                                 ,Dj,Laboral,Nit,0,1,0,1,2,2.149901,41.359761999999996,2018-07-12 00:00:00
+3,Sants-Montjuïc,la Marina de Port,Jocs del 92                                       ,Dv,Laboral,Tarda,0,1,0,1,2,2.148593,41.361864000000004,2018-03-02 15:00:00
+3,Sants-Montjuïc,el Poble-sec,Olímpic                                           ,Ds,Laboral,Tarda,0,1,0,1,2,2.1569439999999998,41.366077000000004,2018-02-17 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Foc / Migdia                                      ,Dg,Laboral,Tarda,0,1,0,1,2,2.151691,41.360274,2018-04-15 16:00:00
+3,Sants-Montjuïc,el Poble-sec,Pierre de Coubertin                               ,Dc,Laboral,Tarda,0,1,0,1,1,2.151206,41.361305,2018-12-05 20:00:00
+3,Sants-Montjuïc,el Poble-sec,B-10 (Llobregat)                                  ,Dl,Laboral,Matí,0,2,0,2,4,2.1681209999999997,41.361562,2018-03-12 09:00:00
+3,Sants-Montjuïc,el Poble-sec,B-10 (Llobregat)                                  ,Dv,Laboral,Matí,0,2,0,2,4,2.1681209999999997,41.361562,2018-06-22 08:00:00
+3,Sants-Montjuïc,el Poble-sec,B-10 (Llobregat)                                  ,Dl,Laboral,Matí,0,1,0,1,2,2.1681209999999997,41.361562,2018-01-08 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.169062,41.362125,2018-05-02 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dl,Laboral,Tarda,0,1,0,1,3,2.169062,41.362125,2018-11-12 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Ds,Laboral,Nit,0,0,0,0,2,2.168929,41.362194,2018-06-02 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Olímpic                                           ,Dg,Laboral,Nit,0,0,0,0,2,2.1558889999999997,41.362378,2018-07-01 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Pierre de Coubertin                               ,Dj,Laboral,Tarda,0,1,0,1,2,2.1509669999999996,41.362586,2018-04-19 17:00:00
+3,Sants-Montjuïc,la Marina de Port,Segura                                            ,Dc,Laboral,Matí,0,2,0,2,2,2.141509,41.363474,2018-07-04 11:00:00
+3,Sants-Montjuïc,la Marina de Port,Prat / Radi                                       ,Dl,Laboral,Nit,0,1,0,1,2,2.135427,41.362279,2018-07-30 03:00:00
+3,Sants-Montjuïc,la Marina de Port,Jocs del 92 / Segura                              ,Dm,Laboral,Tarda,0,2,0,2,1,2.146043,41.36309,2018-07-24 17:00:00
+3,Sants-Montjuïc,la Marina de Port,Mare de Déu de Port                               ,Ds,Laboral,Tarda,0,1,0,1,1,2.139381,41.362971,2018-10-27 14:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca                                       ,Dj,Laboral,Matí,0,1,0,1,1,2.1366389999999997,41.363036,2018-08-02 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Doctor Font i Quer                                ,Dj,Laboral,Nit,0,0,0,0,2,2.1587680000000002,41.364098,2018-02-08 00:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes / Radi                            ,Dm,Laboral,Matí,0,1,0,1,2,2.133726,41.363474,2018-02-20 09:00:00
+3,Sants-Montjuïc,la Marina de Port,Mare de Déu de Port                               ,Ds,Laboral,Matí,0,2,0,2,2,2.139381,41.362971,2018-08-04 13:00:00
+3,Sants-Montjuïc,la Marina de Port,Mineria / Zona Franca                             ,Dj,Laboral,Matí,0,1,0,1,2,2.136531,41.363638,2018-12-20 09:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca / Mineria                             ,Dg,Laboral,Matí,0,1,0,1,1,2.136531,41.363638,2018-02-25 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dl,Laboral,Tarda,0,1,0,1,2,2.169062,41.362125,2018-03-12 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Miramar                                           ,Dm,Laboral,Tarda,0,0,0,0,1,2.171329,41.365928000000004,2018-10-09 21:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dj,Laboral,Tarda,0,1,0,1,2,2.169062,41.362125,2018-04-26 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dm,Laboral,Matí,0,2,0,2,4,2.168929,41.362194,2018-06-19 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dl,Laboral,Matí,0,1,0,1,2,2.171625,41.366096,2018-04-16 07:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Miramar                                           ,Ds,Laboral,Nit,0,2,0,2,1,2.171329,41.365928000000004,2018-04-28 01:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dm,Laboral,Matí,0,1,0,1,3,2.168929,41.362194,2018-07-03 12:00:00
+3,Sants-Montjuïc,la Marina de Port,Zona Franca                                       ,Dj,Laboral,Matí,0,1,0,1,2,2.135723,41.36384,2018-10-04 13:00:00
+3,Sants-Montjuïc,la Marina de Port,Ildefons Cerdà                                    ,Ds,Laboral,Nit,0,1,0,1,1,2.134562,41.364549,2018-04-14 02:00:00
+3,Sants-Montjuïc,el Poble-sec,Olímpic                                           ,Dl,Laboral,Tarda,0,1,0,1,2,2.154352,41.361915,2018-01-08 19:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes / Ildefons Cerdà                  ,Dc,Laboral,Matí,0,2,0,2,2,2.134649,41.364176,2018-04-18 07:00:00
+3,Sants-Montjuïc,la Marina de Port,Ildefons Cerdà / Zona Franca                      ,Dv,Laboral,Matí,0,1,0,1,2,2.135836,41.364421,2018-10-26 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Polvorí / Segura                                  ,Ds,Laboral,Tarda,0,0,0,0,1,2.1439209999999997,41.363969,2018-08-25 15:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dl,Laboral,Matí,0,5,0,5,5,2.133801,41.364177000000005,2018-02-26 11:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.133801,41.364177000000005,2018-08-31 15:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes / Radi                            ,Dj,Laboral,Tarda,0,1,0,1,1,2.133726,41.363474,2018-02-01 17:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dj,Laboral,Matí,0,1,0,1,2,2.133801,41.364177000000005,2018-08-16 11:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dm,Laboral,Matí,0,1,0,1,1,2.133801,41.364177000000005,2018-04-24 09:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes / Radi                            ,Dc,Laboral,Matí,0,1,0,1,2,2.133726,41.363474,2018-10-24 10:00:00
+3,Sants-Montjuïc,la Marina de Port,Mineria                                           ,Dg,Laboral,Tarda,0,1,0,1,2,2.137945,41.364506,2018-02-11 17:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dg,Laboral,Matí,0,1,0,1,2,2.133801,41.364177000000005,2018-04-15 13:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà                                    ,Dc,Laboral,Matí,0,1,0,1,2,2.134537,41.364776,2018-01-31 06:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà / Corts Catalanes                  ,Dl,Laboral,Matí,0,1,0,1,3,2.134649,41.364176,2018-01-22 09:00:00
+3,Sants-Montjuïc,la Bordeta,C-31                                              ,Dj,Laboral,Matí,0,1,0,1,2,2.188856,41.404701,2018-12-13 07:00:00
+3,Sants-Montjuïc,la Marina de Port,Mare de Déu de Port                               ,Dj,Laboral,Tarda,0,0,0,0,4,2.1390830000000003,41.364126,2018-11-01 16:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà                                    ,Dm,Laboral,Tarda,0,1,0,1,2,2.134562,41.364549,2018-11-27 14:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dg,Laboral,Matí,0,1,0,1,1,2.136468,41.365161,2018-04-29 06:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,1,2.136468,41.365161,2018-02-28 09:00:00
+3,Sants-Montjuïc,la Marina de Port,Ildefons Cerdà / Corts Catalanes                  ,Dj,Laboral,Nit,0,1,0,1,1,2.134649,41.364176,2018-08-02 22:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dv,Laboral,Matí,0,1,0,1,1,2.136468,41.365161,2018-02-09 10:00:00
+3,Sants-Montjuïc,la Marina de Port,Ildefons Cerdà / Zona Franca                      ,Dm,Laboral,Tarda,0,1,0,1,2,2.135836,41.364421,2018-09-04 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Polvorí                                           ,Dm,Laboral,Tarda,0,1,0,1,2,2.1446650000000003,41.365109999999994,2018-03-27 14:00:00
+3,Sants-Montjuïc,la Marina de Port,Mare de Déu de Port / Mineria                     ,Dv,Laboral,Matí,0,0,0,0,1,2.1389009999999997,41.365083,2018-09-14 06:00:00
+3,Sants-Montjuïc,la Marina de Port,Llorca                                            ,Dv,Laboral,Nit,0,0,0,0,2,2.141364,41.364618,2018-11-02 01:00:00
+3,Sants-Montjuïc,la Bordeta,Badal / Ildefons Cerdà                            ,Dg,Laboral,Matí,0,1,0,1,2,2.135343,41.365109999999994,2018-02-04 13:00:00
+3,Sants-Montjuïc,la Bordeta,Badal                                             ,Dg,Laboral,Tarda,1,7,0,8,12,2.13485,41.365229,2018-09-30 20:00:00
+3,Sants-Montjuïc,la Bordeta,Mig (Descendent)                                  ,Dv,Laboral,Matí,0,1,0,1,3,2.128001,41.382867,2018-10-26 07:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà                                    ,Dj,Laboral,Matí,0,1,0,1,2,2.135454,41.364129999999996,2018-11-15 10:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà                                    ,Dv,Laboral,Matí,0,1,0,1,2,2.134562,41.364549,2018-04-20 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Jocs del 92 / Estadi                              ,Dg,Laboral,Tarda,0,1,0,1,2,2.145782,41.365614,2018-05-06 21:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi / Jocs del 92                              ,Dv,Laboral,Tarda,0,1,0,1,2,2.145782,41.365614,2018-06-08 18:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dj,Laboral,Matí,0,1,0,1,2,2.136012,41.365497,2018-05-03 12:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà                                    ,Dm,Laboral,Matí,0,1,0,1,2,2.136301,41.3649,2018-05-22 06:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà / Corts Catalanes                  ,Dv,Laboral,Matí,0,1,0,1,2,2.134649,41.364176,2018-11-23 13:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà                                    ,Dj,Laboral,Matí,0,1,0,1,2,2.134562,41.364549,2018-08-02 08:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà / Corts Catalanes                  ,Dc,Laboral,Tarda,0,1,0,1,2,2.134649,41.364176,2018-04-04 20:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà / Badal                            ,Dg,Laboral,Tarda,0,1,1,2,2,2.135343,41.365109999999994,2018-03-18 19:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dm,Laboral,Nit,0,2,0,2,1,2.136012,41.365497,2018-07-03 02:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà / Badal                            ,Dl,Laboral,Nit,0,1,0,1,2,2.135343,41.365109999999994,2018-07-23 23:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà                                    ,Dv,Laboral,Matí,0,1,0,1,2,2.134562,41.364549,2018-12-28 13:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà / Badal                            ,Dv,Laboral,Matí,0,1,0,1,2,2.135343,41.365109999999994,2018-05-11 10:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà                                    ,Dc,Laboral,Matí,0,1,0,1,2,2.134562,41.364549,2018-02-21 08:00:00
+3,Sants-Montjuïc,la Bordeta,Ildefons Cerdà / Corts Catalanes                  ,Dc,Laboral,Tarda,0,2,0,2,3,2.134649,41.364176,2018-06-13 18:00:00
+3,Sants-Montjuïc,la Marina de Port,Física / Corts Catalanes                          ,Dl,Laboral,Matí,0,1,0,1,2,2.136422,41.365471,2018-03-26 07:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dg,Laboral,Tarda,0,1,0,1,1,2.136204,41.365639,2018-03-18 16:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes / Ildefons Cerdà                  ,Ds,Laboral,Tarda,0,1,0,1,2,2.134649,41.364176,2018-05-26 20:00:00
+3,Sants-Montjuïc,la Bordeta,Badal                                             ,Dv,Laboral,Nit,0,1,0,1,2,2.13485,41.365229,2018-02-23 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Tarongers                                         ,Dg,Laboral,Tarda,0,1,0,1,1,2.165445,41.367321999999994,2018-04-29 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Besòs)                                   ,Ds,Laboral,Tarda,0,1,0,1,3,2.171885,41.366019,2018-10-27 15:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dl,Laboral,Nit,0,2,0,2,2,2.171625,41.366096,2018-04-16 05:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dm,Laboral,Tarda,0,11,0,11,9,2.206236,41.44314,2018-10-02 18:00:00
+3,Sants-Montjuïc,la Bordeta,Badal                                             ,Dj,Laboral,Matí,0,1,0,1,2,2.13485,41.365229,2018-11-29 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Ds,Laboral,Nit,0,2,0,2,1,2.171885,41.366019,2018-12-15 03:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi                                            ,Dg,Laboral,Tarda,0,1,0,1,2,2.154385,41.36593,2018-11-11 17:00:00
+3,Sants-Montjuïc,la Bordeta,Badal / Carrilet                                  ,Dv,Laboral,Matí,0,1,0,1,2,2.134714,41.366082,2018-06-08 13:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dv,Laboral,Matí,0,2,0,2,4,2.136643,41.365966,2018-06-08 08:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.137634,41.36606,2018-01-19 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Tarongers                                         ,Dg,Laboral,Nit,0,1,0,1,2,2.165445,41.367321999999994,2018-01-21 02:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dl,Laboral,Matí,0,1,0,1,1,2.137729,41.366116999999996,2018-10-15 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi                                            ,Dv,Laboral,Tarda,0,1,0,1,2,2.146895,41.365346,2018-03-23 18:00:00
+3,Sants-Montjuïc,la Marina de Port,Química                                           ,Dc,Laboral,Tarda,0,1,0,1,2,2.138273,41.365645,2018-04-11 15:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes / Química                         ,Dv,Laboral,Tarda,0,1,0,1,2,2.137642,41.36638,2018-07-27 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi                                            ,Dj,Laboral,Matí,0,2,0,2,2,2.150776,41.366252,2018-03-01 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi / Olímpic                                  ,Ds,Laboral,Tarda,0,1,0,1,2,2.150139,41.366747,2018-12-29 21:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.172133,41.366507,2018-03-09 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dc,Laboral,Nit,0,1,0,1,2,2.172133,41.366507,2018-09-05 00:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dl,Laboral,Tarda,0,1,0,1,2,2.1715619999999998,41.366603999999995,2018-04-30 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dl,Laboral,Tarda,0,1,0,1,2,2.1715619999999998,41.366603999999995,2018-09-03 14:00:00
+3,Sants-Montjuïc,la Bordeta,Camí de la cadena / Corts Catalanes               ,Dj,Laboral,Matí,0,1,0,1,2,2.137642,41.36638,2018-04-12 09:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes / Cadena                          ,Dm,Laboral,Matí,0,1,0,1,2,2.137642,41.36638,2018-05-15 07:00:00
+3,Sants-Montjuïc,la Bordeta,Carrilet                                          ,Dl,Laboral,Tarda,0,1,0,1,2,2.1358099999999998,41.366526,2018-07-09 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi                                            ,Dg,Laboral,Tarda,0,3,0,3,1,2.150776,41.366252,2018-02-04 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi                                            ,Dm,Laboral,Tarda,0,1,0,1,1,2.150776,41.366252,2018-11-20 18:00:00
+3,Sants-Montjuïc,la Bordeta,Blanca / Quetzal                                  ,Dm,Laboral,Matí,0,1,0,1,2,2.132314,41.366382,2018-03-27 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,2,0,2,2,2.171885,41.366019,2018-11-15 21:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dv,Laboral,Matí,0,0,1,1,2,2.1384939999999997,41.366704999999996,2018-01-12 08:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi / Santa Madrona                            ,Ds,Laboral,Nit,0,2,0,2,1,2.159001,41.367401,2018-06-23 01:00:00
+3,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia / Sant Jordi            ,Dc,Laboral,Matí,0,1,0,1,2,2.144821,41.366779,2018-05-02 10:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.138727,41.36688,2018-10-03 13:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Ds,Laboral,Nit,0,0,0,0,1,2.138251,41.367177000000005,2018-09-29 04:00:00
+3,Sants-Montjuïc,el Poble-sec,Montanyans / Foixarda                             ,Dj,Laboral,Tarda,0,1,0,1,2,2.146273,41.367096999999994,2018-09-20 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi / Santa Madrona                            ,Dm,Laboral,Tarda,0,1,0,1,1,2.159001,41.367401,2018-02-20 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Estadi / Santa Madrona                            ,Dv,Laboral,Tarda,0,1,0,1,1,2.159001,41.367401,2018-09-07 18:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dg,Laboral,Nit,0,1,0,1,2,2.1384939999999997,41.366704999999996,2018-05-13 05:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,1,0,1,3,2.1384939999999997,41.366704999999996,2018-07-12 16:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dg,Laboral,Tarda,0,1,0,1,2,2.139566,41.367509999999996,2018-10-07 18:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,0,1,1,1,2.139155,41.367201,2018-07-26 19:00:00
+3,Sants-Montjuïc,la Marina de Port,Mineria                                           ,Dj,Laboral,Tarda,0,1,0,1,2,2.140246,41.367086,2018-08-09 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,3,2.172891,41.367636,2018-04-18 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dg,Laboral,Nit,0,5,0,5,2,2.1733119999999997,41.367667,2018-08-26 02:00:00
+3,Sants-Montjuïc,la Bordeta,Quetzal / Badal                                   ,Ds,Laboral,Matí,0,0,0,0,1,2.133753,41.367421,2018-05-05 10:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.138727,41.36688,2018-11-07 13:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dv,Laboral,Matí,0,1,0,1,2,2.138491,41.367513,2018-03-02 09:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dm,Laboral,Tarda,0,1,0,1,2,2.139155,41.367201,2018-10-02 15:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,2,0,2,2,2.139155,41.367201,2018-04-19 14:00:00
+3,Sants-Montjuïc,la Marina de Port,Corts Catalanes                                   ,Dg,Laboral,Tarda,0,0,0,0,2,2.138727,41.36688,2018-12-16 18:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Ds,Laboral,Tarda,0,1,0,1,3,2.1384939999999997,41.366704999999996,2018-05-26 14:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dj,Laboral,Matí,0,1,0,1,3,2.139155,41.367201,2018-03-22 08:00:00
+3,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia                         ,Dm,Laboral,Matí,0,3,0,3,3,2.144898,41.367725,2018-11-20 08:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.139566,41.367509999999996,2018-09-19 10:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.139852,41.367724,2018-10-17 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Polvorí                                           ,Dc,Laboral,Matí,0,2,0,2,2,2.144182,41.366104,2018-09-26 11:00:00
+3,Sants-Montjuïc,la Bordeta,Badal / Quetzal                                   ,Ds,Laboral,Tarda,0,1,0,1,1,2.133753,41.367421,2018-12-01 15:00:00
+3,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia / Polvorí               ,Dv,Laboral,Matí,0,1,0,1,2,2.145109,41.368274,2018-05-11 13:00:00
+3,Sants-Montjuïc,la Bordeta,Quetzal                                           ,Dg,Laboral,Tarda,0,1,0,1,2,2.134528,41.367821,2018-08-12 16:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Polvorí                                           ,Dl,Laboral,Tarda,0,1,0,1,2,2.14479,41.364765000000006,2018-06-25 18:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,1,0,1,1,2.1394,41.368043,2018-10-12 16:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes / Mossèn Amadeu Oller             ,Dl,Laboral,Tarda,0,2,0,2,1,2.1394130000000002,41.367733,2018-09-17 21:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes / Mossèn Amadeu Oller             ,Dl,Laboral,Tarda,0,1,0,1,2,2.1394130000000002,41.367733,2018-07-02 17:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dg,Laboral,Nit,0,0,0,0,1,2.1394,41.368043,2018-11-11 01:00:00
+3,Sants-Montjuïc,la Bordeta,Mig (Descendent)                                  ,Dm,Laboral,Matí,0,1,0,1,2,2.1347560000000003,41.365838000000004,2018-06-26 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dm,Laboral,Matí,0,1,0,1,2,2.171885,41.366019,2018-11-20 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dc,Laboral,Nit,0,4,0,4,2,2.172133,41.366507,2018-05-09 01:00:00
+3,Sants-Montjuïc,el Poble-sec,Montanyans                                        ,Dg,Laboral,Matí,0,1,0,1,2,2.150626,41.368258000000004,2018-03-11 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dj,Laboral,Nit,0,1,0,1,1,2.172307,41.369586,2018-07-12 23:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dv,Laboral,Tarda,0,2,0,2,2,2.173302,41.368502,2018-02-16 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dv,Laboral,Tarda,0,1,0,1,2,2.171625,41.366096,2018-02-23 15:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dv,Laboral,Tarda,0,1,0,1,3,2.1737439999999997,41.369304,2018-02-16 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.171885,41.366019,2018-01-31 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dj,Laboral,Tarda,0,1,0,1,3,2.171625,41.366096,2018-09-13 14:00:00
+3,Sants-Montjuïc,la Bordeta,Constitució / Blanca                              ,Dl,Laboral,Tarda,0,1,0,1,2,2.131496,41.368214,2018-03-12 16:00:00
+3,Sants-Montjuïc,la Bordeta,Blanca / Constitució                              ,Dv,Laboral,Tarda,0,1,0,1,2,2.131496,41.368214,2018-09-14 19:00:00
+3,Sants-Montjuïc,la Bordeta,Constitució / Blanca                              ,Dc,Laboral,Matí,0,1,0,1,1,2.131496,41.368214,2018-09-05 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar / Dante                                   ,Dg,Laboral,Tarda,0,1,0,1,5,2.164822,41.368945000000004,2018-08-05 16:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar / Dante                                   ,Ds,Laboral,Nit,0,1,0,1,2,2.164822,41.368945000000004,2018-10-06 23:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Ds,Laboral,Nit,0,2,0,2,2,2.1409130000000003,41.368518,2018-04-07 23:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dc,Laboral,Nit,0,1,0,1,2,2.1409130000000003,41.368518,2018-07-25 22:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.1394,41.368043,2018-12-13 14:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,2,0,2,1,2.1409130000000003,41.368518,2018-01-12 17:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dl,Laboral,Matí,0,0,0,0,1,2.140075,41.368552,2018-04-30 09:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dc,Laboral,Matí,0,2,0,2,1,2.140075,41.368552,2018-09-05 13:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dm,Laboral,Nit,0,1,0,1,1,2.1394,41.368043,2018-08-28 00:00:00
+3,Sants-Montjuïc,el Poble-sec,Montjuïc                                          ,Dl,Laboral,Matí,0,1,0,1,2,2.16934,41.368773,2018-05-07 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Ds,Laboral,Matí,0,1,0,1,2,2.161571,41.368666999999995,2018-12-08 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dj,Laboral,Tarda,0,2,0,2,2,2.163034,41.368821999999994,2018-07-19 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Tarongers                                         ,Dg,Laboral,Tarda,0,2,0,2,2,2.165661,41.367401,2018-02-25 17:00:00
+3,Sants-Montjuïc,la Bordeta,Constitució                                       ,Dj,Laboral,Matí,0,2,0,2,1,2.132499,41.368671,2018-03-22 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dg,Laboral,Tarda,0,2,0,2,2,2.164597,41.369064,2018-01-14 17:00:00
+3,Sants-Montjuïc,la Bordeta,Constitució / Badal                               ,Ds,Laboral,Matí,0,0,0,0,1,2.132916,41.368935,2018-08-11 09:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.140873,41.369155,2018-05-24 15:00:00
+3,Sants-Montjuïc,el Poble-sec,Santa Madrona                                     ,Dj,Laboral,Tarda,0,1,0,1,2,2.155984,41.369065,2018-04-05 18:00:00
+3,Sants-Montjuïc,la Bordeta,Mossèn Amadeu Oller / Bartomeu Pi                 ,Dc,Laboral,Matí,0,1,0,1,2,2.138215,41.368990999999994,2018-04-11 13:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.140075,41.368552,2018-05-16 08:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dj,Laboral,Nit,0,2,0,2,3,2.14,41.368496,2018-01-18 00:00:00
+3,Sants-Montjuïc,la Bordeta,Mig (Descendent)                                  ,Dv,Laboral,Matí,0,4,0,4,3,2.131711,41.36975,2018-04-06 13:00:00
+3,Sants-Montjuïc,la Bordeta,Badal / Constitució                               ,Ds,Laboral,Tarda,0,1,0,1,2,2.132916,41.368935,2018-02-24 15:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Matí,0,1,0,1,2,2.1743740000000003,41.370077,2018-10-05 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dj,Laboral,Matí,0,1,0,1,2,2.172113,41.366928,2018-01-25 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia                         ,Dl,Laboral,Matí,0,1,0,1,2,2.146725,41.369119,2018-09-10 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia                         ,Ds,Laboral,Matí,0,1,0,1,1,2.146725,41.369119,2018-10-27 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia                         ,Dv,Laboral,Tarda,0,1,0,1,2,2.1453130000000002,41.367872,2018-06-08 21:00:00
+3,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia                         ,Dj,Laboral,Tarda,0,1,0,1,2,2.1453130000000002,41.367872,2018-05-03 19:00:00
+3,Sants-Montjuïc,la Bordeta,Badal / Constitució                               ,Dl,Laboral,Matí,0,2,0,2,2,2.132916,41.368935,2018-01-08 10:00:00
+3,Sants-Montjuïc,la Bordeta,Constitució / Badal                               ,Dj,Laboral,Tarda,0,0,0,0,1,2.132916,41.368935,2018-07-26 16:00:00
+3,Sants-Montjuïc,la Bordeta,Constitució                                       ,Dv,Laboral,Tarda,0,0,0,0,2,2.1333900000000003,41.369079,2018-11-23 19:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,0,0,0,3,2.140873,41.369155,2018-11-02 18:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Mandoni                         ,Dj,Laboral,Matí,0,1,0,1,1,2.14209,41.369735,2018-10-25 10:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dl,Laboral,Tarda,0,1,0,1,2,2.142102,41.369415999999994,2018-08-06 17:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Francesc Ferrer i Guàrdia                         ,Dc,Laboral,Matí,0,3,0,3,3,2.148725,41.36967,2018-04-11 11:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Francesc Ferrer i Guàrdia                         ,Ds,Laboral,Matí,0,1,1,2,1,2.1493189999999998,41.369640999999994,2018-08-25 06:00:00
+3,Sants-Montjuïc,la Bordeta,Mossèn Amadeu Oller / Constitució                 ,Dj,Laboral,Tarda,0,1,0,1,1,2.137403,41.369890999999996,2018-11-15 17:00:00
+3,Sants-Montjuïc,la Bordeta,Sagunt                                            ,Dl,Laboral,Tarda,0,1,0,1,2,2.134002,41.369727000000005,2018-09-17 15:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Francesc Ferrer i Guàrdia                         ,Dv,Laboral,Matí,0,1,0,1,2,2.148725,41.36967,2018-06-08 09:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Francesc Ferrer i Guàrdia                         ,Dm,Laboral,Matí,0,1,0,1,2,2.146725,41.369119,2018-06-05 10:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Francesc Ferrer i Guàrdia                         ,Dv,Laboral,Matí,0,1,0,1,1,2.144898,41.367725,2018-03-16 12:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dg,Laboral,Nit,0,4,0,4,4,2.140873,41.369155,2018-06-24 01:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Francesc Ferrer i Guàrdia                         ,Dl,Laboral,Matí,0,1,0,1,1,2.146725,41.369119,2018-11-05 11:00:00
+3,Sants-Montjuïc,la Bordeta,Constitució                                       ,Dl,Laboral,Matí,0,1,0,1,1,2.136647,41.369751,2018-10-15 11:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Moianès                         ,Dj,Laboral,Tarda,0,1,0,1,2,2.1423490000000003,41.369946999999996,2018-04-12 20:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dm,Laboral,Tarda,0,1,0,1,2,2.143395,41.370388,2018-11-06 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Nit,0,1,0,1,1,2.176939,41.373118,2018-11-16 00:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dj,Laboral,Matí,0,1,0,1,1,2.167011,41.369861,2018-11-22 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Ds,Laboral,Matí,0,0,1,1,1,2.167391,41.370036,2018-03-03 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dl,Laboral,Tarda,0,1,0,1,2,2.167725,41.370096999999994,2018-01-08 18:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Moianès                         ,Ds,Laboral,Matí,0,1,0,1,1,2.1423490000000003,41.369946999999996,2018-05-05 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dv,Laboral,Nit,0,0,0,0,3,2.1658209999999998,41.370072,2018-02-02 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dm,Laboral,Tarda,0,1,0,1,3,2.169295,41.370164,2018-03-27 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dm,Laboral,Matí,0,1,0,1,2,2.167725,41.370096999999994,2018-04-17 10:00:00
+3,Sants-Montjuïc,la Bordeta,Súria                                             ,Dl,Laboral,Matí,0,1,0,1,1,2.133696,41.369907,2018-05-21 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dc,Laboral,Nit,0,1,0,1,2,2.1741580000000003,41.370173,2018-04-18 05:00:00
+3,Sants-Montjuïc,la Bordeta,Constitució / Jocs Florals                        ,Dj,Laboral,Tarda,0,2,0,2,1,2.136979,41.369846,2018-10-18 16:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dv,Laboral,Nit,0,1,0,1,2,2.1426950000000002,41.370523,2018-03-09 02:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dl,Laboral,Nit,0,3,0,3,2,2.1426950000000002,41.370523,2018-03-26 04:00:00
+3,Sants-Montjuïc,el Poble-sec,Santa Madrona / Exposició                         ,Ds,Laboral,Matí,0,1,0,1,1,2.158398,41.370115999999996,2018-05-26 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dv,Laboral,Matí,0,2,0,2,4,2.174179,41.370264,2018-06-15 13:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dl,Laboral,Matí,0,1,0,1,4,2.1426950000000002,41.370523,2018-05-28 13:00:00
+3,Sants-Montjuïc,la Bordeta,Antoni de Capmany                                 ,Ds,Laboral,Nit,0,2,0,2,2,2.130262,41.370396,2018-03-03 23:00:00
+3,Sants-Montjuïc,la Bordeta,Blanca / Antoni de Capmany                        ,Dj,Laboral,Matí,0,1,0,1,2,2.1299799999999998,41.370086,2018-03-29 07:00:00
+3,Sants-Montjuïc,la Bordeta,Mig (Descendent)                                  ,Dg,Laboral,Matí,0,0,0,0,2,2.132009,41.371259,2018-08-19 06:00:00
+3,Sants-Montjuïc,Sants - Badal,Blanca / Antoni de Capmany                        ,Dm,Laboral,Tarda,0,2,0,2,2,2.1299799999999998,41.370086,2018-02-13 19:00:00
+3,Sants-Montjuïc,la Bordeta,Moianès / Corts Catalanes                         ,Dm,Laboral,Tarda,0,2,0,2,1,2.1423490000000003,41.369946999999996,2018-05-22 18:00:00
+3,Sants-Montjuïc,la Bordeta,Moianès / Corts Catalanes                         ,Dv,Laboral,Tarda,0,1,0,1,2,2.1423490000000003,41.369946999999996,2018-04-20 17:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.1426950000000002,41.370523,2018-07-04 11:00:00
+3,Sants-Montjuïc,la Bordeta,Corts Catalanes / Moianès                         ,Dm,Laboral,Tarda,0,2,0,2,2,2.1423490000000003,41.369946999999996,2018-07-17 21:00:00
+3,Sants-Montjuïc,el Poble-sec,Santa Madrona                                     ,Dl,Laboral,Nit,0,0,0,0,1,2.15581,41.370379,2018-11-05 05:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Indíbil                         ,Dv,Laboral,Tarda,0,1,0,1,3,2.142964,41.370382,2018-01-26 18:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dm,Laboral,Matí,0,1,0,1,2,2.1437060000000003,41.370622,2018-11-06 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Miramar                                           ,Dj,Laboral,Nit,0,0,0,0,4,2.166436,41.370308,2018-01-18 01:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dg,Laboral,Matí,0,0,0,0,1,2.1733119999999997,41.367667,2018-04-15 08:00:00
+3,Sants-Montjuïc,el Poble-sec,Josep Carner                                      ,Dv,Laboral,Matí,0,0,0,0,2,2.174028,41.371515,2018-09-21 08:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dm,Laboral,Matí,0,2,0,2,2,2.1439340000000002,41.37075,2018-06-26 11:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dc,Laboral,Nit,0,1,0,1,2,2.142937,41.370705,2018-06-13 00:00:00
+3,Sants-Montjuïc,Sants - Badal,Blanca                                            ,Ds,Laboral,Tarda,0,1,0,1,1,2.129547,41.370605,2018-12-08 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dv,Laboral,Tarda,0,3,0,3,5,2.1741580000000003,41.370173,2018-05-11 16:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dl,Laboral,Tarda,0,1,0,1,2,2.173302,41.368502,2018-03-05 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dv,Laboral,Matí,0,1,0,1,2,2.1741580000000003,41.370173,2018-12-21 06:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dm,Laboral,Matí,0,2,0,2,2,2.173302,41.368502,2018-04-17 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dv,Laboral,Tarda,0,1,0,1,2,2.172675,41.367734000000006,2018-02-23 16:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Sant Pere d'Abanto              ,Dv,Laboral,Matí,0,1,0,1,2,2.143878,41.371077,2018-12-14 08:00:00
+3,Sants-Montjuïc,el Poble-sec,Carles Buïgas                                     ,Dl,Laboral,Tarda,0,1,0,1,1,2.150687,41.370764,2018-09-24 18:00:00
+3,Sants-Montjuïc,la Bordeta,Olzinelles                                        ,Dc,Laboral,Tarda,0,1,0,1,2,2.137483,41.370975,2018-06-20 17:00:00
+3,Sants-Montjuïc,Hostafrancs,Moianès                                           ,Dl,Laboral,Tarda,0,1,0,1,2,2.142484,41.371076,2018-07-02 18:00:00
+3,Sants-Montjuïc,Hostafrancs,Moianès                                           ,Dm,Laboral,Tarda,0,1,0,1,2,2.142475,41.370855,2018-02-27 16:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dm,Laboral,Tarda,0,1,0,1,2,2.1431560000000003,41.370869,2018-04-17 16:00:00
+3,Sants-Montjuïc,el Poble-sec,Nou de la Rambla                                  ,Dc,Laboral,Nit,0,1,0,1,2,2.166035,41.371241,2018-04-25 23:00:00
+3,Sants-Montjuïc,la Bordeta,Sugranyes / Antoni de Capmany                     ,Dl,Laboral,Matí,0,1,0,1,2,2.130965,41.370901,2018-11-19 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Nou de la Rambla                                  ,Ds,Laboral,Nit,0,1,0,1,5,2.165907,41.371116,2018-01-20 04:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dm,Laboral,Tarda,0,1,0,1,1,2.142937,41.370705,2018-09-25 19:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Sant Pere d'Abanto              ,Dm,Laboral,Tarda,0,1,0,1,2,2.143878,41.371077,2018-02-20 16:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Sant Fructuós / Sant Paulí de Nola                ,Dj,Laboral,Matí,0,1,0,1,2,2.144689,41.370421,2018-12-13 13:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Francesc Ferrer i Guàrdia                         ,Dm,Laboral,Nit,0,1,0,1,2,2.150962,41.371311,2018-05-01 02:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Francesc Ferrer i Guàrdia / Mèxic                 ,Dj,Laboral,Matí,0,1,0,1,2,2.150413,41.371277,2018-03-08 08:00:00
+3,Sants-Montjuïc,la Bordeta,Mig (Descendent)                                  ,Dj,Laboral,Matí,0,1,0,1,2,2.132009,41.371259,2018-12-20 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Exposició                                         ,Dm,Laboral,Tarda,0,0,0,0,2,2.160069,41.371274,2018-07-03 18:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dj,Laboral,Nit,0,2,0,2,3,2.144567,41.371269,2018-05-03 00:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dm,Laboral,Tarda,0,1,0,1,2,2.132557,41.371486,2018-01-23 14:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dj,Laboral,Matí,0,0,0,0,2,2.132166,41.371355,2018-09-20 11:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Ds,Laboral,Tarda,0,1,0,1,2,2.132166,41.371355,2018-06-30 19:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dv,Laboral,Matí,0,1,0,1,2,2.132166,41.371355,2018-11-09 13:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dl,Laboral,Matí,0,1,0,1,2,2.134989,41.365883000000004,2018-10-15 12:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dl,Laboral,Matí,0,1,0,1,2,2.135294,41.365972,2018-03-05 09:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dm,Laboral,Matí,0,1,0,1,2,2.128001,41.382867,2018-07-17 06:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dj,Laboral,Tarda,0,0,1,1,2,2.132166,41.371355,2018-09-13 19:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dv,Laboral,Matí,0,1,0,1,2,2.132166,41.371355,2018-09-28 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Reina Maria Cristina / Rius i Taulet              ,Dj,Laboral,Matí,0,1,0,1,2,2.15141,41.371657,2018-11-22 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Exposició                                         ,Dc,Laboral,Matí,0,1,0,1,2,2.161332,41.371594,2018-05-23 13:00:00
+3,Sants-Montjuïc,la Bordeta,Olzinelles                                        ,Dj,Laboral,Tarda,0,1,0,1,2,2.137349,41.371299,2018-02-01 19:00:00
+3,Sants-Montjuïc,el Poble-sec,Josep Carner                                      ,Dv,Laboral,Tarda,0,1,0,1,2,2.174498,41.372173,2018-07-06 15:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dl,Laboral,Matí,0,1,0,1,1,2.132557,41.371486,2018-03-19 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.175677,41.371594,2018-06-27 18:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,3,0,3,4,2.1743740000000003,41.370077,2018-10-04 14:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dl,Laboral,Tarda,0,1,0,1,3,2.175677,41.371594,2018-07-09 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dg,Laboral,Matí,0,1,0,1,3,2.174008,41.369246999999994,2018-03-18 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Exposició / Margarit                              ,Dg,Laboral,Matí,0,1,0,1,1,2.1627509999999996,41.371378,2018-05-13 13:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dj,Laboral,Nit,0,2,0,2,2,2.143796,41.371390999999996,2018-11-08 04:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dj,Laboral,Matí,0,1,0,1,2,2.143796,41.371390999999996,2018-08-30 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Roser / Magalhães                                 ,Dg,Laboral,Matí,0,1,0,1,2,2.1656,41.371668,2018-09-23 12:00:00
+3,Sants-Montjuïc,Sants,Noguera Pallaresa / Jocs Florals                  ,Dc,Laboral,Nit,0,1,0,1,2,2.136124,41.371347,2018-05-16 05:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dm,Laboral,Matí,0,1,0,1,2,2.1741580000000003,41.370173,2018-03-06 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dj,Laboral,Matí,0,1,0,1,2,2.1741580000000003,41.370173,2018-02-08 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dv,Laboral,Tarda,0,1,0,1,2,2.171625,41.366096,2018-03-09 15:00:00
+3,Sants-Montjuïc,el Poble-sec,Francesc Ferrer i Guàrdia / Mèxic                 ,Ds,Laboral,Tarda,0,0,0,0,1,2.150413,41.371277,2018-03-10 21:00:00
+3,Sants-Montjuïc,el Poble-sec,Reina Maria Cristina                              ,Dg,Laboral,Tarda,0,2,0,2,1,2.150194,41.372689,2018-09-09 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Exposició / Creu dels Molers                      ,Dc,Laboral,Tarda,0,1,0,1,2,2.160883,41.371483000000005,2018-03-21 19:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dg,Laboral,Nit,0,1,0,1,1,2.1440330000000003,41.37153,2018-09-30 02:00:00
+3,Sants-Montjuïc,el Poble-sec,Font-trobada / Cabanes                            ,Dc,Laboral,Tarda,0,1,0,1,2,2.1693729999999998,41.371783,2018-05-02 19:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dl,Laboral,Matí,0,1,0,1,2,2.1450240000000003,41.371613,2018-08-20 07:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dv,Laboral,Matí,0,1,0,1,2,2.145378,41.37188,2018-07-20 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Montjuïc                                          ,Dl,Laboral,Matí,0,1,0,1,2,2.16971,41.371959000000004,2018-07-23 11:00:00
+3,Sants-Montjuïc,la Bordeta,Gavà / Alpens                                     ,Dc,Laboral,Tarda,0,1,0,1,2,2.140837,41.371765,2018-07-25 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Rius i Taulet / Reina Maria Cristina              ,Dl,Laboral,Tarda,0,1,0,1,2,2.15141,41.371657,2018-07-30 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Josep Carner                                      ,Dv,Laboral,Tarda,0,1,0,1,2,2.174498,41.372173,2018-12-28 19:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dj,Laboral,Matí,0,2,0,2,3,2.135294,41.365972,2018-02-15 13:00:00
+3,Sants-Montjuïc,el Poble-sec,França Xica / Concòrdia                           ,Ds,Laboral,Tarda,0,1,0,1,1,2.1590439999999997,41.372192,2018-01-27 17:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.145607,41.372053,2018-10-10 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Margarit / Magalhães                              ,Dc,Laboral,Tarda,0,1,0,1,2,2.163065,41.372199,2018-02-21 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Margarit / Magalhães                              ,Dm,Laboral,Matí,0,4,0,4,2,2.163065,41.372199,2018-04-24 06:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Sant Fructuós                                     ,Dc,Laboral,Tarda,0,1,0,1,3,2.147469,41.372081,2018-08-22 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Magalhães                                         ,Dv,Laboral,Nit,0,1,0,1,2,2.162896,41.37218,2018-02-02 22:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dc,Laboral,Tarda,0,1,0,1,3,2.144787,41.372099,2018-05-16 17:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dg,Laboral,Tarda,0,2,0,2,1,2.144787,41.372099,2018-01-21 21:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dv,Laboral,Matí,0,2,0,2,2,2.144819,41.372121,2018-01-26 06:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Farell                          ,Ds,Laboral,Matí,0,1,0,1,1,2.144725,41.371731,2018-01-27 11:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dm,Laboral,Tarda,0,2,0,2,3,2.144787,41.372099,2018-03-27 21:00:00
+3,Sants-Montjuïc,el Poble-sec,França Xica                                       ,Dg,Laboral,Matí,0,1,0,1,1,2.156924,41.372071000000005,2018-05-20 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dc,Laboral,Matí,0,1,0,1,2,2.1743740000000003,41.370077,2018-05-02 11:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,4,2.1743740000000003,41.370077,2018-06-22 17:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Besòs)                                      ,Dc,Laboral,Matí,0,1,0,1,2,2.189016,41.383396000000005,2018-05-09 13:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dm,Laboral,Matí,0,1,0,1,2,2.176939,41.373118,2018-06-12 08:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Besòs)                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.1743740000000003,41.370077,2018-09-27 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Lleida                                            ,Dm,Laboral,Matí,0,1,0,1,1,2.155621,41.372335,2018-09-18 08:00:00
+3,Sants-Montjuïc,Sants - Badal,Mig (Descendent)                                  ,Dg,Laboral,Nit,0,1,0,1,2,2.131711,41.36975,2018-01-07 03:00:00
+3,Sants-Montjuïc,el Poble-sec,Salvà / Elkano                                    ,Dm,Laboral,Matí,0,1,0,1,2,2.165299,41.372468,2018-01-09 10:00:00
+3,Sants-Montjuïc,Sants - Badal,Carreras i Candi / Canalejas                      ,Dv,Laboral,Matí,0,1,0,1,2,2.128539,41.37214,2018-04-13 12:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,Litoral (Llobregat)                               ,Dl,Laboral,Tarda,0,1,0,1,2,2.1741580000000003,41.370173,2018-06-25 19:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dj,Laboral,Matí,0,1,0,1,2,2.1741580000000003,41.370173,2018-11-15 10:00:00
+3,Sants-Montjuïc,la Marina del Prat Vermell,B-10 (Llobregat)                                  ,Dc,Laboral,Tarda,0,1,0,1,2,2.1767090000000002,41.373228000000005,2018-10-31 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Magalhães                                         ,Dc,Laboral,Tarda,0,1,0,1,4,2.161944,41.372491,2018-09-19 17:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.1459029999999997,41.372275,2018-10-03 10:00:00
+3,Sants-Montjuïc,Sants - Badal,Sugranyes / Pavia                                 ,Dc,Laboral,Nit,0,2,0,2,2,2.130007,41.372083,2018-05-30 03:00:00
+3,Sants-Montjuïc,el Poble-sec,Piquer / Montjuïc                                 ,Dl,Laboral,Tarda,0,1,0,1,1,2.171965,41.372347999999995,2018-11-19 17:00:00
+3,Sants-Montjuïc,el Poble-sec,Rius i Taulet / Guàrdia Urbana                    ,Dv,Laboral,Nit,0,1,0,1,1,2.1535330000000004,41.372451,2018-10-05 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Rius i Taulet / Guàrdia Urbana                    ,Dj,Laboral,Tarda,0,2,0,2,1,2.1535330000000004,41.372451,2018-02-01 20:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Sant Germà                      ,Ds,Laboral,Tarda,0,3,0,3,1,2.1461669999999997,41.372857,2018-02-03 14:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dg,Laboral,Tarda,0,2,0,2,1,2.1460779999999997,41.372407,2018-02-04 21:00:00
+3,Sants-Montjuïc,el Poble-sec,Blesa                                             ,Dj,Laboral,Matí,0,1,0,1,1,2.1672569999999998,41.372563,2018-10-25 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Magalhães                                         ,Dv,Laboral,Tarda,0,2,0,2,1,2.161502,41.372583,2018-12-14 19:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Sant Germà                      ,Dl,Laboral,Tarda,0,1,0,1,2,2.1461669999999997,41.372857,2018-07-30 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Rius i Taulet                                     ,Dm,Laboral,Tarda,0,1,0,1,2,2.154544,41.372704,2018-12-18 15:00:00
+3,Sants-Montjuïc,la Bordeta,Gavà / Noguera Ribagorçana                        ,Dj,Laboral,Matí,0,1,0,1,2,2.14195,41.372468,2018-07-26 08:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Sant Germà                                        ,Dj,Laboral,Tarda,0,1,0,1,2,2.146458,41.37235,2018-08-09 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Radas / Magalhães                                 ,Dj,Laboral,Tarda,0,1,0,1,2,2.1605950000000003,41.372715,2018-11-08 15:00:00
+3,Sants-Montjuïc,el Poble-sec,Rius i Taulet                                     ,Dm,Laboral,Tarda,0,0,1,1,2,2.154301,41.372609999999995,2018-03-06 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Mata / Piquer                                     ,Dg,Laboral,Matí,0,2,0,2,2,2.1707560000000004,41.372749,2018-05-06 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Rius i Taulet / Guàrdia Urbana                    ,Dm,Laboral,Matí,0,1,0,1,2,2.1535330000000004,41.372451,2018-03-06 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Vila i Vilà                                       ,Dm,Laboral,Tarda,0,1,0,1,2,2.173866,41.372802,2018-05-22 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Josep Carner                                      ,Dl,Laboral,Matí,0,2,0,2,3,2.175179,41.372479,2018-11-12 11:00:00
+3,Sants-Montjuïc,Sants - Badal,Bacardí / Carreras i Candi                        ,Ds,Laboral,Matí,0,1,0,1,1,2.1281369999999997,41.372646,2018-01-20 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Reina Maria Cristina                              ,Dv,Laboral,Tarda,0,1,0,1,2,2.150194,41.372689,2018-05-11 19:00:00
+3,Sants-Montjuïc,el Poble-sec,Reina Maria Cristina                              ,Dm,Laboral,Tarda,0,1,0,1,2,2.150194,41.372689,2018-01-09 19:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Sant Roc                        ,Dl,Laboral,Tarda,0,1,0,1,2,2.146476,41.372701,2018-12-31 21:00:00
+3,Sants-Montjuïc,Sants - Badal,Blanca / Sant Frederic                            ,Dv,Laboral,Matí,0,1,0,1,1,2.126143,41.372423,2018-12-07 13:00:00
+3,Sants-Montjuïc,Hostafrancs,Bordeta / Moianès                                 ,Dc,Laboral,Matí,0,1,0,1,2,2.142451,41.372684,2018-02-28 06:00:00
+3,Sants-Montjuïc,el Poble-sec,Lleida / Mare de Déu del Remei                    ,Dg,Laboral,Nit,0,0,0,0,2,2.1551810000000002,41.372876,2018-12-23 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Pedreres                                          ,Dj,Laboral,Tarda,0,0,0,0,1,2.159186,41.372806,2018-03-15 20:00:00
+3,Sants-Montjuïc,Sants - Badal,Pavia / Begur                                     ,Dl,Laboral,Tarda,0,1,0,1,2,2.131109,41.372582,2018-04-16 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Mare de Déu del Remei                             ,Dj,Laboral,Matí,0,1,0,1,3,2.15539,41.372993,2018-08-09 08:00:00
+3,Sants-Montjuïc,el Poble-sec,Salvà                                             ,Dc,Laboral,Matí,0,1,0,1,1,2.165548,41.372969,2018-02-21 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Font Honrada / Mare de Déu del Remei              ,Dl,Laboral,Tarda,0,1,0,1,2,2.155926,41.372944,2018-01-29 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Vila i Vilà / Palaudàries                         ,Dc,Laboral,Matí,0,1,0,1,2,2.172349,41.373142,2018-04-11 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Grases / Mare de Déu del Remei                    ,Ds,Laboral,Matí,0,2,0,2,2,2.156699,41.372972,2018-11-17 11:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Ds,Laboral,Tarda,0,2,0,2,3,2.1460779999999997,41.372407,2018-04-28 16:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,2,0,2,3,2.145781,41.372844,2018-05-04 14:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dj,Laboral,Matí,0,1,0,1,1,2.146476,41.372701,2018-03-08 13:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.1460779999999997,41.372407,2018-12-20 14:00:00
+1,Ciutat Vella,el Raval,Litoral (Besòs)                                   ,Dv,Laboral,Tarda,0,1,0,1,3,2.175039,41.370822,2018-03-16 18:00:00
+1,Ciutat Vella,el Raval,B-10 (Besòs)                                      ,Dl,Laboral,Nit,0,3,0,3,1,2.177594,41.373868,2018-12-17 00:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dg,Laboral,Nit,0,1,0,1,2,2.145969,41.372987,2018-05-13 22:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Sant Germà                      ,Dv,Laboral,Nit,0,0,1,1,2,2.1461669999999997,41.372857,2018-08-17 02:00:00
+3,Sants-Montjuïc,el Poble-sec,Mare de Déu del Remei / Pedreres                  ,Dl,Laboral,Matí,0,1,0,1,2,2.1592540000000002,41.372941,2018-01-15 10:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Sant Roc                        ,Dm,Laboral,Tarda,0,0,0,0,7,2.1461669999999997,41.372857,2018-07-03 15:00:00
+3,Sants-Montjuïc,el Poble-sec,Lleida / Rius i Taulet                            ,Dc,Laboral,Matí,0,0,0,0,2,2.1551810000000002,41.372876,2018-05-23 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Rius i Taulet / Lleida                            ,Dl,Laboral,Tarda,0,1,0,1,2,2.1551810000000002,41.372876,2018-02-12 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Lleida / Rius i Taulet                            ,Dc,Laboral,Tarda,0,1,0,1,2,2.1551810000000002,41.372876,2018-10-10 19:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Sant Roc                        ,Ds,Laboral,Tarda,0,1,0,1,2,2.1461669999999997,41.372857,2018-10-13 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Piquer / Lafont                                   ,Dj,Laboral,Matí,0,1,0,1,2,2.1690669999999996,41.373253999999996,2018-03-15 06:00:00
+3,Sants-Montjuïc,el Poble-sec,Font Honrada / Mare de Déu del Remei              ,Dv,Laboral,Tarda,0,2,0,2,2,2.155926,41.372944,2018-04-06 18:00:00
+1,Ciutat Vella,el Raval,Drassanes                                         ,Dm,Laboral,Matí,0,2,0,2,2,2.176311,41.374765999999994,2018-12-18 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Bòbila / Mare de Déu del Remei                    ,Dc,Laboral,Tarda,0,1,0,1,1,2.1583759999999996,41.373016,2018-04-18 17:00:00
+3,Sants-Montjuïc,Sants - Badal,Bacardí                                           ,Dj,Laboral,Tarda,0,2,0,2,1,2.1286669999999996,41.372926,2018-09-20 18:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,3,0,3,2,2.147064,41.373149,2018-11-30 14:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.146963,41.373073,2018-11-29 17:00:00
+3,Sants-Montjuïc,Sants - Badal,Blanca                                            ,Ds,Laboral,Nit,0,1,0,1,3,2.125714,41.372840000000004,2018-12-22 02:00:00
+3,Sants-Montjuïc,el Poble-sec,Lleida                                            ,Ds,Laboral,Tarda,0,1,0,1,1,2.155153,41.373186,2018-07-07 19:00:00
+3,Sants-Montjuïc,Sants - Badal,Mig (Descendent)                                  ,Dg,Laboral,Tarda,0,2,0,2,2,2.1347560000000003,41.365838000000004,2018-07-29 15:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,1,0,1,2,2.147064,41.373149,2018-10-19 18:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Sant Roc                        ,Dj,Laboral,Tarda,0,1,0,1,1,2.1461669999999997,41.372857,2018-10-18 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Drassanes / Josep Carner                          ,Ds,Laboral,Matí,0,1,0,1,2,2.176656,41.374429,2018-01-13 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Drassanes / Josep Carner                          ,Dg,Laboral,Matí,0,3,0,3,2,2.176656,41.374429,2018-10-21 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Josep Carner / Drassanes                          ,Dg,Laboral,Matí,0,2,0,2,2,2.176656,41.374429,2018-10-21 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Drassanes / Josep Carner                          ,Dg,Laboral,Matí,0,3,0,3,2,2.176656,41.374429,2018-04-29 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Litoral (Llobregat)                               ,Dj,Laboral,Matí,0,1,0,1,2,2.1776240000000002,41.374301,2018-05-24 09:00:00
+3,Sants-Montjuïc,Sants,Sagunt / Finlàndia                                ,Dv,Laboral,Tarda,0,1,0,1,2,2.136014,41.373166,2018-04-06 17:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Ds,Laboral,Nit,0,1,0,1,2,2.146435,41.373336,2018-09-08 01:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.147624,41.374226,2018-12-13 19:00:00
+1,Ciutat Vella,el Raval,Litoral (Besòs)                                   ,Ds,Laboral,Tarda,0,1,0,1,2,2.177594,41.373868,2018-10-13 14:00:00
+1,Ciutat Vella,el Raval,Litoral (Llobregat)                               ,Dm,Laboral,Matí,0,1,0,1,3,2.1741580000000003,41.370173,2018-10-16 07:00:00
+1,Ciutat Vella,el Raval,Drassanes                                         ,Dg,Laboral,Tarda,0,1,0,1,2,2.176311,41.374765999999994,2018-09-16 16:00:00
+1,Ciutat Vella,el Raval,Zona Franca                                       ,Dc,Laboral,Matí,0,1,0,1,2,2.135723,41.36384,2018-01-03 12:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dl,Laboral,Matí,0,1,0,1,2,2.147288,41.373319,2018-10-08 11:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes / Mèxic                           ,Dg,Laboral,Matí,0,1,0,1,1,2.147519,41.373836,2018-04-29 07:00:00
+3,Sants-Montjuïc,la Font de la Guatlla,Corts Catalanes                                   ,Dv,Laboral,Tarda,0,2,0,2,2,2.147288,41.373319,2018-07-27 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Nou de la Rambla / Piquer                         ,Dm,Laboral,Tarda,0,1,0,1,2,2.1684259999999997,41.373444,2018-08-07 19:00:00
+3,Sants-Montjuïc,Sants - Badal,Escultor Canet                                    ,Ds,Laboral,Tarda,0,0,0,0,4,2.1255889999999997,41.37316,2018-02-03 16:00:00
+3,Sants-Montjuïc,Sants - Badal,Mig (Descendent)                                  ,Dl,Laboral,Matí,0,1,0,1,2,2.130646,41.374882,2018-06-18 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Vila i Vilà / Cabanes                             ,Dg,Laboral,Nit,0,1,0,1,1,2.170363,41.373740000000005,2018-03-04 22:00:00
+3,Sants-Montjuïc,Sants,Canalejas / Badal                                 ,Dc,Laboral,Tarda,0,1,0,1,1,2.131267,41.373340999999996,2018-10-24 21:00:00
+3,Sants-Montjuïc,Sants,Mig (Ascendent)                                   ,Dl,Laboral,Tarda,0,1,0,1,2,2.135294,41.365972,2018-03-12 16:00:00
+3,Sants-Montjuïc,el Poble-sec,Corts Catalanes                                   ,Dc,Laboral,Matí,0,2,0,2,2,2.168285,41.389334000000005,2018-05-30 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Palaudàries                                       ,Dm,Laboral,Tarda,0,0,0,0,2,2.172486,41.373618,2018-02-27 17:00:00
+3,Sants-Montjuïc,Sants - Badal,Blanca                                            ,Dg,Laboral,Tarda,0,1,0,1,1,2.124839,41.373357,2018-05-20 17:00:00
+3,Sants-Montjuïc,el Poble-sec,Fontrodona / Piquer                               ,Dm,Laboral,Tarda,0,1,0,1,2,2.167307,41.373779,2018-01-30 14:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dc,Laboral,Tarda,0,1,0,1,2,2.146994,41.373757,2018-02-28 20:00:00
+1,Ciutat Vella,el Raval,Drassanes                                         ,Dl,Laboral,Nit,0,2,0,2,1,2.175263,41.373936,2018-10-08 22:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.146994,41.373757,2018-04-18 11:00:00
+3,Sants-Montjuïc,Hostafrancs,Moianès / Leiva                                   ,Ds,Laboral,Tarda,0,2,0,2,1,2.142514,41.373785999999996,2018-12-08 16:00:00
+3,Sants-Montjuïc,Hostafrancs,Moianès / Leiva                                   ,Dl,Laboral,Matí,0,1,0,1,2,2.142514,41.373785999999996,2018-01-15 08:00:00
+3,Sants-Montjuïc,el Poble-sec,Nou de la Rambla / Vila i Vilà                    ,Dv,Laboral,Tarda,0,1,0,1,1,2.169137,41.374098,2018-07-06 19:00:00
+3,Sants-Montjuïc,Sants - Badal,Sugranyes / Sant Frederic                         ,Dv,Laboral,Nit,0,1,0,1,2,2.1287439999999997,41.373625,2018-02-23 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Lleida / Tamarit                                  ,Dg,Laboral,Tarda,0,1,0,1,2,2.154601,41.373878999999995,2018-01-07 21:00:00
+3,Sants-Montjuïc,Hostafrancs,Leiva                                             ,Ds,Laboral,Tarda,0,1,0,1,2,2.144417,41.373868,2018-06-09 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Tamarit                                           ,Dj,Laboral,Tarda,0,1,0,1,1,2.1548689999999997,41.373921,2018-04-19 16:00:00
+3,Sants-Montjuïc,Hostafrancs,Bordeta                                           ,Dc,Laboral,Matí,0,0,0,0,1,2.147252,41.374049,2018-04-25 13:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dc,Laboral,Tarda,0,0,0,0,5,2.146994,41.373757,2018-03-07 15:00:00
+3,Sants-Montjuïc,Hostafrancs,Vint-i-sis de Gener de 1641                       ,Dc,Laboral,Tarda,0,1,0,1,1,2.141547,41.374039,2018-10-17 15:00:00
+1,Ciutat Vella,el Raval,Litoral (Llobregat)                               ,Dj,Laboral,Tarda,0,0,0,0,1,2.1776240000000002,41.374301,2018-09-06 16:00:00
+1,Ciutat Vella,el Raval,Litoral (Llobregat)                               ,Dg,Laboral,Matí,0,0,0,0,3,2.1776240000000002,41.374301,2018-09-30 09:00:00
+1,Ciutat Vella,el Raval,B-10 (Besòs)                                      ,Dv,Laboral,Nit,0,0,0,0,1,2.1743740000000003,41.370077,2018-05-11 04:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes / Bordeta                         ,Dj,Laboral,Matí,0,2,0,2,3,2.147519,41.373836,2018-06-07 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Creu dels Molers                                  ,Dl,Laboral,Matí,0,0,0,0,1,2.161938,41.374235999999996,2018-08-06 09:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dg,Laboral,Tarda,0,2,0,2,2,2.147799,41.3737,2018-07-01 16:00:00
+3,Sants-Montjuïc,el Poble-sec,Drassanes                                         ,Dc,Laboral,Matí,0,1,0,1,2,2.176311,41.374765999999994,2018-10-24 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Drassanes                                         ,Dm,Laboral,Tarda,0,2,0,2,2,2.176311,41.374765999999994,2018-11-06 19:00:00
+3,Sants-Montjuïc,el Poble-sec,Drassanes                                         ,Dj,Laboral,Matí,0,1,0,1,2,2.176311,41.374765999999994,2018-06-21 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Ds,Laboral,Nit,0,2,0,2,2,2.175188,41.374452000000005,2018-03-03 23:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dc,Laboral,Nit,0,2,0,2,2,2.175188,41.374452000000005,2018-10-10 01:00:00
+3,Sants-Montjuïc,Sants - Badal,Mig (Descendent)                                  ,Dl,Laboral,Matí,0,1,0,1,2,2.132009,41.371259,2018-06-18 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Ds,Laboral,Matí,0,1,0,1,2,2.173787,41.374544,2018-09-29 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Portal de Santa Madrona               ,Dc,Laboral,Tarda,0,0,1,1,1,2.1732169999999997,41.374767,2018-11-07 19:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dm,Laboral,Tarda,0,1,0,1,2,2.147624,41.374226,2018-10-30 14:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dj,Laboral,Tarda,0,1,0,1,2,2.147624,41.374226,2018-10-11 17:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dg,Laboral,Matí,0,1,0,1,2,2.147624,41.374226,2018-02-11 13:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Ds,Laboral,Matí,0,2,0,2,1,2.147832,41.374383,2018-09-01 12:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dl,Laboral,Matí,0,1,0,1,2,2.147624,41.374226,2018-10-01 11:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dc,Laboral,Matí,0,1,0,1,2,2.147624,41.374226,2018-08-22 11:00:00
+3,Sants-Montjuïc,Hostafrancs,Corts Catalanes                                   ,Dj,Laboral,Matí,0,3,0,3,2,2.1476919999999997,41.374277,2018-05-17 12:00:00
+3,Sants-Montjuïc,Hostafrancs,Moianès / Vilardell                               ,Dg,Laboral,Tarda,0,2,0,2,1,2.142528,41.374559999999995,2018-01-28 20:00:00
+1,Ciutat Vella,el Raval,B-10 (Besòs)                                      ,Ds,Laboral,Tarda,0,0,0,0,1,2.1762919999999997,41.372365,2018-11-17 14:00:00
+1,Ciutat Vella,el Raval,B-10 (Besòs)                                      ,Dc,Laboral,Matí,0,1,0,1,2,2.1762919999999997,41.372365,2018-05-02 11:00:00
+3,Sants-Montjuïc,Hostafrancs,Vilardell / Vint-i-sis de Gener de 1641           ,Dl,Laboral,Tarda,0,1,0,1,1,2.141484,41.374578,2018-10-29 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Paral·lel                               ,Dc,Laboral,Matí,0,1,0,1,2,2.1497029999999997,41.375005,2018-12-19 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Reina Maria Cristina                              ,Dg,Laboral,Tarda,0,1,0,1,2,2.150194,41.372689,2018-12-16 19:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Nou de la Rambla                      ,Dv,Laboral,Tarda,0,1,0,1,2,2.170003,41.374971,2018-02-23 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Nou de la Rambla / Paral·lel                      ,Dg,Laboral,Nit,0,1,0,1,2,2.170003,41.374971,2018-09-02 03:00:00
+3,Sants-Montjuïc,Hostafrancs,Moianès / Vilardell                               ,Dl,Laboral,Tarda,0,1,0,1,2,2.142528,41.374559999999995,2018-04-16 19:00:00
+1,Ciutat Vella,el Raval,B-10 (Llobregat)                                  ,Ds,Laboral,Tarda,0,3,0,3,2,2.1767090000000002,41.373228000000005,2018-08-18 16:00:00
+1,Ciutat Vella,el Raval,Drassanes / Josep Carner                          ,Dc,Laboral,Matí,0,1,0,1,2,2.176656,41.374429,2018-05-02 13:00:00
+1,Ciutat Vella,el Raval,Josep Carner                                      ,Dv,Laboral,Tarda,0,1,0,1,2,2.1766900000000002,41.375019,2018-07-20 18:00:00
+1,Ciutat Vella,el Raval,Josep Carner / Drassanes                          ,Dm,Laboral,Matí,0,1,0,1,2,2.176656,41.374429,2018-10-02 13:00:00
+1,Ciutat Vella,el Raval,Josep Carner / Drassanes                          ,Ds,Laboral,Matí,0,1,0,1,2,2.176656,41.374429,2018-10-13 06:00:00
+1,Ciutat Vella,el Raval,Litoral (Llobregat)                               ,Dv,Laboral,Nit,0,0,0,0,2,2.1776240000000002,41.374301,2018-05-25 05:00:00
+1,Ciutat Vella,el Raval,Josep Carner                                      ,Dm,Laboral,Matí,0,1,0,1,2,2.1772400000000003,41.374806,2018-03-06 11:00:00
+1,Ciutat Vella,el Raval,Josep Carner / Drassanes                          ,Dm,Laboral,Matí,0,1,0,1,2,2.176656,41.374429,2018-02-13 08:00:00
+3,Sants-Montjuïc,Hostafrancs,Vilardell                                         ,Dj,Laboral,Tarda,0,2,0,2,1,2.1435560000000002,41.374487,2018-08-23 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Radas                                             ,Dv,Laboral,Tarda,0,1,0,1,2,2.16135,41.374590999999995,2018-04-13 21:00:00
+3,Sants-Montjuïc,el Poble-sec,Salvà                                             ,Ds,Laboral,Tarda,0,1,0,1,1,2.166802,41.374604999999995,2018-11-17 19:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Nou de la Rambla                      ,Dv,Laboral,Nit,0,1,0,1,1,2.170003,41.374971,2018-09-14 04:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dm,Laboral,Nit,0,1,0,1,1,2.169023,41.37516,2018-07-03 00:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dc,Laboral,Matí,0,1,0,1,2,2.165569,41.374790999999995,2018-12-05 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dm,Laboral,Tarda,0,1,0,1,2,2.166179,41.374789,2018-07-03 16:00:00
+3,Sants-Montjuïc,el Poble-sec,Poeta Cabanyes                                    ,Ds,Laboral,Nit,0,1,0,1,1,2.166102,41.374769,2018-06-16 03:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dm,Laboral,Tarda,0,0,0,0,2,2.1679209999999998,41.374786,2018-04-17 21:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Ds,Laboral,Tarda,0,1,0,1,1,2.168047,41.374786,2018-03-17 17:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dc,Laboral,Nit,0,1,0,1,2,2.168047,41.374786,2018-08-15 23:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Sant Pau                              ,Dg,Laboral,Nit,0,0,1,1,1,2.167733,41.374962,2018-07-15 00:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dj,Laboral,Nit,0,2,0,2,1,2.166693,41.374725,2018-05-10 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dj,Laboral,Matí,0,1,0,1,2,2.166566,41.374763,2018-01-04 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dj,Laboral,Matí,0,1,0,1,2,2.166377,41.374789,2018-03-01 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dj,Laboral,Tarda,0,2,0,2,2,2.165569,41.374790999999995,2018-07-19 19:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Comte Borrell                         ,Ds,Laboral,Nit,0,1,0,1,2,2.16548,41.374967,2018-07-07 01:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dv,Laboral,Matí,0,2,0,2,1,2.165569,41.374790999999995,2018-03-23 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Comte Borrell                         ,Dc,Laboral,Matí,0,4,0,4,2,2.16548,41.374967,2018-05-23 12:00:00
+3,Sants-Montjuïc,Sants - Badal,Bassegoda / Torns                                 ,Dc,Laboral,Matí,0,1,0,1,2,2.124458,41.3745,2018-11-28 06:00:00
+3,Sants-Montjuïc,Sants,Badal / Càceres                                   ,Dv,Laboral,Matí,0,2,0,2,1,2.130814,41.374568,2018-11-23 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dl,Laboral,Nit,0,1,0,1,1,2.15886,41.37481,2018-10-29 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Viladomat                             ,Dl,Laboral,Tarda,0,1,0,1,1,2.163196,41.374973,2018-11-05 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dl,Laboral,Nit,0,0,0,0,1,2.1630689999999997,41.374798,2018-08-20 02:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Reina Maria Cristina                    ,Ds,Laboral,Matí,0,1,0,1,2,2.149394,41.374654,2018-08-25 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Corts Catalanes                         ,Dv,Laboral,Matí,0,1,0,1,1,2.1495189999999997,41.375343,2018-07-27 13:00:00
+3,Sants-Montjuïc,el Poble-sec,Corts Catalanes / Espanya                         ,Ds,Laboral,Tarda,0,2,0,2,1,2.1495189999999997,41.375343,2018-11-10 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Corts Catalanes / Espanya                         ,Dc,Laboral,Tarda,0,1,0,1,1,2.1495189999999997,41.375343,2018-03-21 14:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Paral·lel                               ,Ds,Laboral,Matí,0,1,0,1,2,2.1497029999999997,41.375005,2018-12-22 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya                                           ,Dv,Laboral,Nit,0,2,0,2,2,2.148693,41.373946000000004,2018-07-27 23:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Reina Maria Cristina                    ,Dg,Laboral,Tarda,0,1,0,1,2,2.149394,41.374654,2018-05-27 17:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya                                           ,Dv,Laboral,Matí,0,1,0,1,2,2.148693,41.373946000000004,2018-11-02 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya                                           ,Dl,Laboral,Matí,0,1,0,1,2,2.150356,41.375414,2018-03-19 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Paral·lel                               ,Dv,Laboral,Nit,0,2,0,2,2,2.1497029999999997,41.375005,2018-07-13 00:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya                                           ,Dl,Laboral,Tarda,0,1,0,1,2,2.150356,41.375414,2018-10-08 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Reina Maria Cristina                    ,Dc,Laboral,Nit,0,3,0,3,2,2.149394,41.374654,2018-05-09 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Reina Maria Cristina                    ,Dc,Laboral,Tarda,0,1,0,1,2,2.149394,41.374654,2018-09-12 16:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya / Paral·lel                               ,Dc,Laboral,Tarda,0,1,0,1,2,2.1497029999999997,41.375005,2018-05-16 20:00:00
+3,Sants-Montjuïc,el Poble-sec,Espanya                                           ,Dg,Laboral,Matí,0,1,0,1,1,2.150356,41.375414,2018-02-04 09:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Parlament                             ,Dm,Laboral,Matí,0,1,0,1,2,2.160933,41.374978000000006,2018-07-24 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Calàbria                              ,Dm,Laboral,Nit,0,1,0,1,2,2.160933,41.374978000000006,2018-07-10 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dl,Laboral,Nit,0,2,0,2,3,2.160723,41.374806,2018-01-01 03:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dv,Laboral,Matí,0,1,0,1,2,2.160543,41.374806,2018-09-07 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dj,Laboral,Nit,0,1,0,1,2,2.160723,41.374806,2018-10-11 22:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Ds,Laboral,Matí,0,1,0,1,2,2.160723,41.374806,2018-09-22 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dm,Laboral,Matí,0,1,0,1,3,2.160723,41.374806,2018-03-27 08:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Ds,Laboral,Tarda,0,1,0,1,2,2.1598479999999998,41.374808,2018-05-05 21:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dv,Laboral,Matí,0,1,0,1,1,2.1598479999999998,41.374808,2018-05-18 07:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Ricart                                ,Dl,Laboral,Tarda,0,1,0,1,1,2.1586950000000003,41.374984000000005,2018-11-12 17:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dv,Laboral,Matí,0,1,0,1,2,2.15886,41.37481,2018-04-27 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Manso                                 ,Dj,Laboral,Matí,0,1,0,1,1,2.1586950000000003,41.374984000000005,2018-11-29 13:00:00
+3,Sants-Montjuïc,Hostafrancs,Vilardell                                         ,Dg,Laboral,Tarda,0,1,0,1,2,2.144957,41.374715,2018-06-03 17:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dj,Laboral,Matí,0,1,0,1,2,2.158235,41.374811,2018-06-21 10:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dl,Laboral,Tarda,0,1,0,1,2,2.158235,41.374811,2018-06-18 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dj,Laboral,Matí,0,1,0,1,2,2.158235,41.374811,2018-01-25 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dj,Laboral,Matí,0,1,0,1,2,2.15656,41.374815999999996,2018-12-20 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel                                         ,Dl,Laboral,Matí,0,1,0,1,3,2.161156,41.374807000000004,2018-04-16 11:00:00
+3,Sants-Montjuïc,el Poble-sec,Tamarit / Paral·lel                               ,Ds,Laboral,Tarda,0,1,0,1,2,2.156432,41.374990999999994,2018-02-10 18:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Tamarit                               ,Dm,Laboral,Matí,0,1,0,1,2,2.156432,41.374990999999994,2018-04-17 12:00:00
+3,Sants-Montjuïc,el Poble-sec,Paral·lel / Tamarit                               ,Dg,Laboral,Tarda,0,1,0,1,2,2.156432,41.374990999999994,2018-01-14 20:00:00
+1,Ciutat Vella,el Raval,Paral·lel                                         ,Dl,Laboral,Matí,0,1,0,1,2,2.1729689999999997,41.374949,2018-06-18 09:00:00
+1,Ciutat Vella,el Raval,Paral·lel / Palaudàries                           ,Dj,Laboral,Tarda,0,1,0,1,2,2.1732169999999997,41.374767,2018-07-12 16:00:00
