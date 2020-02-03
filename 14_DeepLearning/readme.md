@@ -25,7 +25,7 @@ For getting started:
 ## Contents
 
 Learning from Data & Optimization: 
-+ [Slides](https://github.com/DataScienceUB/Postgrau/raw/master/21_DeepLearning/DeepLearning%20Postgrau.pdf)
++ [Slides](https://github.com/DataScienceUB/Postgrau/raw/master/14_DeepLearning/DeepLearning%20Postgrau.pdf)
 + Code: <a href="https://drive.google.com/file/d/1FnjOezNLT3lOW-qaNQbzLV_9jZTLK7PF/view?usp=sharing"><img src="images/conotebook.png?raw=true" align="center" width="200" ></a>
 
 Neural Networks: 
