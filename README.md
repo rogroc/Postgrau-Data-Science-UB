@@ -90,3 +90,6 @@ Parts of the presented materials in the postgraduate course of Data Science and 
 <img src="images/llibre.jpg">
 </p>
 
+
+# Machine learning exercise (Kaggle InClass competition) link
+https://www.kaggle.com/t/f2a72ca3ecd34b9d9c638062f230f30c
