@@ -63,9 +63,9 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dj. 6 Feb. 2020	  | Deep Learning, Jordi Vitrià | 
 | dt. 11 Feb. 2020	| Causal Data Science, Jordi Vitrià |
 | dj. 13 Feb. 2020	| Practical Session, Santi/Jordi/Oriol |
-| dt. 18 Feb. 2020	| MasterClass4,  |
+| dt. 18 Feb. 2020	| Recommenders, Santi Seguí  |
 | dj. 20 Feb. 2020	| Recommenders, Santi Seguí |
-| dt. 25 Feb. 2020	| Recommenders, Santi Seguí |
+| dt. 25 Feb. 2020	|  |
 | dj. 27 Feb. 2020	| Graph Analysis, Laura Igual |
 | dt. 3 Mar. 2020	  | Graph Analysis, Laura Igual |
 | dj. 5 Mar. 2020	  | Complex Networks, Albert Diaz-Gilera |
