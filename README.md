@@ -91,5 +91,5 @@ Parts of the presented materials in the postgraduate course of Data Science and 
 </p>
 
 
-# Machine learning exercise (Kaggle InClass competition) link
+## Machine learning exercise (Kaggle InClass competition) link
 https://www.kaggle.com/t/f2a72ca3ecd34b9d9c638062f230f30c
