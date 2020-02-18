@@ -65,9 +65,9 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dj. 13 Feb. 2020	| Practical Session, Santi/Jordi/Oriol |
 | dt. 18 Feb. 2020	| Recommenders, Santi Seguí  |
 | dj. 20 Feb. 2020	| Recommenders, Santi Seguí |
-| dt. 25 Feb. 2020	|  |
+| dt. 25 Feb. 2020	| Graph Analysis, Laura Igual |
 | dj. 27 Feb. 2020	| Graph Analysis, Laura Igual |
-| dt. 3 Mar. 2020	  | Graph Analysis, Laura Igual |
+| dt. 3 Mar. 2020	  |  |
 | dj. 5 Mar. 2020	  | Complex Networks, Albert Diaz-Gilera |
 | dj. 10 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques|
 | dt. 12 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques |
