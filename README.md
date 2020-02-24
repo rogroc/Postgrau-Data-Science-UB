@@ -69,10 +69,10 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dj. 27 Feb. 2020	| Graph Analysis, Laura Igual |
 | dt. 3 Mar. 2020	  |  |
 | dj. 5 Mar. 2020	  | Complex Networks, Albert Diaz-Gilera |
-| dj. 10 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques|
-| dt. 12 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques |
-| dj. 17 Mar 2020	  | Multi Core Computing, Lluís Garrido |
-| dj. 19 Mar 2020	  | DataCrowsourcing, Josep Perello |
+| dj. 10 Mar. 2020	| DataCrowsourcing, Josep Perello |
+| dt. 12 Mar. 2020	| Multi Core Computing, Lluís Garrido|
+| dj. 17 Mar 2020	  | Cloud - Microsoft Azure, Tiago Henriques  |
+| dj. 19 Mar 2020	  | Cloud - Microsoft Azure, Tiago Henriques |
 | dj. 24 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques  |
 | dt. 26 Mar. 2020	| Algorithmic Discrimination, Carlos Castillo |
 | dj. 31 Mar 2020	  | Master Class  - LETGO |
