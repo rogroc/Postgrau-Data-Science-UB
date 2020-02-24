@@ -75,8 +75,8 @@ https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40grou
 | dj. 19 Mar 2020	  | DataCrowsourcing, Josep Perello |
 | dj. 24 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques  |
 | dt. 26 Mar. 2020	| Algorithmic Discrimination, Carlos Castillo |
-| dj. 31 Mar 2020	  | Capstone Project |
-| dj. 7 May. 2020	  | Master Class  |
+| dj. 31 Mar 2020	  | Master Class  - LETGO |
+| dj. 7 May. 2020	  | Capstone Project|
 | dj. 21 May. 2020	| Capstone Project  |
 | Dt. 2  Jul. 2020	| Capstone Project Presentations |
 
