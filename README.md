@@ -9,7 +9,7 @@ We will require to follow lessons and complete class exercises using personal la
 
 Before the first class you need to:
 
-+ Install Anaconda Python 3.6 version: Anaconda Distribution is a free, easy-to-install package manager, environment manager and Python distribution with a collection of over 720 open source packages with free community support.
++ Install Anaconda Python 3.8 version: Anaconda Distribution is a free, easy-to-install package manager, environment manager and Python distribution with a collection of over 720 open source packages with free community support.
 + Have a (free) account at GitHub: GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features.
 
 ## Instructors
