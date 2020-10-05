@@ -1,4 +1,4 @@
-# Data Science and Big Data Postgraduate Course at Universitat de Barcelona, 2019-20
+# Data Science and Big Data Postgraduate Course at Universitat de Barcelona, 2020-21
 
 Data Science and Big Data
 course offers students a program that covers the concepts and tools you will need throughout the entire data science pipeline: asking the right questions; wrangling and cleaning data; generating hypothesis; making inferences; visualizing data; assessing solutions; and building data products.
@@ -24,61 +24,47 @@ Laura Igual, Petia Radeva, Oriol Pujol, Jordi Vitrià, Lluis Garrido, Albert Dí
 </p>
 -->
 ## Calendar
-Google Calendar Link:
-https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40group.calendar.google.com&ctz=Europe%2FMadrid
+<!--Google Calendar Link:
+https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40group.calendar.google.com&ctz=Europe%2FMadrid-->
 
-| Date        | Session           | 
+| Date   Group A | Date Group B     | Session           | 
 | :-------------: | ------------- | 
-| dt. 1 Oct. 2019      | Introduction, Jordi Vitrià |  
-| dj. 3 Oct. 2019	| Python, Eloi Puertas | 
-| dt. 8 Oct. 2019	| Software Carpentry, Eloi Puertas  | 
-| dj. 10 Oct. 2019	| Data Science Toolbox, Eloi Puertas |
-| dt. 15 Oct. 2019	|  Data Science Toolbox, Eloi Puertas| 
-| dj. 17 Oct. 2019	| Practical Session, Eloi Puertas |
-| dt. 22 Oct. 2019	| Data Gathering, Oriol Pujol |
-| dj. 24 Oct. 2019 (18.30h)	| MasterClass1 - KING Games |
-| dt. 29 Oct. 2019	| Data Gathering, Oriol Pujol |
-| dt. 5 Nov. 2019	| Textual Data Analysis, Santi Seguí |
-| dj. 7 Nov. 2019	| Computational Statistics, Petia Radeva |
-| dt. 12 Nov. 2019	| Textual Data Analysis, Santi Seguí |
-| dj. 14 Nov. 2019	| Statistical Estimation, Jordi Vitrià |
-| dt. 19 Nov. 2019	| Regression, Laura Igual | 
-| dj. 21 Nov. 2019	|  NO CLASS | 
-| dt. 26 Nov. 2019	| Regression, Laura Igual |
-| dj. 28 Nov. 2019	| Statistics with R, Montse Guillen | 
-| dt.  3 Dec. 2019	| Statistics with R, Montse Guillen |
-| dm.  4 Dec. 2019 (18.30h)	| MasterClass1 - KING Games |
-| dt. 10 Dec. 2019	| Visualization, Mireia Ribera |
-| dj. 12 Dec. 2019	| MasterClass2 - NESTLE  |
-| dt. 17 Dec. 2019	| Visualization, Mireia Ribera  |
-| dt.  7 Jan. 2020	| Bayesian Estimation, Jordi Vitrià |
-| dj. 9 Jan. 2020	  | Bayesian Estimation, Jordi Vitrià |
-| dt. 14 Jan. 2020	| Supervised Learning, Oriol Pujol |
-| dj. 16 Jan. 2020	| Supervised Learning, Oriol Pujol |
-| dt. 21 Jan. 2020	| Supervised Learning, Oriol Pujol |
-| dj. 23 Jan. 2020	| Supervised Learning, Oriol Pujol |
-| dt. 28 Jan. 2020	| Unsupervised Learning, Petia Radeva | 
-| dj. 30 Jan. 2020	| Unsupervised Learning, Petia Radeva | 
-| dt. 4 Feb. 2020	  | Deep Learning, Jordi Vitrià | 
-| dj. 6 Feb. 2020	  | Deep Learning, Jordi Vitrià | 
-| dt. 11 Feb. 2020	| Causal Data Science, Jordi Vitrià |
-| dj. 13 Feb. 2020	| Practical Session, Santi/Jordi/Oriol |
-| dt. 18 Feb. 2020	| Recommenders, Santi Seguí  |
-| dj. 20 Feb. 2020	| Recommenders, Santi Seguí |
-| dt. 25 Feb. 2020	| Graph Analysis, Laura Igual |
-| dj. 27 Feb. 2020	| Graph Analysis, Laura Igual |
-| dt. 3 Mar. 2020	  |  |
-| dj. 5 Mar. 2020	  | Complex Networks, Albert Diaz-Gilera |
-| dj. 10 Mar. 2020	| DataCrowsourcing, Josep Perello |
-| dt. 12 Mar. 2020	| Multi Core Computing, Lluís Garrido|
-| dj. 17 Mar 2020	  | Cloud - Microsoft Azure, Tiago Henriques  |
-| dj. 19 Mar 2020	  | Cloud - Microsoft Azure, Tiago Henriques |
-| dj. 24 Mar. 2020	| Cloud - Microsoft Azure, Tiago Henriques  |
-| dt. 26 Mar. 2020	| Algorithmic Discrimination, Carlos Castillo |
-| dj. 31 Mar 2020	  | Master Class  - LETGO |
-| dj. 7 May. 2020	  | Capstone Project|
-| dj. 21 May. 2020	| Capstone Project  |
-| Dt. 2  Jul. 2020	| Capstone Project Presentations |
+| dt. 6 Oct. 2020   | dt. 8 Oct. 2020   |  Introduction, Jordi Vitrià |  
+| dt. 13 Oct. 2020	| dj. 15 Oct. 2020	|  Python / Software Carpentry, Eloi Puertas | 
+| dt. 20 Oct. 2020	| dj. 22 Oct. 2020	|  Data Science Toolbox, Eloi Puertas |
+| dt. 27 Oct. 2020	| dj. 29 Oct. 2020	|  Data Gathering, Oriol Pujol| 
+| dt. 3 Nov. 2020	  | dj. 5 Nov. 2020	  |  Textual Data Analysis, Santi Seguí |
+| dt. 10 Nov. 2020	| dj. 12 Nov. 2020	|  Computational Statistics, Petia Radeva |
+| dt. 17 Nov. 2020	| dj. 19 Nov. 2020	|  Statistical Estimation, Jordi Vitrià |
+| dt. 24 Nov. 2020	| dj. 26 Nov. 2020	|  Regression, Laura Igual | 
+| dt. 1 Dec. 2020	  | dj. 3 Dec. 2020	  |  Statistics with R, Montse Guillen | 
+| dj. 10 Dec. 2020	|  dj. 10 Dec. 2020	|  ONLINE Session - Practical Sessión | 
+| dt. 15 Dec. 2020	| dj. 17 Dec. 2020	|  Visualization, Mireia Ribera |
+
+| dt. 12 Jan. 2021	| dj. 14 Jan. 2021	|  Bayesian Estimation, Jordi Vitrià |
+| dt. 19 Jan. 2021	| dj. 21 Jan. 2021	|  Supervised Learning, Oriol Pujol |
+| dt. 26 Jan. 2021	| dj. 28 Jan. 2021	|  Supervised Learning, Oriol Pujol |
+| dt. 2  Feb. 2021	| dj. 4 Feb. 2021	  |  Supervised Learning, Oriol Pujol |
+| dt. 9  Feb. 2021	| dj. 11 Feb. 2021	|  Unsupervised Learning, Petia Radeva | 
+| dt. 16  Feb. 2021	| dj. 18 Feb. 2021	|  Deep Learning, Jordi Vitrià | 
+| dt. 23  Feb. 2021	| dj. 25 Feb. 2021	|  Supervised Learning, Oriol Pujol |
+
+| dt. 2  Mar. 2021	| dj. 4 Mar. 2021	  |  Recommenders, Santi Seguí  |
+| dt. 9  Mar. 2021	| dj. 11 Mar. 2021	|  Graph Analysis, Laura Igual |
+| dt. 16  Mar. 2021	| dj. 18 Mar. 2021	|  Complex Networks, Albert Diaz-Gilera |
+| dt. 23  Mar. 2021	| dj. 25 Mar. 2021	|  Cloud - Microsoft Azure, Tiago Henriques  |
+| dt. 6  Apr. 2021	| dj. 8 Apr. 2021	  |  Cloud - Microsoft Azure, Tiago Henriques  |
+
+| dt. 13  Apr. 2021	| dj. 15 Apr. 2021	| Capstone Project|
+| dt. 11  May. 2021	| dj. 13 May. 2021	 | Capstone Project|
+| Dt. 1  Jul. 2020	| Capstone Project Presentations |
+
+
+
+
+
+<!--| dt. 26 Mar. 2020	| Algorithmic Discrimination, Carlos Castillo |-->
+
 
 
 
@@ -91,5 +77,5 @@ Parts of the presented materials in the postgraduate course of Data Science and 
 </p>
 
 
-## Machine learning exercise (Kaggle InClass competition) link
-https://www.kaggle.com/t/f2a72ca3ecd34b9d9c638062f230f30c
+<!--## Machine learning exercise (Kaggle InClass competition) link
+https://www.kaggle.com/t/f2a72ca3ecd34b9d9c638062f230f30c-->
