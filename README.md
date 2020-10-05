@@ -27,7 +27,7 @@ Laura Igual, Petia Radeva, Oriol Pujol, Jordi Vitrià, Lluis Garrido, Albert Dí
 <!--Google Calendar Link:
 https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40group.calendar.google.com&ctz=Europe%2FMadrid-->
 
-|  Group Tuesdays | Date Thursdays     | Session           | 
+| Group 1 (Tuesdays) | Group 2 (Thursdays)     | Session           | 
 | :-------------: | ------------- |  ------ | 
 | dt. 6 Oct. 2020   | dt. 8 Oct. 2020   |  Introduction, Jordi Vitrià |  
 | dt. 13 Oct. 2020	| dj. 15 Oct. 2020	|  Python / Software Carpentry, Eloi Puertas | 
