@@ -28,7 +28,7 @@ Laura Igual, Petia Radeva, Oriol Pujol, Jordi Vitrià, Lluis Garrido, Albert Dí
 https://calendar.google.com/calendar/embed?src=q30tlenjjfgor26u47hs3ugf28%40group.calendar.google.com&ctz=Europe%2FMadrid-->
 
 | Date   Group A | Date Group B     | Session           | 
-| :-------------: | ------------- | | 
+| :-------------: | ------------- |  ------ | 
 | dt. 6 Oct. 2020   | dt. 8 Oct. 2020   |  Introduction, Jordi Vitrià |  
 | dt. 13 Oct. 2020	| dj. 15 Oct. 2020	|  Python / Software Carpentry, Eloi Puertas | 
 | dt. 20 Oct. 2020	| dj. 22 Oct. 2020	|  Data Science Toolbox, Eloi Puertas |
