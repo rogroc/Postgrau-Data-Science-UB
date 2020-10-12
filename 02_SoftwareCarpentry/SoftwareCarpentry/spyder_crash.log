@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/Users/eloi/anaconda2/lib/python2.7/site-packages/spyderlib/spyder.py", line 2331, in main
+    mainwindow = run_spyder(app, options, args)
+  File "/Users/eloi/anaconda2/lib/python2.7/site-packages/spyderlib/spyder.py", line 2215, in run_spyder
+    main.setup()
+  File "/Users/eloi/anaconda2/lib/python2.7/site-packages/spyderlib/spyder.py", line 768, in setup
+    self.editor = Editor(self)
+  File "/Users/eloi/anaconda2/lib/python2.7/site-packages/spyderlib/plugins/editor.py", line 448, in __init__
+    self.load(filenames)
+  File "/Users/eloi/anaconda2/lib/python2.7/site-packages/spyderlib/plugins/editor.py", line 1697, in load
+    finfo = self.editorstacks[0].load(filename, set_current=False)
+  File "/Users/eloi/anaconda2/lib/python2.7/site-packages/spyderlib/widgets/editor.py", line 1812, in load
+    text, enc = encoding.read(filename)
+  File "/Users/eloi/anaconda2/lib/python2.7/site-packages/spyderlib/utils/encoding.py", line 213, in read
+    text, encoding = decode( open(filename, 'rb').read() )
+IOError: [Errno 1] Operation not permitted: u'/Users/eloi/Downloads/sieveExample.py'
