@@ -20,5 +20,5 @@ We use different real data sets:
 - Visualization (Seaborn)
 - Prediction (Scikit-learn)
 - Sparse models 
-- Logistic Regresion
 - Statistics (StatsModel)
+- Logistic Regresion
